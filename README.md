@@ -1,4 +1,7 @@
-## datahoarder/ssa_baby_names
+## datahoarder/usgs_earthquakes
 
-Data fetched from the U.S. Social Security Administration
+Data fetched from the USGS Earthquake Archives
 
+
+- Archive search form: http://earthquake.usgs.gov/earthquakes/search/
+- USGS CSV specification: http://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php
