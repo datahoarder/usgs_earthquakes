@@ -1,0 +1,892 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1987-05-01T00:16:19.550Z,43.771,20.373,12.7,2.8,ml,,,,1.1,us,usp00034ma,2014-11-07T00:40:18.768Z,"Serbia",earthquake
+1987-05-01T00:46:11.630Z,-57.868,157.803,33,5,mb,,,,1.2,us,usp00034mb,2014-11-07T00:40:19.312Z,"Macquarie Island region",earthquake
+1987-05-01T00:50:54.970Z,16.885,-98.315,71,4.5,mb,,,,1,us,usp00034mc,2014-11-07T00:40:19.342Z,"Guerrero, Mexico",earthquake
+1987-05-01T00:54:09.040Z,15.075,-97.514,33,4.7,mb,,,,1.1,us,usp00034md,2014-11-07T00:40:19.379Z,"offshore Oaxaca, Mexico",earthquake
+1987-05-01T01:32:24.120Z,-0.665,131.313,33,3.8,mb,,,,1.5,us,usp00034me,2014-11-07T00:40:19.421Z,"near the north coast of Papua, Indonesia",earthquake
+1987-05-01T02:29:04.980Z,-38.633,47.848,10,4.9,mb,,,,0.6,us,usp00034mf,2014-11-07T00:40:19.450Z,"Southwest Indian Ridge",earthquake
+1987-05-01T02:52:18.120Z,16.699,-98.501,33,3.9,mb,,,,0.9,us,usp00034mg,2014-11-07T00:40:19.469Z,"Guerrero, Mexico",earthquake
+1987-05-01T04:25:27.570Z,59.909,-147.854,28.8,,,,,,,us,usp00034mh,2014-11-07T00:40:19.482Z,"Gulf of Alaska",earthquake
+1987-05-01T06:09:49.750Z,52.54,-0.863,10,3.4,ml,,,,1.2,us,usp00034mj,2014-11-07T00:40:19.512Z,"England, United Kingdom",earthquake
+1987-05-01T06:46:37.120Z,-15.343,-173.422,33,5.3,mb,,,,0.9,us,usp00034mk,2014-11-07T00:40:19.537Z,"Tonga",earthquake
+1987-05-01T06:48:15.650Z,16.586,-98.47,23.8,4.9,mb,,,,1.1,us,usp00034mm,2014-11-07T00:40:19.607Z,"Guerrero, Mexico",earthquake
+1987-05-01T06:52:14.470Z,35.444,140.645,74.4,4.9,mb,,,,1.2,us,usp00034mn,2014-11-07T00:40:19.656Z,"near the east coast of Honshu, Japan",earthquake
+1987-05-01T08:02:46.660Z,-4.227,139.496,33,4.1,mb,,,,1,us,usp00034mp,2014-11-07T00:40:19.713Z,"Papua, Indonesia",earthquake
+1987-05-01T08:11:32.200Z,40.586,30.182,10,,,,,,0.4,us,usp00034mq,2014-11-07T00:40:19.724Z,"western Turkey",earthquake
+1987-05-01T11:32:45.860Z,46.976,8.657,10,,,,,,0.4,us,usp00034mr,2014-11-07T00:40:19.731Z,"Switzerland",earthquake
+1987-05-01T13:30:45.160Z,-23.96,179.105,602.1,4.7,mb,,,,0.5,us,usp00034ms,2014-11-07T00:40:19.740Z,"south of the Fiji Islands",earthquake
+1987-05-01T13:39:57.120Z,47.564,-113.726,5,3.2,ml,,,,0.4,us,usp00034mt,2014-11-07T00:40:19.762Z,"western Montana",earthquake
+1987-05-01T15:05:08.500Z,40.4,-123.7,20,2.5,ml,,,,,us,usp00034mu,2014-11-07T00:40:19.769Z,"Northern California",earthquake
+1987-05-01T15:25:57.590Z,-14.988,-176.667,363.5,4.6,mb,,,,1.3,us,usp00034mv,2014-11-07T00:40:19.775Z,"Fiji region",earthquake
+1987-05-01T15:45:23.030Z,16.225,-61.438,10,2,ml,,,,0.9,us,usp00034mw,2014-11-07T00:40:19.834Z,"Grande-Terre, Guadeloupe, Leeward Islands",earthquake
+1987-05-01T19:15:24.880Z,-26.3,28.388,5,4.2,mb,,,,1.1,us,usp00034mx,2014-11-07T00:40:19.840Z,"South Africa",earthquake
+1987-05-01T19:58:47.250Z,-28.907,-72.192,10,4.6,mb,,,,0.6,us,usp00034my,2014-11-07T00:40:19.853Z,"offshore Atacama, Chile",earthquake
+1987-05-01T20:06:13.810Z,42.585,19.16,10,2.1,ml,,,,0.5,us,usp00034mz,2014-11-07T00:40:19.867Z,"Montenegro",earthquake
+1987-05-01T20:30:13.200Z,-28.962,-70.482,33,,,,,,1.4,us,usp00034n0,2014-11-07T00:40:19.874Z,"Atacama, Chile",earthquake
+1987-05-01T20:31:40.440Z,-2.843,141.317,49.9,4.3,mb,,,,1.1,us,usp00034n1,2014-11-07T00:40:19.890Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1987-05-01T20:59:25.310Z,61.25,-146.694,18.1,,,,,,,us,usp00034n2,2014-11-07T00:40:19.903Z,"Southern Alaska",earthquake
+1987-05-01T21:15:09.120Z,36.053,27.29,36.7,4.6,mb,,,,1.2,us,usp00034n3,2014-11-07T00:40:19.925Z,"Dodecanese Islands, Greece",earthquake
+1987-05-01T22:22:34.800Z,39.813,-123.17,7,3.8,mb,,,,,us,usp00034n4,2014-11-07T00:40:19.939Z,"Northern California",earthquake
+1987-05-01T23:06:17.180Z,37.108,141.832,47.6,5.1,mw,,,,1.1,us,usp00034n5,2015-02-11T17:15:29.000Z,"near the east coast of Honshu, Japan",earthquake
+1987-05-01T23:08:50.770Z,40.13,29.317,10,,,,,,0.4,us,usp00034n6,2014-11-07T00:40:20.054Z,"western Turkey",earthquake
+1987-05-02T03:02:35.860Z,36.047,27.262,33,3.9,mb,,,,1.2,us,usp00034n7,2014-11-07T00:40:20.058Z,"Dodecanese Islands, Greece",earthquake
+1987-05-02T03:26:28.720Z,40.689,30.274,10,,,,,,0.6,us,usp00034n8,2014-11-07T00:40:20.075Z,"western Turkey",earthquake
+1987-05-02T04:34:40.940Z,-18.327,168.188,208.1,4.3,mb,,,,0.7,us,usp00034n9,2014-11-07T00:40:20.080Z,"Vanuatu",earthquake
+1987-05-02T05:28:35.250Z,5.155,122.955,602.4,4.3,mb,,,,1,us,usp00034na,2014-11-07T00:40:20.090Z,"Celebes Sea",earthquake
+1987-05-02T08:00:56.620Z,-12.489,-75.929,31.1,,,,,,0.6,us,usp00034nb,2014-11-07T00:40:20.097Z,"central Peru",earthquake
+1987-05-02T08:07:32.030Z,-26.306,27.216,5,3.6,m,,,,0.9,us,usp00034nc,2014-11-07T00:40:20.103Z,"South Africa",earthquake
+1987-05-02T09:05:34.200Z,41.904,24.654,10.6,3.3,mb,,,,1.1,us,usp00034nd,2014-11-07T00:40:20.120Z,"Bulgaria",earthquake
+1987-05-02T10:50:34.230Z,48.975,-114.874,5,2.9,ml,,,,0.8,us,usp00034ne,2014-11-07T00:40:20.151Z,"western Montana",earthquake
+1987-05-02T12:48:25.910Z,31.455,141.697,33,4.4,mb,,,,1.2,us,usp00034nf,2014-11-07T00:40:20.160Z,"Izu Islands, Japan region",earthquake
+1987-05-02T13:07:52.690Z,9.441,127.26,33,,,,,,1.5,us,usp00034ng,2014-11-07T00:40:20.186Z,"Philippine Islands region",earthquake
+1987-05-02T13:58:49.140Z,-7.545,128.167,178.1,4.7,mb,,,,1.5,us,usp00034nh,2014-11-07T00:40:20.195Z,"Kepulauan Barat Daya, Indonesia",earthquake
+1987-05-02T14:02:34.520Z,43.082,27.487,14.7,3.6,mb,,,,1.2,us,usp00034nj,2014-11-07T00:40:20.208Z,"Bulgaria",earthquake
+1987-05-02T17:09:10.540Z,38.796,21.204,33,3.7,mb,,,,1.4,us,usp00034nk,2014-11-07T00:40:20.231Z,"Greece",earthquake
+1987-05-02T17:47:59.760Z,59.178,-145.276,15,3.5,ml,,,,,us,usp00034nm,2014-11-07T00:40:20.246Z,"Gulf of Alaska",earthquake
+1987-05-02T18:03:11.110Z,43.978,16.653,11.5,3.4,md,,,,1,us,usp00034nn,2014-11-07T00:40:20.263Z,"Bosnia and Herzegovina",earthquake
+1987-05-02T18:16:59.660Z,6.081,125.945,144.7,5,mb,,,,1,us,usp00034np,2014-11-07T00:40:20.275Z,"Mindanao, Philippines",earthquake
+1987-05-02T19:21:29.690Z,54.801,-160.103,33,5.3,mw,,,,1,us,usp00034nq,2015-02-11T17:15:29.000Z,"Alaska Peninsula",earthquake
+1987-05-02T20:06:01.400Z,43.433,12.744,10,3.2,ml,,,,1.3,us,usp00034nr,2014-11-07T00:40:20.393Z,"central Italy",earthquake
+1987-05-02T20:43:53.000Z,44.818,10.723,10,4.8,mb,,,,1.3,us,usp00034ns,2015-02-03T22:10:34.342Z,"northern Italy",earthquake
+1987-05-02T20:59:58.640Z,40.332,14.353,10,,,,,,1.4,us,usp00034nt,2014-11-07T00:40:20.511Z,"southern Italy",earthquake
+1987-05-02T21:38:33.270Z,39.569,74.541,33,4.6,mb,,,,1.4,us,usp00034nu,2014-11-07T00:40:20.514Z,"southern Xinjiang, China",earthquake
+1987-05-02T21:38:33.920Z,-28.528,-67.305,110.1,4.6,mb,,,,1.2,us,usp00034nv,2014-11-07T00:40:20.524Z,"La Rioja, Argentina",earthquake
+1987-05-02T22:12:23.190Z,60.657,5.034,10,2,md,,,,0.5,us,usp00034nw,2014-11-07T00:40:20.530Z,"southern Norway",earthquake
+1987-05-02T22:16:47.210Z,44.788,10.696,10,2.8,ml,,,,0.7,us,usp00034nx,2014-11-07T00:40:20.535Z,"northern Italy",earthquake
+1987-05-02T22:36:19.880Z,-24.255,-66.971,127.3,4.2,mb,,,,1.4,us,usp00034ny,2014-11-07T00:40:20.541Z,"Salta, Argentina",earthquake
+1987-05-02T23:16:31.280Z,41.234,23.174,10,,,,,,0.2,us,usp00034nz,2014-11-07T00:40:20.547Z,"Greece-Bulgaria border region",earthquake
+1987-05-02T23:49:24.150Z,-30.612,121.355,10,,,,,,0.7,us,usp00034p0,2014-11-07T00:40:20.550Z,"Western Australia",earthquake
+1987-05-03T00:39:23.340Z,37.795,68.437,33,4.3,mb,,,,1.3,us,usp00034p1,2014-11-07T00:40:20.553Z,"Tajikistan",earthquake
+1987-05-03T01:55:57.290Z,37.25,141.48,55,4.6,mb,,,,1,us,usp00034p2,2014-11-07T00:40:20.564Z,"near the east coast of Honshu, Japan",earthquake
+1987-05-03T06:44:43.920Z,60.185,-153.037,126.3,,,,,,,us,usp00034p3,2014-11-07T00:40:20.573Z,"Southern Alaska",earthquake
+1987-05-03T07:53:29.350Z,-15.352,-7.065,10,4.8,mb,,,,1,us,usp00034p4,2014-11-07T00:40:20.586Z,"South Atlantic Ocean",earthquake
+1987-05-03T08:05:55.300Z,36.605,31.208,10,,,,,,0.5,us,usp00034p5,2014-11-07T00:40:20.595Z,"western Turkey",earthquake
+1987-05-03T09:34:02.120Z,40.898,29.655,10,,,,,,1.5,us,usp00034p6,2014-11-07T00:40:20.598Z,"western Turkey",earthquake
+1987-05-03T11:02:43.890Z,-28.05,-177.413,62,4.8,mb,,,,1.2,us,usp00034p7,2014-11-07T00:40:20.600Z,"Kermadec Islands region",earthquake
+1987-05-03T11:35:16.550Z,-25.229,178.438,576.9,5.3,mw,,,,1,us,usp00034p8,2015-02-11T17:15:29.000Z,"south of the Fiji Islands",earthquake
+1987-05-03T12:26:55.310Z,-49.199,164.645,33,5.2,mw,,,,1.1,us,usp00034p9,2015-02-11T17:15:29.000Z,"Auckland Islands, New Zealand region",earthquake
+1987-05-03T13:10:05.120Z,-27.289,-71.405,10,4.5,ms,,,,1.2,us,usp00034pa,2014-11-07T00:40:20.737Z,"offshore Atacama, Chile",earthquake
+1987-05-03T16:10:45.210Z,-26.923,-72.343,33,,,,,,1.3,us,usp00034pb,2014-11-07T00:40:20.815Z,"off the coast of Atacama, Chile",earthquake
+1987-05-03T16:22:22.790Z,43.685,12.824,10,,,,,,1,us,usp00034pc,2014-11-07T00:40:20.820Z,"central Italy",earthquake
+1987-05-03T16:46:10.550Z,-20.833,-178.577,569.1,5.7,mw,,,,1,us,usp00034pd,2015-05-13T18:53:25.000Z,"Fiji region",earthquake
+1987-05-03T16:55:18.430Z,16.851,145.644,174.7,5,mb,,,,0.9,us,usp00034pe,2014-11-07T00:40:21.005Z,"Anatahan region, Northern Mariana Islands",earthquake
+1987-05-03T17:07:17.090Z,42.169,9.895,11.9,3.3,ml,,,,0.8,us,usp00034pf,2014-11-07T00:40:21.040Z,"Corsica, France",earthquake
+1987-05-03T17:21:23.450Z,28.437,127.621,217.4,5.3,mw,,,,1,us,usp00034pg,2015-02-11T17:15:29.000Z,"northwest of the Ryukyu Islands, Japan",earthquake
+1987-05-03T18:18:37.240Z,-32.416,-70.197,110.2,3.5,mb,,,,0.6,us,usp00034ph,2014-11-07T00:40:21.182Z,"Valparaiso, Chile",earthquake
+1987-05-03T21:26:18.810Z,45.681,10.978,15.1,3.3,ml,,,,1.3,us,usp00034pj,2014-11-07T00:40:21.192Z,"northern Italy",earthquake
+1987-05-03T21:28:24.730Z,39.027,25.693,10,3.4,ml,,,,1.3,us,usp00034pk,2014-11-07T00:40:21.208Z,"Aegean Sea",earthquake
+1987-05-03T22:11:57.680Z,-23.422,-179.55,545.4,4,mb,,,,1.2,us,usp00034pm,2014-11-07T00:40:21.212Z,"south of the Fiji Islands",earthquake
+1987-05-03T22:48:21.340Z,56.697,-6.073,10,2.5,ml,,,,0.7,us,usp00034pn,2014-11-07T00:40:21.247Z,"Scotland, United Kingdom",earthquake
+1987-05-03T23:36:57.210Z,-3.735,140.822,33,4.2,mb,,,,1.2,us,usp00034pp,2014-11-07T00:40:21.255Z,"Papua, Indonesia",earthquake
+1987-05-04T00:04:28.150Z,-57.717,-25.63,33,4.1,mb,,,,1.2,us,usp00034pq,2014-11-07T00:40:21.264Z,"South Sandwich Islands region",earthquake
+1987-05-04T01:52:25.060Z,16.69,-94.467,105.4,4.6,mb,,,,1,us,usp00034pr,2014-11-07T00:40:21.343Z,"Oaxaca, Mexico",earthquake
+1987-05-04T04:08:01.640Z,-59.576,-27.974,33,4.7,mb,,,,1.4,us,usp00034ps,2014-11-07T00:40:21.427Z,"South Sandwich Islands region",earthquake
+1987-05-04T06:24:33.820Z,2.062,126.638,63.9,5.2,mb,,,,1,us,usp00034pt,2014-11-07T00:40:21.506Z,"Molucca Sea",earthquake
+1987-05-04T06:29:35.300Z,-4.545,137.363,33,5.2,mb,,,,1.3,us,usp00034pu,2014-11-07T00:40:21.918Z,"Papua, Indonesia",earthquake
+1987-05-04T08:19:54.420Z,18.813,145.392,223.6,4.2,mb,,,,0.4,us,usp00034pv,2014-11-07T00:40:21.987Z,"Pagan region, Northern Mariana Islands",earthquake
+1987-05-04T08:43:14.200Z,32.99,-117.73,6,3,ml,,,,,us,usp00034pw,2014-11-07T00:40:21.990Z,"Gulf of Santa Catalina, California",earthquake
+1987-05-04T09:08:13.870Z,-5.963,133.852,33,3.8,mb,,,,1.2,us,usp00034px,2014-11-07T00:40:21.993Z,"Kepulauan Kai, Indonesia",earthquake
+1987-05-04T09:44:13.820Z,-39.039,174.948,264.7,3.3,mb,,,,0.3,us,usp00034py,2014-11-07T00:40:22.010Z,"North Island of New Zealand",earthquake
+1987-05-04T09:47:46.940Z,37.425,72.345,191.3,4.5,mb,,,,1.2,us,usp00034pz,2014-11-07T00:40:22.015Z,"Tajikistan",earthquake
+1987-05-04T10:22:55.820Z,28.879,131.689,37.7,4.8,mb,,,,1,us,usp00034q0,2014-11-07T00:40:22.027Z,"southeast of the Ryukyu Islands, Japan",earthquake
+1987-05-04T10:58:17.720Z,61.896,-152.05,122.6,,,,,,,us,usp00034q1,2014-11-07T00:40:22.044Z,"Southern Alaska",earthquake
+1987-05-04T11:06:32.900Z,-6.653,155.905,177.7,4.7,mb,,,,1.1,us,usp00034q2,2014-11-07T00:40:22.053Z,"Bougainville region, Papua New Guinea",earthquake
+1987-05-04T11:14:08.730Z,63.831,-145.645,33,3.8,ml,,,,0.7,us,usp00034q3,2014-11-07T00:40:22.059Z,"Central Alaska",earthquake
+1987-05-04T11:58:20.520Z,43.707,20.601,10,3,ml,,,,1.3,us,usp00034q4,2014-11-07T00:40:22.063Z,"Serbia",earthquake
+1987-05-04T12:47:27.920Z,-12.57,28.069,10,,,,,,0.8,us,usp00034q5,2014-11-07T00:40:22.075Z,"Zambia",earthquake
+1987-05-04T14:38:11.750Z,-33.192,-69.68,128.9,,,,,,1,us,usp00034q6,2014-11-07T00:40:22.078Z,"Mendoza, Argentina",earthquake
+1987-05-04T15:24:11.320Z,60.731,5.533,10,1.7,md,,,,0.3,us,usp00034q7,2014-11-07T00:40:22.083Z,"southern Norway",earthquake
+1987-05-04T16:43:11.000Z,7.078,126.733,115.8,4.4,mb,,,,0.6,us,usp00034q8,2014-11-07T00:40:22.085Z,"Mindanao, Philippines",earthquake
+1987-05-04T17:04:15.610Z,43.815,145.904,30.3,4.9,mb,,,,1.3,us,usp00034q9,2014-11-07T00:40:22.091Z,"Hokkaido, Japan region",earthquake
+1987-05-04T17:37:43.110Z,-28.281,-176.392,80.1,5.3,mw,,,,1.4,us,usp00034qa,2015-02-11T17:15:29.000Z,"Kermadec Islands region",earthquake
+1987-05-04T18:44:14.030Z,-7.153,147.964,108.1,,,,,,1.4,us,usp00034qb,2014-11-07T00:40:22.115Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1987-05-04T19:06:51.820Z,21.802,121.771,36.1,4.4,mb,,,,1,us,usp00034qc,2014-11-07T00:40:22.118Z,"Taiwan region",earthquake
+1987-05-04T21:10:38.170Z,44.683,9.238,22.1,2.8,ml,,,,0.7,us,usp00034qd,2014-11-07T00:40:22.127Z,"northern Italy",earthquake
+1987-05-04T21:33:07.530Z,39.043,28.433,10,,,,,,1.4,us,usp00034qe,2014-11-07T00:40:22.131Z,"western Turkey",earthquake
+1987-05-04T23:02:56.240Z,-6.85,130.181,120.7,4.4,mb,,,,0.9,us,usp00034qf,2014-11-07T00:40:22.133Z,"Banda Sea",earthquake
+1987-05-04T23:17:21.500Z,46.953,-27.41,10,5.3,mw,,,,1,us,usp00034qg,2015-02-11T17:15:29.000Z,"northern Mid-Atlantic Ridge",earthquake
+1987-05-04T23:48:34.250Z,37.618,-31.913,10,5.5,mw,,,,1,us,usp00034qh,2015-02-11T17:15:29.000Z,"Azores Islands region",earthquake
+1987-05-05T00:05:41.750Z,63.174,-150.876,130.4,4.1,mb,,,,0.9,us,usp00034qj,2014-11-07T00:40:22.374Z,"Central Alaska",earthquake
+1987-05-05T00:10:52.640Z,47.007,-27.419,10,4.7,mb,,,,0.9,us,usp00034qk,2014-11-07T00:40:22.385Z,"northern Mid-Atlantic Ridge",earthquake
+1987-05-05T00:12:44.230Z,39.33,27.941,10,,,,,,0.7,us,usp00034qm,2014-11-07T00:40:22.518Z,"western Turkey",earthquake
+1987-05-05T00:31:17.560Z,-28.159,-176.35,33,5,mb,,,,0.9,us,usp00034qn,2014-11-07T00:40:22.526Z,"Kermadec Islands region",earthquake
+1987-05-05T01:10:50.830Z,37.294,-32.024,10,4.7,mb,,,,1,us,usp00034qp,2014-11-07T00:40:22.536Z,"Azores Islands region",earthquake
+1987-05-05T02:50:44.710Z,8.992,126.542,33,,,,,,0.6,us,usp00034qq,2014-11-07T00:40:22.542Z,"Mindanao, Philippines",earthquake
+1987-05-05T02:57:08.590Z,37.344,-32.006,10,5,mb,,,,0.9,us,usp00034qr,2014-11-07T00:40:22.545Z,"Azores Islands region",earthquake
+1987-05-05T03:30:06.570Z,41.45,23.619,10,1.5,ml,,,,0.4,us,usp00034qs,2014-11-07T00:40:22.560Z,"Bulgaria",earthquake
+1987-05-05T03:33:44.820Z,40.701,29.875,10,,,,,,1,us,usp00034qt,2014-11-07T00:40:22.562Z,"western Turkey",earthquake
+1987-05-05T04:04:07.310Z,34.517,104.404,33,3.8,ml,,,,0.3,us,usp00034qu,2014-11-07T00:40:22.564Z,"Gansu, China",earthquake
+1987-05-05T04:52:49.690Z,36.597,70.165,183,4.8,mb,,,,0.6,us,usp00034qv,2014-11-07T00:40:22.568Z,"Hindu Kush region, Afghanistan",earthquake
+1987-05-05T05:19:43.870Z,37.231,141.324,89.9,4.7,mb,,,,1,us,usp00034qw,2014-11-07T00:40:22.573Z,"near the east coast of Honshu, Japan",earthquake
+1987-05-05T06:14:59.330Z,39.252,27.873,10,,,,,,1,us,usp00034qx,2014-11-07T00:40:22.590Z,"western Turkey",earthquake
+1987-05-05T07:03:37.470Z,37.161,141.918,33,4.2,mb,,,,0.9,us,usp00034qy,2014-11-07T00:40:22.607Z,"near the east coast of Honshu, Japan",earthquake
+1987-05-05T08:22:42.910Z,41.34,26.484,16.2,,,,,,1,us,usp00034qz,2014-11-07T00:40:22.610Z,"Bulgaria-Greece-Turkey border region",earthquake
+1987-05-05T08:24:20.080Z,41.374,26.638,10,,,,,,1.3,us,usp00034r0,2014-11-07T00:40:22.617Z,"Bulgaria-Greece-Turkey border region",earthquake
+1987-05-05T08:47:59.280Z,41.352,26.548,10,,,,,,0.8,us,usp00034r1,2014-11-07T00:40:22.623Z,"Bulgaria-Greece-Turkey border region",earthquake
+1987-05-05T09:18:39.430Z,12.176,-87.57,55.8,4.7,mb,,,,1.2,us,usp00034r2,2014-11-07T00:40:22.625Z,"near the coast of Nicaragua",earthquake
+1987-05-05T09:28:34.290Z,18.521,-60.639,28.1,3.5,ml,,,,0.6,us,usp00034r3,2014-11-07T00:40:22.635Z,"Antigua and Barbuda region, Leeward Islands",earthquake
+1987-05-05T09:29:09.920Z,41.411,26.374,10,,,,,,0.7,us,usp00034r4,2014-11-07T00:40:22.639Z,"Bulgaria-Greece-Turkey border region",earthquake
+1987-05-05T09:37:18.650Z,41.362,29.203,10,,,,,,0.3,us,usp00034r5,2014-11-07T00:40:22.641Z,"western Turkey",earthquake
+1987-05-05T09:41:32.170Z,41.379,29.195,10,,,,,,0.7,us,usp00034r6,2014-11-07T00:40:22.643Z,"western Turkey",earthquake
+1987-05-05T10:00:31.480Z,-57.631,157.819,33,4.7,mb,,,,1.4,us,usp00034r7,2014-11-07T00:40:22.645Z,"Macquarie Island region",earthquake
+1987-05-05T10:31:24.510Z,-7.027,129.266,236.7,4.6,mb,,,,0.5,us,usp00034r8,2014-11-07T00:40:22.650Z,"Kepulauan Babar, Indonesia",earthquake
+1987-05-05T10:40:44.650Z,42.527,46.909,33,4.6,mb,,,,1.1,us,usp00034r9,2014-11-07T00:40:22.652Z,"Caucasus region, Russia",earthquake
+1987-05-05T10:50:55.370Z,-0.003,-19.152,10,6.2,mw,,,,1.3,us,usp00034ra,2015-05-13T18:53:25.000Z,"central Mid-Atlantic Ridge",earthquake
+1987-05-05T13:20:44.370Z,-6.671,154.273,33,4.4,mb,,,,1,us,usp00034rb,2014-11-07T00:40:22.692Z,"Bougainville region, Papua New Guinea",earthquake
+1987-05-05T13:44:05.870Z,-21.382,-67.074,261.7,4.6,mb,,,,0.9,us,usp00034rc,2014-11-07T00:40:22.696Z,"Potosi, Bolivia",earthquake
+1987-05-05T14:13:49.890Z,40.169,25.224,10,,,,,,1.3,us,usp00034rd,2014-11-07T00:40:22.701Z,"Aegean Sea",earthquake
+1987-05-05T15:40:47.520Z,36.48,70.673,202.1,6.2,mw,,,,1,us,usp00034re,2015-06-30T16:59:01.450Z,"Hindu Kush region, Afghanistan",earthquake
+1987-05-05T16:08:08.500Z,45.352,25.06,10,,,,,,1.2,us,usp00034rf,2014-11-07T00:40:22.831Z,"Romania",earthquake
+1987-05-05T16:57:57.700Z,-21.9,-139.096,0,4.9,mb,,,,1,us,usp00034rg,2015-06-16T17:25:28.461Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion
+1987-05-05T17:08:56.340Z,16.667,-61.607,99.4,,,,,,0.3,us,usp00034rh,2014-11-07T00:40:22.838Z,"Guadeloupe region, Leeward Islands",earthquake
+1987-05-05T17:14:29.950Z,10.834,-85.196,27.4,4.1,md,,,,0.6,us,usp00034rj,2014-11-07T00:40:22.842Z,"Costa Rica",earthquake
+1987-05-05T17:49:38.890Z,-2.646,128.795,33,4.4,mb,,,,1.3,us,usp00034rk,2014-11-07T00:40:22.847Z,"Ceram Sea, Indonesia",earthquake
+1987-05-05T18:10:26.610Z,-2.351,128.225,35.7,4.6,mb,,,,1.2,us,usp00034rm,2014-11-07T00:40:22.851Z,"Ceram Sea, Indonesia",earthquake
+1987-05-05T18:21:43.480Z,42.764,12.951,10,3.6,md,,,,1,us,usp00034rn,2014-11-07T00:40:22.862Z,"central Italy",earthquake
+1987-05-05T21:34:16.090Z,-6.192,146.979,110.6,4.6,mb,,,,1.2,us,usp00034rp,2014-11-07T00:40:22.867Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1987-05-05T21:58:53.440Z,45.514,26.367,142.3,,,,,,0.7,us,usp00034rq,2014-11-07T00:40:22.879Z,"Romania",earthquake
+1987-05-05T23:19:37.850Z,-8.029,107.73,33,4.7,mb,,,,1.1,us,usp00034rr,2014-11-07T00:40:22.882Z,"Java, Indonesia",earthquake
+1987-05-06T02:32:14.050Z,40.721,29.941,10,,,,,,0.7,us,usp00034rs,2014-11-07T00:40:22.890Z,"western Turkey",earthquake
+1987-05-06T02:44:46.000Z,64.73,-132.96,18,4.6,mb,,,,,us,usp00034rt,2014-11-07T00:40:22.893Z,"Southern Yukon Territory, Canada",earthquake
+1987-05-06T03:11:28.150Z,6.454,95.456,245,4.3,mb,,,,1.2,us,usp00034ru,2014-11-07T00:40:22.902Z,"Nicobar Islands, India region",earthquake
+1987-05-06T03:38:01.140Z,-11.047,-76.657,111.6,4.8,mb,,,,1.1,us,usp00034rv,2014-11-07T00:40:22.917Z,"central Peru",earthquake
+1987-05-06T03:49:20.270Z,42.618,18.939,10,2.5,md,,,,1.3,us,usp00034rw,2014-11-07T00:40:23.051Z,"Montenegro",earthquake
+1987-05-06T04:02:05.620Z,49.83,78.125,0,5.6,mb,,,,0.9,us,usp00034rx,2015-06-16T17:25:29.380Z,"eastern Kazakhstan",nuclear explosion
+1987-05-06T04:06:14.150Z,51.272,-179.898,20.1,6.8,mw,,,,1,us,usp00034ry,2015-06-30T16:59:01.451Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1987-05-06T04:12:40.230Z,50.837,179.973,33,5.3,mb,,,,1.3,us,usp00034rz,2014-11-07T00:40:23.242Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1987-05-06T04:18:24.690Z,51.073,-179.835,33,5.2,mb,,,,0.9,us,usp00034s0,2014-11-07T00:40:23.249Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1987-05-06T04:29:04.080Z,10.775,-62.517,33,,,,,,0.9,us,usp00034s1,2014-11-07T00:40:23.270Z,"offshore Sucre, Venezuela",earthquake
+1987-05-06T05:03:39.520Z,50.676,179.54,33,4.5,mb,,,,0.9,us,usp00034s2,2014-11-07T00:40:23.275Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1987-05-06T05:16:15.890Z,51.198,-179.996,33,4.9,mb,,,,1.1,us,usp00034s3,2014-11-07T00:40:23.281Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1987-05-06T05:18:23.920Z,50.981,-179.92,33,5.1,mb,,,,1.1,us,usp00034s4,2014-11-07T00:40:23.314Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1987-05-06T05:37:06.730Z,51.146,-179.962,33,4.4,mb,,,,1.2,us,usp00034s5,2014-11-07T00:40:23.326Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1987-05-06T06:24:42.490Z,50.878,-179.799,33,4.8,mb,,,,1.6,us,usp00034s6,2014-11-07T00:40:23.331Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1987-05-06T06:27:07.330Z,51.054,-179.924,33,4.8,mb,,,,1.5,us,usp00034s7,2014-11-07T00:40:23.337Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1987-05-06T07:48:07.750Z,50.983,-179.825,33,4.9,mb,,,,1.3,us,usp00034s8,2014-11-07T00:40:23.343Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1987-05-06T08:04:44.670Z,51.354,-179.947,33,4.8,mb,,,,1,us,usp00034s9,2014-11-07T00:40:23.351Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1987-05-06T09:24:34.180Z,-6.264,147.908,32.6,4.6,mb,,,,1.4,us,usp00034sa,2014-11-07T00:40:23.358Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1987-05-06T09:28:15.150Z,44.828,10.69,10,3.8,ml,,,,1.2,us,usp00034sb,2014-11-07T00:40:23.363Z,"northern Italy",earthquake
+1987-05-06T10:08:55.850Z,46.221,8.218,10,,,,,,0.8,us,usp00034sc,2014-11-07T00:40:23.376Z,"Switzerland",earthquake
+1987-05-06T10:11:32.240Z,39.682,29.435,10,,,,,,0.8,us,usp00034sd,2014-11-07T00:40:23.378Z,"western Turkey",earthquake
+1987-05-06T11:28:53.720Z,36.983,57.606,33,4.5,mb,,,,1.4,us,usp00034se,2014-11-07T00:40:23.380Z,"northeastern Iran",earthquake
+1987-05-06T12:03:32.390Z,60.28,5.35,10,1.7,md,,,,0.2,us,usp00034sf,2014-11-07T00:40:23.383Z,"southern Norway",earthquake
+1987-05-06T12:39:49.110Z,-5.715,152.656,20,6.5,mw,,,,1.3,us,usp00034sg,2015-05-13T18:53:25.000Z,"New Britain region, Papua New Guinea",earthquake
+1987-05-06T12:54:14.800Z,-17.888,-178.769,656.5,4.7,mb,,,,0.5,us,usp00034sh,2014-11-07T00:40:23.460Z,"Fiji region",earthquake
+1987-05-06T14:48:04.540Z,-5.54,152.855,12.8,4.6,mb,,,,1.4,us,usp00034sj,2014-11-07T00:40:23.468Z,"New Britain region, Papua New Guinea",earthquake
+1987-05-06T16:53:58.550Z,-33.598,-71.947,10,,,,,,0.4,us,usp00034sk,2014-11-07T00:40:23.471Z,"offshore Valparaiso, Chile",earthquake
+1987-05-06T16:59:11.470Z,-33.587,-71.783,10,,,,,,0.3,us,usp00034sm,2014-11-07T00:40:23.473Z,"offshore Valparaiso, Chile",earthquake
+1987-05-06T18:47:41.530Z,-11.709,116.962,33,4.2,mb,,,,1.1,us,usp00034sn,2014-11-07T00:40:23.476Z,"south of Lombok, Indonesia",earthquake
+1987-05-06T19:17:33.150Z,-18.192,-178.318,594.6,4.7,mb,,,,1.1,us,usp00034sp,2014-11-07T00:40:23.480Z,"Fiji region",earthquake
+1987-05-06T19:31:03.070Z,-9.345,148.482,15,5.3,mb,,,,1.2,us,usp00034sq,2014-11-07T00:40:23.495Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1987-05-06T20:09:37.790Z,-5.725,152.792,24.6,4.4,mb,,,,1.2,us,usp00034sr,2014-11-07T00:40:23.506Z,"New Britain region, Papua New Guinea",earthquake
+1987-05-06T23:57:54.140Z,46.193,8.292,10,,,,,,1.4,us,usp00034ss,2014-11-07T00:40:23.509Z,"Switzerland",earthquake
+1987-05-07T00:01:09.700Z,-2.913,141.393,33,3.7,mb,,,,0.7,us,usp00034st,2014-11-07T00:40:23.551Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1987-05-07T00:11:34.700Z,-30.353,-72.065,19.7,4.8,mb,,,,1.3,us,usp00034su,2014-11-07T00:40:23.554Z,"offshore Coquimbo, Chile",earthquake
+1987-05-07T01:51:58.980Z,-6.347,152.294,10,5.3,mb,,,,1.5,us,usp00034sv,2014-11-07T00:40:23.560Z,"New Britain region, Papua New Guinea",earthquake
+1987-05-07T02:01:24.910Z,37.555,15.041,10,,,,,,0.5,us,usp00034sw,2014-11-07T00:40:23.570Z,"Sicily, Italy",earthquake
+1987-05-07T03:05:49.170Z,46.736,139.232,430,6.8,mw,,,,0.9,us,usp00034sx,2015-06-30T16:59:01.452Z,"Tatar Strait, Russia",earthquake
+1987-05-07T03:14:54.400Z,37.625,-119.003,4,3.1,ml,,,,,us,usp00034sy,2014-11-07T00:40:23.676Z,"Long Valley area, California",earthquake
+1987-05-07T05:19:47.980Z,-5.716,152.81,19.9,4.5,mb,,,,1.1,us,usp00034sz,2014-11-07T00:40:23.680Z,"New Britain region, Papua New Guinea",earthquake
+1987-05-07T06:45:20.570Z,-5.973,145.562,33,3.3,mb,,,,1.3,us,usp00034t0,2014-11-07T00:40:23.683Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1987-05-07T08:02:34.800Z,-20.33,-179.271,634.9,4.4,mb,,,,0.7,us,usp00034t1,2014-11-07T00:40:23.685Z,"Fiji region",earthquake
+1987-05-07T08:56:52.390Z,36.621,26.748,151.9,4.9,mb,,,,1,us,usp00034t2,2014-11-07T00:40:23.689Z,"Dodecanese Islands, Greece",earthquake
+1987-05-07T09:02:03.510Z,36.56,-5.367,33,,,,,,1,us,usp00034t3,2014-11-07T00:40:23.719Z,"Strait of Gibraltar",earthquake
+1987-05-07T09:05:15.940Z,-32.555,-71.52,23.1,,,,,,1.3,us,usp00034t4,2014-11-07T00:40:23.720Z,"offshore Valparaiso, Chile",earthquake
+1987-05-07T09:06:33.270Z,-32.092,-72.009,12.9,4.3,mb,,,,0.6,us,usp00034t5,2014-11-07T00:40:23.723Z,"offshore Coquimbo, Chile",earthquake
+1987-05-07T10:26:41.800Z,40.345,-124.478,5,3.9,ml,,,,,us,usp00034t6,2014-11-07T00:40:23.726Z,"offshore Northern California",earthquake
+1987-05-07T10:54:22.480Z,-5.667,152.41,62.5,4,mb,,,,1.6,us,usp00034t7,2014-11-07T00:40:23.728Z,"New Britain region, Papua New Guinea",earthquake
+1987-05-07T11:24:24.780Z,-5.824,152.851,6,3.7,mb,,,,1.5,us,usp00034t8,2014-11-07T00:40:23.730Z,"New Britain region, Papua New Guinea",earthquake
+1987-05-07T11:58:09.120Z,-6.667,130.315,110.4,4.5,mb,,,,1.2,us,usp00034t9,2014-11-07T00:40:23.732Z,"Banda Sea",earthquake
+1987-05-07T12:50:28.700Z,-32.487,-71.603,10,,,,,,0.9,us,usp00034ta,2014-11-07T00:40:23.734Z,"offshore Valparaiso, Chile",earthquake
+1987-05-07T13:05:10.280Z,51.121,15.706,10,4,ml,,,,1.2,us,usp00034tb,2014-11-07T00:40:23.737Z,"Poland",earthquake
+1987-05-07T13:12:59.130Z,-9.11,112.351,33,4.6,mb,,,,1.2,us,usp00034tc,2014-11-07T00:40:23.740Z,"south of Java, Indonesia",earthquake
+1987-05-07T14:20:25.830Z,43.961,147.809,33,4.7,mb,,,,0.8,us,usp00034td,2014-11-07T00:40:23.742Z,"Kuril Islands",earthquake
+1987-05-07T15:22:55.760Z,28.328,128.997,89.2,4.1,mb,,,,0.9,us,usp00034te,2014-11-07T00:40:23.749Z,"Ryukyu Islands, Japan",earthquake
+1987-05-07T15:37:42.140Z,40.547,22.858,10,,,,,,0.4,us,usp00034tf,2014-11-07T00:40:23.752Z,"Greece",earthquake
+1987-05-07T16:09:57.850Z,-32.544,-71.541,10,,,,,,1.3,us,usp00034tg,2014-11-07T00:40:23.754Z,"offshore Valparaiso, Chile",earthquake
+1987-05-07T16:14:01.190Z,0.128,123.381,160,4.6,mb,,,,0.9,us,usp00034th,2014-11-07T00:40:23.763Z,"Minahasa, Sulawesi, Indonesia",earthquake
+1987-05-07T17:25:27.900Z,38.832,-122.793,4,3.3,ml,,,,,us,usp00034tj,2014-11-07T00:40:23.765Z,"Northern California",earthquake
+1987-05-07T19:36:06.490Z,-17.096,-72.135,78.4,5.4,mb,,,,1.3,us,usp00034tk,2014-11-07T00:40:23.768Z,"near the coast of southern Peru",earthquake
+1987-05-07T20:08:22.980Z,-26.395,27.34,5,,,,,,0.7,us,usp00034tm,2014-11-07T00:40:23.772Z,"South Africa",earthquake
+1987-05-07T21:14:05.730Z,42.727,26.597,10.3,3.4,mb,,,,0.9,us,usp00034tn,2014-11-07T00:40:23.774Z,"Bulgaria",earthquake
+1987-05-07T21:52:40.820Z,27.264,129.457,33,4.7,mb,,,,1.2,us,usp00034tp,2014-11-07T00:40:23.778Z,"Ryukyu Islands, Japan",earthquake
+1987-05-07T22:12:18.170Z,8.832,126.358,69.5,4.5,mb,,,,0.9,us,usp00034tq,2014-11-07T00:40:23.781Z,"Mindanao, Philippines",earthquake
+1987-05-07T23:09:29.080Z,-32.219,-72.06,33,,,,,,1.2,us,usp00034tr,2014-11-07T00:40:23.784Z,"offshore Valparaiso, Chile",earthquake
+1987-05-08T00:45:28.250Z,61.861,-150.714,52.7,,,,,,,us,usp00034ts,2014-11-07T00:40:23.787Z,"Southern Alaska",earthquake
+1987-05-08T00:50:13.320Z,60.639,4.851,10,2,md,,,,0.3,us,usp00034tt,2014-11-07T00:40:23.790Z,"southern Norway",earthquake
+1987-05-08T03:09:39.710Z,-5.634,146.122,58.1,5,mb,,,,1,us,usp00034tu,2014-11-07T00:40:23.792Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1987-05-08T04:17:47.800Z,63.157,-150.8,130.7,,,,,,,us,usp00034tv,2014-11-07T00:40:23.802Z,"Central Alaska",earthquake
+1987-05-08T04:23:56.560Z,40.971,26.13,10,,,,,,0.8,us,usp00034tw,2014-11-07T00:40:23.806Z,"western Turkey",earthquake
+1987-05-08T07:39:08.310Z,-5.568,152.655,41.7,5.2,mb,,,,1,us,usp00034tx,2014-11-07T00:40:23.808Z,"New Britain region, Papua New Guinea",earthquake
+1987-05-08T08:00:05.400Z,50.911,14.504,10,3.5,ml,,,,1,us,usp00034ty,2014-11-07T00:40:23.822Z,"Czech Republic",earthquake
+1987-05-08T09:17:04.170Z,42.741,26.678,10,,,,,,0.5,us,usp00034tz,2014-11-07T00:40:23.825Z,"Bulgaria",earthquake
+1987-05-08T11:06:10.930Z,-15.057,-75.508,10,,,,,,1.1,us,usp00034u0,2014-11-07T00:40:23.826Z,"near the coast of central Peru",earthquake
+1987-05-08T11:08:13.830Z,42.697,19.068,10,2.1,md,,,,1.1,us,usp00034u1,2014-11-07T00:40:23.828Z,"Montenegro",earthquake
+1987-05-08T11:10:25.840Z,44.853,11.112,10,4.4,ml,,,,1.2,us,usp00034u2,2014-11-07T00:40:23.830Z,"northern Italy",earthquake
+1987-05-08T11:26:58.620Z,7.052,-34.936,10,4.2,mb,,,,1.3,us,usp00034u3,2014-11-07T00:40:23.840Z,"central Mid-Atlantic Ridge",earthquake
+1987-05-08T11:28:15.620Z,-15.143,-173.868,33,4.7,mb,,,,0.8,us,usp00034u4,2014-11-07T00:40:23.843Z,"Tonga",earthquake
+1987-05-08T12:49:42.280Z,-4.275,152.635,124.8,5.2,mw,,,,0.9,us,usp00034u5,2015-02-11T17:15:29.000Z,"New Britain region, Papua New Guinea",earthquake
+1987-05-08T13:00:09.000Z,60.723,5.557,10,1.9,md,,,,0.3,us,usp00034u6,2014-11-07T00:40:23.860Z,"southern Norway",earthquake
+1987-05-08T13:21:09.980Z,60.275,-144.843,35.2,2.9,ml,,,,,us,usp00034u7,2014-11-07T00:40:23.861Z,"Southern Alaska",earthquake
+1987-05-08T14:13:23.130Z,-50.662,115.051,10,4.7,mb,,,,1.4,us,usp00034u8,2014-11-07T00:40:23.865Z,"western Indian-Antarctic Ridge",earthquake
+1987-05-08T14:28:16.500Z,38.852,-122.778,2,3,ml,,,,,us,usp00034u9,2014-11-07T00:40:23.869Z,"Northern California",earthquake
+1987-05-08T15:41:15.480Z,-22.396,-68.506,122,4.7,mb,,,,1.4,us,usp00034ua,2014-11-07T00:40:23.871Z,"Antofagasta, Chile",earthquake
+1987-05-08T16:33:39.800Z,44.935,11.151,22.6,3.1,ml,,,,1,us,usp00034ub,2014-11-07T00:40:23.874Z,"northern Italy",earthquake
+1987-05-08T18:43:43.140Z,-6.298,128.241,336.7,4.2,mb,,,,1.1,us,usp00034uc,2014-11-07T00:40:23.879Z,"Banda Sea",earthquake
+1987-05-08T19:45:33.030Z,18.073,119.884,26.6,4.4,mb,,,,1.1,us,usp00034ud,2014-11-07T00:40:23.882Z,"Philippine Islands region",earthquake
+1987-05-08T20:35:57.840Z,9.835,126.34,53.2,5,mb,,,,1.1,us,usp00034ue,2014-11-07T00:40:23.906Z,"Mindanao, Philippines",earthquake
+1987-05-08T21:37:32.100Z,44.942,11.052,10,3,ml,,,,1.4,us,usp00034uf,2014-11-07T00:40:23.918Z,"northern Italy",earthquake
+1987-05-08T23:35:54.040Z,51.594,16.48,10,3.3,ml,,,,0.6,us,usp00034ug,2014-11-07T00:40:23.923Z,"Poland",earthquake
+1987-05-09T00:43:34.000Z,60.374,-146.892,19.7,4.2,ml,,,,,us,usp00034uh,2014-11-07T00:40:23.927Z,"Southern Alaska",earthquake
+1987-05-09T00:46:59.100Z,44.231,12.161,10,3.9,ml,,,,1.3,us,usp00034uj,2014-11-07T00:40:23.932Z,"northern Italy",earthquake
+1987-05-09T00:54:06.670Z,-37.935,-73.228,33,4.6,mb,,,,1.1,us,usp00034uk,2014-11-07T00:40:23.940Z,"Bio-Bio, Chile",earthquake
+1987-05-09T02:41:39.720Z,-0.848,123.233,33,3.9,mb,,,,1.4,us,usp00034um,2014-11-07T00:40:23.943Z,"Sulawesi, Indonesia",earthquake
+1987-05-09T03:19:39.040Z,-4.42,152.814,48.1,4.6,mb,,,,1.2,us,usp00034un,2014-11-07T00:40:23.945Z,"New Britain region, Papua New Guinea",earthquake
+1987-05-09T03:54:32.270Z,34.156,135.431,10,5.1,mb,,,,1.3,us,usp00034up,2014-11-07T00:40:23.947Z,"near the south coast of western Honshu, Japan",earthquake
+1987-05-09T05:38:06.340Z,44.817,10.756,10,2.4,ml,,,,1.3,us,usp00034uq,2014-11-07T00:40:23.966Z,"northern Italy",earthquake
+1987-05-09T06:00:15.280Z,44.234,6.823,8.9,3.4,ml,,,,1,us,usp00034ur,2014-11-07T00:40:23.967Z,"France",earthquake
+1987-05-09T06:29:49.510Z,-22.625,-68.615,119.3,4.4,mb,,,,1.4,us,usp00034us,2014-11-07T00:40:23.973Z,"Antofagasta, Chile",earthquake
+1987-05-09T06:30:02.130Z,44.075,12.056,10,2.8,ml,,,,0.8,us,usp00034ut,2014-11-07T00:40:23.976Z,"northern Italy",earthquake
+1987-05-09T06:32:34.930Z,-11.343,165.745,46.4,5.6,mw,,,,1,us,usp00034uu,2015-02-11T17:15:29.000Z,"Santa Cruz Islands",earthquake
+1987-05-09T08:05:38.280Z,19.202,145.521,149.3,5.6,mw,,,,1.1,us,usp00034uv,2015-05-13T18:53:25.000Z,"Maug Islands region, Northern Mariana Islands",earthquake
+1987-05-09T08:07:42.550Z,40.518,32.773,18,3.9,mb,,,,1,us,usp00034uw,2014-11-07T00:40:24.024Z,"central Turkey",earthquake
+1987-05-09T09:16:36.840Z,39.666,29.387,10,,,,,,0.8,us,usp00034ux,2014-11-07T00:40:24.027Z,"western Turkey",earthquake
+1987-05-09T09:18:10.680Z,10.482,-73.34,33,4.7,mb,,,,1.3,us,usp00034uy,2014-11-07T00:40:24.028Z,"northern Colombia",earthquake
+1987-05-09T09:21:37.800Z,45.982,2.773,10,2.2,ml,,,,0.4,us,usp00034uz,2014-11-07T00:40:24.030Z,"France",earthquake
+1987-05-09T10:17:08.810Z,17.256,-61.835,33,3,ml,,,,0.8,us,usp00034v0,2014-11-07T00:40:24.032Z,"Antigua and Barbuda region, Leeward Islands",earthquake
+1987-05-09T10:26:40.120Z,28.706,129.326,5,4.2,mb,,,,1.5,us,usp00034v1,2014-11-07T00:40:24.034Z,"Ryukyu Islands, Japan",earthquake
+1987-05-09T10:56:44.470Z,-25.403,-13.952,10,4.8,ms,,,,1.5,us,usp00034v2,2014-11-07T00:40:24.035Z,"southern Mid-Atlantic Ridge",earthquake
+1987-05-09T11:34:00.970Z,40.535,27.205,10,,,,,,0.6,us,usp00034v3,2014-11-07T00:40:24.040Z,"western Turkey",earthquake
+1987-05-09T12:25:15.350Z,44.11,8.522,10,,,,,,1.4,us,usp00034v4,2014-11-07T00:40:24.041Z,"northern Italy",earthquake
+1987-05-09T16:36:12.190Z,17.143,147.108,33,5,mb,,,,1,us,usp00034v5,2014-11-07T00:40:24.043Z,"Mariana Islands region",earthquake
+1987-05-09T16:37:01.820Z,42.868,18.694,33,2.2,ml,,,,0.3,us,usp00034v6,2014-11-07T00:40:24.047Z,"Montenegro",earthquake
+1987-05-09T16:51:23.830Z,36.201,141.81,45.2,5.2,mw,,,,0.9,us,usp00034v7,2015-02-11T17:15:29.000Z,"near the east coast of Honshu, Japan",earthquake
+1987-05-09T17:21:42.790Z,7.595,-75.126,67.9,4.9,mb,,,,1.5,us,usp00034v8,2014-11-07T00:40:24.075Z,"northern Colombia",earthquake
+1987-05-09T18:52:27.820Z,34.982,45.827,33,,,,,,0.9,us,usp00034v9,2014-11-07T00:40:24.078Z,"Iran-Iraq border region",earthquake
+1987-05-09T18:59:18.530Z,32.919,46.833,33,,,,,,1.2,us,usp00034va,2014-11-07T00:40:24.080Z,"Iran-Iraq border region",earthquake
+1987-05-09T19:10:12.540Z,1.451,126.538,112,4.6,mb,,,,0.2,us,usp00034vb,2014-11-07T00:40:24.081Z,"Molucca Sea",earthquake
+1987-05-09T23:25:21.910Z,-43.588,-16.439,10,5,ms,,,,1,us,usp00034vc,2014-11-07T00:40:24.083Z,"southern Mid-Atlantic Ridge",earthquake
+1987-05-10T00:10:13.000Z,-45.028,-16.342,10,5.2,mw,,,,1,us,usp00034vd,2015-02-11T17:15:29.000Z,"southern Mid-Atlantic Ridge",earthquake
+1987-05-10T00:32:30.720Z,40.784,27.724,10,,,,,,0.6,us,usp00034ve,2014-11-07T00:40:24.090Z,"western Turkey",earthquake
+1987-05-10T00:37:10.020Z,-7.737,115.997,42.4,5.3,mb,,,,1.4,us,usp00034vf,2014-11-07T00:40:24.092Z,"Bali Sea",earthquake
+1987-05-10T01:32:28.050Z,-4.155,151.171,191.9,4.2,mb,,,,0.6,us,usp00034vg,2014-11-07T00:40:24.105Z,"New Britain region, Papua New Guinea",earthquake
+1987-05-10T01:35:01.430Z,34.892,139.251,20,,,,,,0.7,us,usp00034vh,2014-11-07T00:40:24.107Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-10T01:38:41.850Z,34.837,139.21,22.4,3.9,mb,,,,0.6,us,usp00034vj,2014-11-07T00:40:24.108Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-10T02:53:11.620Z,50.25,12.441,10,2,ml,,,,0.2,us,usp00034vk,2014-11-07T00:40:24.111Z,"Czech Republic",earthquake
+1987-05-10T03:23:23.950Z,36.439,71.152,250.4,4.5,mb,,,,0.9,us,usp00034vm,2014-11-07T00:40:24.112Z,"Hindu Kush region, Afghanistan",earthquake
+1987-05-10T03:36:23.490Z,36.976,82.299,10,4.6,mb,,,,1.5,us,usp00034vn,2014-11-07T00:40:24.122Z,"southern Xinjiang, China",earthquake
+1987-05-10T05:06:33.060Z,34.862,139.225,21.2,,,,,,0.5,us,usp00034vp,2014-11-07T00:40:24.125Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-10T05:10:40.050Z,28.22,86.739,33,4.6,mb,,,,0.9,us,usp00034vq,2014-11-07T00:40:24.127Z,"western Xizang",earthquake
+1987-05-10T06:05:30.520Z,44.207,6.838,10,2.7,ml,,,,0.6,us,usp00034vr,2014-11-07T00:40:24.128Z,"France",earthquake
+1987-05-10T07:10:46.510Z,-33.792,-71.529,10,,,,,,0.4,us,usp00034vs,2014-11-07T00:40:24.130Z,"Region Metropolitana, Chile",earthquake
+1987-05-10T07:15:53.020Z,-26.52,178.283,640.4,5,mb,,,,0.7,us,usp00034vt,2014-11-07T00:40:24.132Z,"south of the Fiji Islands",earthquake
+1987-05-10T08:52:22.900Z,34.87,139.256,27.2,4.1,mb,,,,1.1,us,usp00034vu,2014-11-07T00:40:24.134Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-10T08:57:19.300Z,34.877,139.245,20,,,,,,0.6,us,usp00034vv,2014-11-07T00:40:24.137Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-10T08:58:05.190Z,34.849,139.379,22.7,4.1,mb,,,,1.6,us,usp00034vw,2014-11-07T00:40:24.139Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-10T09:17:19.240Z,-7.751,120.358,218.4,4.7,mb,,,,1.4,us,usp00034vx,2014-11-07T00:40:24.142Z,"Flores Sea",earthquake
+1987-05-10T09:39:06.620Z,51.394,-179.82,33,5,mb,,,,0.9,us,usp00034vy,2014-11-07T00:40:24.144Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1987-05-10T10:45:06.970Z,6.685,145.326,33,4.6,mb,,,,1.3,us,usp00034vz,2014-11-07T00:40:24.157Z,"State of Yap, Federated States of Micronesia",earthquake
+1987-05-10T10:50:26.390Z,-9.982,28.98,10,3.6,mb,,,,1.5,us,usp00034w0,2014-11-07T00:40:24.160Z,"Zambia",earthquake
+1987-05-10T11:00:35.630Z,41.402,26.543,10,,,,,,1.3,us,usp00034w1,2014-11-07T00:40:24.162Z,"Bulgaria-Greece-Turkey border region",earthquake
+1987-05-10T12:23:18.660Z,37.56,141.906,40.2,5.1,mb,,,,1,us,usp00034w2,2014-11-07T00:40:24.165Z,"near the east coast of Honshu, Japan",earthquake
+1987-05-10T13:17:41.100Z,34.29,-116.38,7,3.2,ml,,,,,us,usp00034w3,2014-11-07T00:40:24.183Z,"Southern California",earthquake
+1987-05-10T14:58:03.550Z,-33.822,-71.17,33,,,,,,0.4,us,usp00034w4,2014-11-07T00:40:24.185Z,"Region Metropolitana, Chile",earthquake
+1987-05-10T15:16:22.360Z,-30.911,-65.503,178.2,5.5,mw,,,,1.1,us,usp00034w5,2015-02-11T17:15:29.000Z,"Cordoba, Argentina",earthquake
+1987-05-10T16:50:58.480Z,-16.691,-177.63,434.8,4.4,mb,,,,0.5,us,usp00034w6,2014-11-07T00:40:24.205Z,"Fiji region",earthquake
+1987-05-10T17:26:05.940Z,41.99,20.12,11.3,3.3,md,,,,1.2,us,usp00034w7,2014-11-07T00:40:24.209Z,"Albania",earthquake
+1987-05-10T17:43:50.590Z,6.818,-73.054,160.7,4.8,mb,,,,1,us,usp00034w8,2014-11-07T00:40:24.214Z,"northern Colombia",earthquake
+1987-05-10T17:54:47.410Z,41.915,20.108,10,2.6,ml,,,,0.4,us,usp00034w9,2014-11-07T00:40:24.219Z,"Albania",earthquake
+1987-05-10T19:01:38.220Z,41.485,11.846,10,,,,,,0.8,us,usp00034wa,2014-11-07T00:40:24.221Z,"Tyrrhenian Sea",earthquake
+1987-05-10T19:47:41.870Z,37.813,-83.406,5,2.8,mblg,,,,0.6,us,usp00034wb,2014-11-07T00:40:24.223Z,"eastern Kentucky",earthquake
+1987-05-10T20:19:33.170Z,44.286,79.745,33,4.5,mb,,,,0.9,us,usp00034wc,2014-11-07T00:40:24.226Z,"eastern Kazakhstan",earthquake
+1987-05-10T20:38:42.290Z,34.828,139.174,20,,,,,,1.1,us,usp00034wd,2014-11-07T00:40:24.230Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-10T20:43:36.320Z,34.816,139.176,20,,,,,,0.8,us,usp00034we,2014-11-07T00:40:24.231Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-10T20:47:19.560Z,34.87,139.242,20,,,,,,0.8,us,usp00034wf,2014-11-07T00:40:24.233Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-10T21:07:51.200Z,34.829,139.161,20,,,,,,0.6,us,usp00034wg,2014-11-07T00:40:24.235Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-10T21:10:08.450Z,34.894,139.288,20,,,,,,1.1,us,usp00034wh,2014-11-07T00:40:24.236Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-10T21:15:54.730Z,34.866,139.263,20,,,,,,0.6,us,usp00034wj,2014-11-07T00:40:24.238Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-10T21:35:17.690Z,34.851,139.353,27.2,4.6,mb,,,,1.2,us,usp00034wk,2014-11-07T00:40:24.240Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-10T21:39:20.150Z,-24.282,-70.548,58.2,5,mb,,,,1.4,us,usp00034wm,2014-11-07T00:40:24.249Z,"near the coast of Antofagasta, Chile",earthquake
+1987-05-10T21:40:23.040Z,47.454,156.327,30,4.8,mb,,,,0.9,us,usp00034wn,2014-11-07T00:40:24.252Z,"east of the Kuril Islands",earthquake
+1987-05-10T22:28:21.990Z,60.106,-152.963,110.6,,,,,,,us,usp00034wp,2014-11-07T00:40:24.257Z,"Southern Alaska",earthquake
+1987-05-10T22:38:03.470Z,34.936,139.299,10,,,,,,0.2,us,usp00034wq,2014-11-07T00:40:24.260Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-11T01:32:29.730Z,-2.089,-77.414,163,4.4,mb,,,,1,us,usp00034wr,2014-11-07T00:40:24.261Z,"Peru-Ecuador border region",earthquake
+1987-05-11T01:36:32.230Z,34.903,139.219,10,,,,,,1,us,usp00034ws,2014-11-07T00:40:24.266Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-11T02:37:43.840Z,-20.5,-178.362,566.9,5.4,mw,,,,1.1,us,usp00034wt,2015-02-11T17:15:29.000Z,"Fiji region",earthquake
+1987-05-11T03:16:39.950Z,35.455,31.805,33,,,,,,1.2,us,usp00034wu,2014-11-07T00:40:24.288Z,"Cyprus region",earthquake
+1987-05-11T04:34:50.180Z,-32.144,-71.602,33,,,,,,0.6,us,usp00034wv,2014-11-07T00:40:24.290Z,"offshore Coquimbo, Chile",earthquake
+1987-05-11T05:19:10.470Z,51.707,105.477,26.5,5,mb,,,,0.9,us,usp00034ww,2014-11-07T00:40:24.292Z,"Lake Baykal region, Russia",earthquake
+1987-05-11T05:44:15.020Z,51.751,-173.018,33,4.6,mb,,,,0.8,us,usp00034wx,2014-11-07T00:40:24.301Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1987-05-11T06:45:47.500Z,37.803,-122.175,4,4.3,ml,,,,,us,usp00034wy,2014-11-07T00:40:24.304Z,"San Francisco Bay area, California",earthquake
+1987-05-11T06:56:38.010Z,34.85,139.329,31.4,4.6,mb,,,,1.3,us,usp00034wz,2014-11-07T00:40:24.307Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-11T07:47:39.530Z,-14.645,167.326,162.5,5.5,mw,,,,1,us,usp00034x0,2015-02-11T17:15:29.000Z,"Vanuatu",earthquake
+1987-05-11T07:58:18.070Z,34.704,139.083,33,,,,,,0.6,us,usp00034x1,2014-11-07T00:40:24.328Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-11T08:42:58.100Z,37.81,-122.187,2,2.7,ml,,,,,us,usp00034x2,2014-11-07T00:40:24.330Z,"San Francisco Bay area, California",earthquake
+1987-05-11T09:59:34.120Z,4.47,127.709,94,6.5,mw,,,,1.2,us,usp00034x3,2015-06-30T16:59:01.452Z,"Kepulauan Talaud, Indonesia",earthquake
+1987-05-11T10:14:27.590Z,-7.239,129.176,123.2,4.7,mb,,,,1.3,us,usp00034x4,2014-11-07T00:40:24.403Z,"Kepulauan Babar, Indonesia",earthquake
+1987-05-11T10:23:44.100Z,32.97,-117.81,6,3.3,ml,,,,,us,usp00034x5,2014-11-07T00:40:24.409Z,"Gulf of Santa Catalina, California",earthquake
+1987-05-11T11:30:11.410Z,61.467,-152.377,131.1,,,,,,,us,usp00034x6,2014-11-07T00:40:24.410Z,"Southern Alaska",earthquake
+1987-05-11T14:18:38.190Z,41.935,25.506,10,,,,,,1,us,usp00034x7,2014-11-07T00:40:24.413Z,"Bulgaria",earthquake
+1987-05-11T14:51:28.320Z,38.592,143.37,39.5,4.7,mb,,,,1.2,us,usp00034x8,2014-11-07T00:40:24.414Z,"off the east coast of Honshu, Japan",earthquake
+1987-05-11T15:10:10.100Z,34.31,-116.92,4,3.9,ml,,,,,us,usp00034x9,2014-11-07T00:40:24.418Z,"Southern California",earthquake
+1987-05-11T15:41:37.130Z,44.924,11.142,10,3,ml,,,,1.5,us,usp00034xa,2014-11-07T00:40:24.421Z,"northern Italy",earthquake
+1987-05-11T15:47:17.190Z,9.758,-85.745,29.3,4.1,md,,,,0.4,us,usp00034xb,2014-11-07T00:40:24.425Z,"off the coast of Costa Rica",earthquake
+1987-05-11T16:05:19.930Z,21.792,144.673,33,4.9,mb,,,,1.1,us,usp00034xc,2014-11-07T00:40:24.427Z,"Mariana Islands region",earthquake
+1987-05-11T16:55:58.250Z,-32.41,-71.622,33,,,,,,1,us,usp00034xd,2014-11-07T00:40:24.430Z,"offshore Valparaiso, Chile",earthquake
+1987-05-11T17:35:03.220Z,43.236,25.966,10,3.4,mb,,,,1.1,us,usp00034xe,2014-11-07T00:40:24.432Z,"Bulgaria",earthquake
+1987-05-11T18:12:53.590Z,-7.045,129.189,162.2,5.1,mw,,,,1.1,us,usp00034xf,2015-02-11T17:15:29.000Z,"Kepulauan Babar, Indonesia",earthquake
+1987-05-11T18:14:47.110Z,10.053,-83.496,33,4,md,,,,0.3,us,usp00034xg,2014-11-07T00:40:24.444Z,"Costa Rica",earthquake
+1987-05-11T19:34:13.900Z,43.273,-1.228,10,3.3,ml,,,,1.2,us,usp00034xh,2014-11-07T00:40:24.446Z,"Pyrenees",earthquake
+1987-05-11T19:50:04.570Z,59.026,5.902,10,2,md,,,,0.4,us,usp00034xj,2014-11-07T00:40:24.448Z,"southern Norway",earthquake
+1987-05-11T20:10:00.040Z,-2.901,147.808,11.4,5,mb,,,,1.4,us,usp00034xk,2014-11-07T00:40:24.450Z,"Admiralty Islands region, Papua New Guinea",earthquake
+1987-05-11T20:51:43.740Z,38.902,141.988,52.7,5.8,mw,,,,1,us,usp00034xm,2015-05-13T18:53:25.000Z,"near the east coast of Honshu, Japan",earthquake
+1987-05-11T22:46:02.100Z,43.724,20.484,22.4,3.3,md,,,,1.1,us,usp00034xn,2014-11-07T00:40:24.490Z,"Serbia",earthquake
+1987-05-12T00:33:47.450Z,50.753,20.434,10,2.7,ml,,,,0.5,us,usp00034xp,2014-11-07T00:40:24.495Z,"Poland",earthquake
+1987-05-12T00:51:43.700Z,-7.877,159.27,142.2,3.9,mb,,,,0.3,us,usp00034xq,2014-11-07T00:40:24.498Z,"Solomon Islands",earthquake
+1987-05-12T01:03:51.510Z,43.586,142.472,148.8,4.4,mb,,,,0.7,us,usp00034xr,2014-11-07T00:40:24.499Z,"Hokkaido, Japan region",earthquake
+1987-05-12T01:30:25.030Z,7.09,126.701,24.7,6.7,mw,,,,1.1,us,usp00034xs,2015-06-30T16:59:01.453Z,"Mindanao, Philippines",earthquake
+1987-05-12T02:01:12.020Z,-31.824,-71.643,33,,,,,,0.5,us,usp00034xt,2014-11-07T00:40:24.554Z,"offshore Coquimbo, Chile",earthquake
+1987-05-12T02:29:14.300Z,37.072,-122.238,10,2.6,ml,,,,,us,usp00034xu,2014-11-07T00:40:24.556Z,"Northern California",earthquake
+1987-05-12T04:03:58.990Z,49.988,156.283,46.6,5.3,mb,,,,0.9,us,usp00034xv,2014-11-07T00:40:24.557Z,"Kuril Islands",earthquake
+1987-05-12T04:12:50.560Z,-8.303,119.59,180.7,4.7,mb,,,,1.6,us,usp00034xw,2014-11-07T00:40:24.573Z,"Flores region, Indonesia",earthquake
+1987-05-12T04:17:16.640Z,-28.065,-177.291,193,4.5,mb,,,,0.9,us,usp00034xx,2014-11-07T00:40:24.576Z,"Kermadec Islands region",earthquake
+1987-05-12T04:21:34.690Z,51.713,21.015,10,2.7,ml,,,,1.4,us,usp00034xy,2014-11-07T00:40:24.580Z,"Poland",earthquake
+1987-05-12T04:54:54.860Z,40.526,139.558,45.5,4.4,mb,,,,0.2,us,usp00034xz,2014-11-07T00:40:24.581Z,"near the west coast of Honshu, Japan",earthquake
+1987-05-12T05:09:12.290Z,-15.347,-179.318,442.9,4.6,mb,,,,1,us,usp00034y0,2014-11-07T00:40:24.583Z,"Fiji region",earthquake
+1987-05-12T05:18:14.080Z,-14.268,-172.548,33,4.8,mb,,,,1.5,us,usp00034y1,2014-11-07T00:40:24.588Z,"Samoa Islands",earthquake
+1987-05-12T05:57:57.510Z,-6.558,130.39,33,3.9,mb,,,,1.2,us,usp00034y2,2014-11-07T00:40:24.590Z,"Banda Sea",earthquake
+1987-05-12T06:40:20.420Z,54.741,-159.839,33,4.1,ml,,,,1.3,us,usp00034y3,2014-11-07T00:40:24.591Z,"south of Alaska",earthquake
+1987-05-12T07:15:13.100Z,28.165,55.559,40.2,5.5,mw,,,,1.1,us,usp00034y4,2015-02-11T17:15:29.000Z,"southern Iran",earthquake
+1987-05-12T07:28:28.740Z,28.267,55.528,42.8,4.5,mb,,,,0.7,us,usp00034y5,2014-11-07T00:40:24.613Z,"southern Iran",earthquake
+1987-05-12T07:40:36.660Z,1.832,-99.563,10,4.5,mb,,,,0.8,us,usp00034y6,2014-11-07T00:40:24.615Z,"west of the Galapagos Islands",earthquake
+1987-05-12T07:54:43.340Z,-8.674,123.853,107.5,4.2,mb,,,,1.6,us,usp00034y7,2014-11-07T00:40:24.617Z,"Flores region, Indonesia",earthquake
+1987-05-12T09:23:21.760Z,7.673,-82.585,10,4,md,,,,0.4,us,usp00034y8,2014-11-07T00:40:24.618Z,"south of Panama",earthquake
+1987-05-12T09:34:15.600Z,-22.744,-67.265,168.8,,,,,,1.4,us,usp00034y9,2014-11-07T00:40:24.620Z,"Potosi, Bolivia",earthquake
+1987-05-12T09:39:36.410Z,42.201,24.991,10,,,,,,1.2,us,usp00034ya,2014-11-07T00:40:24.622Z,"Bulgaria",earthquake
+1987-05-12T10:29:20.470Z,34.925,139.294,10,,,,,,0.2,us,usp00034yb,2014-11-07T00:40:24.623Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-12T13:56:26.210Z,-5.271,151.342,84.8,6.1,mw,,,,1,us,usp00034yc,2015-06-30T16:59:01.454Z,"New Britain region, Papua New Guinea",earthquake
+1987-05-12T16:12:37.590Z,-21.694,-68.222,77.9,5.4,mw,,,,0.9,us,usp00034yd,2015-02-11T17:15:29.000Z,"Antofagasta, Chile",earthquake
+1987-05-12T16:13:25.590Z,-3.675,141.724,33,4.7,mb,,,,1.1,us,usp00034ye,2014-11-07T00:40:24.676Z,"New Guinea, Papua New Guinea",earthquake
+1987-05-12T16:40:59.470Z,15.439,-60.145,57.4,4.5,mb,,,,0.5,us,usp00034yf,2014-11-07T00:40:24.679Z,"Dominica region, Leeward Islands",earthquake
+1987-05-12T16:48:59.960Z,-6.186,155.04,133.1,4.7,mb,,,,1.1,us,usp00034yg,2014-11-07T00:40:24.681Z,"Bougainville region, Papua New Guinea",earthquake
+1987-05-12T18:18:06.250Z,28.113,55.579,68.9,4.5,mb,,,,0.9,us,usp00034yh,2014-11-07T00:40:24.683Z,"southern Iran",earthquake
+1987-05-12T18:21:54.760Z,-30.373,-71.636,72.5,4.9,mb,,,,1.2,us,usp00034yj,2014-11-07T00:40:24.687Z,"Coquimbo, Chile",earthquake
+1987-05-12T20:13:42.390Z,7.216,126.8,79.9,4.8,mb,,,,1.2,us,usp00034yk,2014-11-07T00:40:24.689Z,"Mindanao, Philippines",earthquake
+1987-05-12T20:51:23.530Z,38.8,142.174,56.2,4.7,mb,,,,1.1,us,usp00034ym,2014-11-07T00:40:24.695Z,"near the east coast of Honshu, Japan",earthquake
+1987-05-12T21:14:13.830Z,60.38,-152.563,102.6,,,,,,,us,usp00034yn,2014-11-07T00:40:24.699Z,"Southern Alaska",earthquake
+1987-05-12T22:22:42.340Z,48.159,154.403,39.3,4.8,mb,,,,0.6,us,usp00034yp,2014-11-07T00:40:24.702Z,"Kuril Islands",earthquake
+1987-05-13T01:45:56.610Z,42.306,19.965,10,2.2,ml,,,,0.6,us,usp00034yq,2014-11-07T00:40:24.707Z,"Albania",earthquake
+1987-05-13T02:20:11.270Z,4.286,128.126,33,4.8,mb,,,,0.8,us,usp00034yr,2014-11-07T00:40:24.709Z,"north of Halmahera, Indonesia",earthquake
+1987-05-13T03:31:45.430Z,39.099,29.072,11.7,,,,,,1,us,usp00034ys,2014-11-07T00:40:24.711Z,"western Turkey",earthquake
+1987-05-13T05:05:14.440Z,51.709,6.898,10,,,,,,1.3,us,usp00034yt,2014-11-07T00:40:24.713Z,"Germany",earthquake
+1987-05-13T05:15:07.650Z,-19.46,-69.708,156.5,,,,,,1.2,us,usp00034yu,2014-11-07T00:40:24.715Z,"Tarapaca, Chile",earthquake
+1987-05-13T06:41:45.320Z,-5.774,149.543,120,4.5,mb,,,,0.9,us,usp00034yv,2014-11-07T00:40:24.717Z,"New Britain region, Papua New Guinea",earthquake
+1987-05-13T07:15:23.560Z,-32.517,-71.806,10.5,,,,,,0.3,us,usp00034yw,2014-11-07T00:40:24.718Z,"offshore Valparaiso, Chile",earthquake
+1987-05-13T07:22:36.910Z,58.907,9.466,10,2.4,md,,,,1.4,us,usp00034yx,2014-11-07T00:40:24.720Z,"southern Norway",earthquake
+1987-05-13T08:11:44.630Z,41.909,20.293,10,3.1,ml,,,,0.8,us,usp00034yy,2014-11-07T00:40:24.721Z,"Albania",earthquake
+1987-05-13T08:48:22.160Z,34.756,139.212,33,,,,,,1.3,us,usp00034yz,2014-11-07T00:40:24.723Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-13T09:22:42.760Z,39.281,27.987,10,,,,,,0.6,us,usp00034z0,2014-11-07T00:40:24.725Z,"western Turkey",earthquake
+1987-05-13T09:38:00.770Z,42.257,18.988,10,2.1,ml,,,,0.4,us,usp00034z1,2014-11-07T00:40:24.726Z,"Montenegro",earthquake
+1987-05-13T10:00:10.390Z,39.689,29.493,10,,,,,,0.5,us,usp00034z2,2014-11-07T00:40:24.727Z,"western Turkey",earthquake
+1987-05-13T10:10:42.600Z,38.3,-118.665,6,3.4,ml,,,,,us,usp00034z3,2014-11-07T00:40:24.728Z,"Nevada",earthquake
+1987-05-13T11:27:19.990Z,-19.588,169.251,147,4.1,mb,,,,1.6,us,usp00034z4,2014-11-07T00:40:24.731Z,"Vanuatu",earthquake
+1987-05-13T12:01:07.830Z,36.634,71.127,157.7,4.2,mb,,,,1.3,us,usp00034z5,2014-11-07T00:40:24.733Z,"Hindu Kush region, Afghanistan",earthquake
+1987-05-13T12:34:19.390Z,15.594,119.829,50.7,4.6,ms,,,,1.4,us,usp00034z6,2014-11-07T00:40:24.735Z,"Luzon, Philippines",earthquake
+1987-05-13T15:53:02.790Z,60.649,-152.17,80.5,,,,,,,us,usp00034z7,2014-11-07T00:40:24.738Z,"Southern Alaska",earthquake
+1987-05-13T15:56:59.560Z,3.456,122.35,611.5,4.5,mb,,,,1.2,us,usp00034z8,2014-11-07T00:40:24.741Z,"Celebes Sea",earthquake
+1987-05-13T17:04:36.250Z,39.387,28.012,10,,,,,,1.1,us,usp00034z9,2014-11-07T00:40:24.743Z,"western Turkey",earthquake
+1987-05-13T17:29:05.360Z,14.76,119.432,33,4.4,mb,,,,1.2,us,usp00034za,2014-11-07T00:40:24.745Z,"Luzon, Philippines",earthquake
+1987-05-13T18:13:31.390Z,39.388,28.008,10,,,,,,0.7,us,usp00034zb,2014-11-07T00:40:24.746Z,"western Turkey",earthquake
+1987-05-13T19:34:28.230Z,39.47,27.854,10,,,,,,1,us,usp00034zc,2014-11-07T00:40:24.748Z,"western Turkey",earthquake
+1987-05-13T20:20:29.100Z,61.467,-150.769,81,,,,,,,us,usp00034zd,2014-11-07T00:40:24.749Z,"Southern Alaska",earthquake
+1987-05-13T21:27:07.460Z,-6.208,147.83,48.3,5.1,mb,,,,1.1,us,usp00034ze,2014-11-07T00:40:24.752Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1987-05-13T21:30:00.700Z,31.14,-116.78,6,3.6,ml,,,,,us,usp00034zf,2014-11-07T00:40:24.757Z,"offshore Baja California, Mexico",earthquake
+1987-05-13T23:07:59.890Z,11.319,-61.561,10,4,ml,,,,1,us,usp00034zg,2014-11-07T00:40:24.759Z,"Trinidad region, Trinidad and Tobago",earthquake
+1987-05-14T00:05:13.070Z,43.225,25.958,10,,,,,,1.3,us,usp00034zh,2014-11-07T00:40:24.761Z,"Bulgaria",earthquake
+1987-05-14T00:21:38.260Z,-5.017,148.518,33,4.3,mb,,,,1.4,us,usp00034zj,2014-11-07T00:40:24.762Z,"New Britain region, Papua New Guinea",earthquake
+1987-05-14T00:24:59.210Z,34.936,140.635,55.7,4.7,mb,,,,0.9,us,usp00034zk,2014-11-07T00:40:24.764Z,"near the east coast of Honshu, Japan",earthquake
+1987-05-14T00:57:33.480Z,60.377,-152.429,85.5,,,,,,,us,usp00034zm,2014-11-07T00:40:24.769Z,"Southern Alaska",earthquake
+1987-05-14T03:26:40.400Z,7.038,127.207,33,4.6,mb,,,,0.9,us,usp00034zn,2014-11-07T00:40:24.772Z,"Philippine Islands region",earthquake
+1987-05-14T03:39:01.990Z,39.456,28.42,10,,,,,,1.4,us,usp00034zp,2014-11-07T00:40:24.773Z,"western Turkey",earthquake
+1987-05-14T03:54:33.480Z,35.659,67.899,33,3.9,mb,,,,0.1,us,usp00034zq,2014-11-07T00:40:24.775Z,"central Afghanistan",earthquake
+1987-05-14T05:01:27.370Z,-20.465,-177.972,503.2,4.7,mb,,,,0.8,us,usp00034zr,2014-11-07T00:40:24.776Z,"Fiji region",earthquake
+1987-05-14T05:05:37.210Z,51.431,-176.129,33,4.7,mb,,,,1,us,usp00034zs,2014-11-07T00:40:24.780Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1987-05-14T05:22:17.270Z,61.248,-150.432,58.5,,,,,,,us,usp00034zt,2014-11-07T00:40:24.783Z,"Southern Alaska",earthquake
+1987-05-14T06:29:11.170Z,38.227,22.042,9.9,4.7,mb,,,,1.2,us,usp00034zu,2014-11-07T00:40:24.787Z,"Greece",earthquake
+1987-05-14T07:45:45.180Z,-27.305,-176.011,33,4.8,mb,,,,1.5,us,usp00034zv,2014-11-07T00:40:24.810Z,"Kermadec Islands region",earthquake
+1987-05-14T10:11:18.550Z,27.499,56.064,46.5,4.6,mb,,,,0.8,us,usp00034zw,2014-11-07T00:40:24.812Z,"southern Iran",earthquake
+1987-05-14T10:28:40.550Z,44.727,6.616,10,2.8,ml,,,,0.5,us,usp00034zx,2014-11-07T00:40:24.817Z,"France",earthquake
+1987-05-14T11:16:55.980Z,36.708,71.241,186.5,4.4,mb,,,,1.2,us,usp00034zy,2014-11-07T00:40:24.819Z,"Hindu Kush region, Afghanistan",earthquake
+1987-05-14T12:04:03.400Z,4.839,122.766,614.9,5,mb,,,,0.8,us,usp00034zz,2014-11-07T00:40:24.820Z,"Celebes Sea",earthquake
+1987-05-14T12:14:44.370Z,34.93,139.232,10,,,,,,1.1,us,usp0003500,2014-11-07T00:40:24.827Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-14T12:16:15.940Z,34.925,139.244,10,,,,,,0.7,us,usp0003501,2014-11-07T00:40:24.828Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-14T14:09:30.510Z,-40.728,44.992,10,4.7,mb,,,,0.7,us,usp0003502,2014-11-07T00:40:24.830Z,"Southwest Indian Ridge",earthquake
+1987-05-14T15:31:02.760Z,22.507,121.406,43.6,5,mb,,,,1.3,us,usp0003503,2014-11-07T00:40:24.832Z,"Taiwan region",earthquake
+1987-05-14T15:57:27.100Z,-33.73,-72.198,31.2,5.8,ms,,,,1.2,us,usp0003504,2015-05-13T18:53:25.000Z,"offshore Valparaiso, Chile",earthquake
+1987-05-14T15:59:58.460Z,33.545,-106.519,0,2.9,ml,,,,0.3,us,usp0003505,2014-11-07T00:40:24.849Z,"New Mexico",explosion
+1987-05-14T16:03:53.850Z,-33.929,-72.561,20.8,,,,,,1.5,us,usp0003506,2014-11-07T00:40:24.851Z,"offshore Libertador O'Higgins, Chile",earthquake
+1987-05-14T16:04:26.430Z,-5.644,-81.377,28.6,6,mw,,,,1,us,usp0003507,2015-05-13T18:53:25.000Z,"near the coast of northern Peru",earthquake
+1987-05-14T17:07:54.040Z,-33.765,-72.182,21.9,,,,,,1.2,us,usp0003508,2014-11-07T00:40:24.879Z,"offshore Valparaiso, Chile",earthquake
+1987-05-14T17:09:50.020Z,-33.765,-71.751,33,,,,,,1.3,us,usp0003509,2014-11-07T00:40:24.881Z,"Valparaiso, Chile",earthquake
+1987-05-14T17:47:21.080Z,44.863,11.134,25.3,3.7,ml,,,,1.4,us,usp000350a,2014-11-07T00:40:24.883Z,"northern Italy",earthquake
+1987-05-14T18:04:46.950Z,51.291,15.54,10,3.3,ml,,,,0.6,us,usp000350b,2014-11-07T00:40:24.890Z,"Poland",earthquake
+1987-05-14T18:25:38.260Z,59.703,5.516,10,1.6,md,,,,0.4,us,usp000350c,2014-11-07T00:40:24.892Z,"southern Norway",earthquake
+1987-05-14T19:04:31.300Z,39.476,28.225,10,,,,,,1.3,us,usp000350d,2014-11-07T00:40:24.894Z,"western Turkey",earthquake
+1987-05-14T19:23:15.070Z,44.916,10.889,13.2,2.9,ml,,,,1.1,us,usp000350e,2014-11-07T00:40:24.896Z,"northern Italy",earthquake
+1987-05-14T21:11:35.650Z,13.639,120.597,70.8,4.6,mb,,,,1.3,us,usp000350f,2014-11-07T00:40:24.899Z,"Mindoro, Philippines",earthquake
+1987-05-14T22:24:05.080Z,39.915,40.049,48.7,4.7,mb,,,,1.3,us,usp000350g,2014-11-07T00:40:24.903Z,"eastern Turkey",earthquake
+1987-05-14T22:33:25.040Z,39.345,27.864,10,,,,,,0.7,us,usp000350h,2014-11-07T00:40:24.916Z,"western Turkey",earthquake
+1987-05-14T22:48:44.900Z,37.443,-121.805,6,2.5,ml,,,,,us,usp000350j,2014-11-07T00:40:24.917Z,"San Francisco Bay area, California",earthquake
+1987-05-15T00:21:25.560Z,44.735,10.852,10,3,ml,,,,1.4,us,usp000350k,2014-11-07T00:40:24.919Z,"northern Italy",earthquake
+1987-05-15T01:01:27.710Z,34.93,139.276,10,,,,,,0.4,us,usp000350m,2014-11-07T00:40:24.922Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-15T01:22:25.140Z,44.222,12.139,10,3.2,ml,,,,1.2,us,usp000350n,2014-11-07T00:40:24.924Z,"northern Italy",earthquake
+1987-05-15T01:45:53.540Z,-19.616,67.05,10,4.8,mb,,,,0.9,us,usp000350p,2014-11-07T00:40:24.927Z,"Mid-Indian Ridge",earthquake
+1987-05-15T02:04:37.370Z,-16.741,-14.385,10,5.1,mb,,,,0.8,us,usp000350q,2014-11-07T00:40:24.931Z,"southern Mid-Atlantic Ridge",earthquake
+1987-05-15T03:41:29.190Z,31.692,103.507,33,4.5,mb,,,,1.5,us,usp000350r,2014-11-07T00:40:24.934Z,"eastern Sichuan, China",earthquake
+1987-05-15T04:05:35.970Z,14.906,-94.309,33,4.3,mb,,,,1.4,us,usp000350s,2014-11-07T00:40:24.937Z,"off the coast of Chiapas, Mexico",earthquake
+1987-05-15T05:08:14.900Z,32.01,-114.91,6,3.3,ml,,,,,us,usp000350t,2014-11-07T00:40:24.939Z,"Sonora, Mexico",earthquake
+1987-05-15T05:33:45.400Z,-7.011,156.03,146.1,4.2,mb,,,,1.3,us,usp000350u,2014-11-07T00:40:24.940Z,"Solomon Islands",earthquake
+1987-05-15T07:19:11.870Z,12.021,143.626,14.6,4.7,mb,,,,0.7,us,usp000350v,2014-11-07T00:40:24.941Z,"Guam region",earthquake
+1987-05-15T07:56:23.320Z,1.904,127.36,33,4.6,mb,,,,1,us,usp000350w,2014-11-07T00:40:24.943Z,"Halmahera, Indonesia",earthquake
+1987-05-15T08:29:07.500Z,35.455,-97.749,5,2.1,md,,,,,us,usp000350x,2014-11-07T00:40:24.945Z,"Oklahoma",earthquake
+1987-05-15T08:38:51.000Z,36.14,-120.205,5,2.6,ml,,,,,us,usp000350y,2014-11-07T00:40:24.946Z,"Central California",earthquake
+1987-05-15T08:44:04.100Z,56.376,-153.127,33,4.8,mb,,,,1,us,usp000350z,2014-11-07T00:40:24.948Z,"Kodiak Island region, Alaska",earthquake
+1987-05-15T11:57:35.420Z,40.545,25.691,10,,,,,,1.2,us,usp0003510,2014-11-07T00:40:24.957Z,"Aegean Sea",earthquake
+1987-05-15T12:41:49.930Z,-5.106,143.984,116.7,2.9,mb,,,,0.5,us,usp0003511,2014-11-07T00:40:24.959Z,"New Guinea, Papua New Guinea",earthquake
+1987-05-15T13:49:13.920Z,-50.056,-115.082,10,5.5,mw,,,,1.2,us,usp0003512,2015-02-11T17:15:29.000Z,"southern East Pacific Rise",earthquake
+1987-05-15T14:43:03.780Z,50.423,6.125,10,,,,,,0.2,us,usp0003513,2014-11-07T00:40:24.974Z,"Belgium",earthquake
+1987-05-15T17:28:38.630Z,42.728,18.91,10,2.5,ml,,,,0.3,us,usp0003514,2014-11-07T00:40:24.975Z,"Montenegro",earthquake
+1987-05-15T18:39:45.880Z,26.1,96.941,33,4,mb,,,,1.2,us,usp0003515,2014-11-07T00:40:24.977Z,"Myanmar",earthquake
+1987-05-15T18:42:27.910Z,56.339,-153.981,33,4.2,mb,,,,1.7,us,usp0003516,2014-11-07T00:40:24.978Z,"Kodiak Island region, Alaska",earthquake
+1987-05-15T18:45:17.840Z,50.53,14.213,10,,,,,,0.9,us,usp0003517,2014-11-07T00:40:24.979Z,"Czech Republic",earthquake
+1987-05-15T19:08:28.690Z,39.509,28.205,10,,,,,,1.1,us,usp0003518,2014-11-07T00:40:24.981Z,"western Turkey",earthquake
+1987-05-15T20:15:31.650Z,-19.7,-177.78,592.2,4.6,mb,,,,1.2,us,usp0003519,2014-11-07T00:40:24.982Z,"Fiji region",earthquake
+1987-05-15T20:46:19.320Z,-6.31,146.747,58.6,3.6,mb,,,,1.4,us,usp000351a,2014-11-07T00:40:24.990Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1987-05-15T21:34:48.600Z,-24.758,-70.711,15.8,5.2,mb,,,,1.3,us,usp000351b,2014-11-07T00:40:24.992Z,"near the coast of Antofagasta, Chile",earthquake
+1987-05-15T23:38:13.390Z,-17.967,-178.551,611.4,5.2,mw,,,,0.9,us,usp000351c,2015-02-11T17:15:29.000Z,"Fiji region",earthquake
+1987-05-16T00:29:51.810Z,-14.436,-75.132,33,,,,,,1.4,us,usp000351d,2014-11-07T00:40:25.008Z,"near the coast of central Peru",earthquake
+1987-05-16T02:14:16.350Z,47.963,6.552,10,1.9,ml,,,,0.6,us,usp000351e,2014-11-07T00:40:25.010Z,"France",earthquake
+1987-05-16T02:32:40.990Z,39.444,27.817,10,,,,,,1,us,usp000351f,2014-11-07T00:40:25.011Z,"western Turkey",earthquake
+1987-05-16T03:34:52.160Z,-7.451,128.113,117.8,5.4,mw,,,,1.1,us,usp000351g,2015-02-11T17:15:29.000Z,"Kepulauan Barat Daya, Indonesia",earthquake
+1987-05-16T04:10:35.250Z,26.399,98.452,33,4.1,mb,,,,1.5,us,usp000351h,2014-11-07T00:40:25.025Z,"Myanmar-China border region",earthquake
+1987-05-16T04:39:37.460Z,59.66,-152.95,100.9,,,,,,,us,usp000351j,2014-11-07T00:40:25.027Z,"Southern Alaska",earthquake
+1987-05-16T04:45:44.820Z,-0.4,124.335,76.2,4.8,mb,,,,1.3,us,usp000351k,2014-11-07T00:40:25.030Z,"Molucca Sea",earthquake
+1987-05-16T06:50:17.380Z,63.281,-149.273,116.9,,,,,,0.5,us,usp000351m,2014-11-07T00:40:25.032Z,"Central Alaska",earthquake
+1987-05-16T07:36:57.770Z,-6.098,145.751,33,3.7,mb,,,,1,us,usp000351n,2014-11-07T00:40:25.033Z,"New Guinea, Papua New Guinea",earthquake
+1987-05-16T07:39:06.380Z,39.428,28.184,10,,,,,,1.5,us,usp000351p,2014-11-07T00:40:25.035Z,"western Turkey",earthquake
+1987-05-16T08:56:54.410Z,45.66,26.433,145.4,3.3,mb,,,,1.5,us,usp000351q,2014-11-07T00:40:25.035Z,"Romania",earthquake
+1987-05-16T09:10:53.360Z,42.681,12.024,10,2.8,ml,,,,0.9,us,usp000351r,2014-11-07T00:40:25.037Z,"central Italy",earthquake
+1987-05-16T10:13:11.860Z,13.911,-91.857,47.5,4.5,mb,,,,1.4,us,usp000351s,2014-11-07T00:40:25.039Z,"offshore Guatemala",earthquake
+1987-05-16T13:06:10.860Z,-6.466,105.441,70.9,5.2,mw,,,,1.1,us,usp000351t,2015-02-11T17:15:29.000Z,"Sunda Strait, Indonesia",earthquake
+1987-05-16T13:11:34.450Z,34.917,23.381,33,4.2,mb,,,,1.5,us,usp000351u,2014-11-07T00:40:25.050Z,"Crete, Greece",earthquake
+1987-05-16T16:08:29.380Z,51.53,-175.93,33,5,mw,,,,1.3,us,usp000351v,2015-02-11T17:15:29.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1987-05-16T18:01:03.550Z,60.157,-152.809,107.3,,,,,,,us,usp000351w,2014-11-07T00:40:25.062Z,"Southern Alaska",earthquake
+1987-05-16T18:19:13.870Z,43.178,20.973,10,2.2,ml,,,,0.8,us,usp000351x,2014-11-07T00:40:25.065Z,"Serbia",earthquake
+1987-05-16T18:21:13.780Z,39.339,73.812,33,4.3,mb,,,,1.3,us,usp000351y,2014-11-07T00:40:25.067Z,"Kyrgyzstan-Tajikistan-Xinjiang border region",earthquake
+1987-05-16T18:30:52.540Z,27.167,56.608,33,3.9,mb,,,,1.1,us,usp000351z,2014-11-07T00:40:25.069Z,"southern Iran",earthquake
+1987-05-16T19:28:15.100Z,34.87,139.219,18.9,,,,,,0.3,us,usp0003520,2014-11-07T00:40:25.071Z,"near the south coast of Honshu, Japan",earthquake
+1987-05-16T19:47:00.630Z,-11.05,163.747,33,4.2,mb,,,,1.2,us,usp0003521,2014-11-07T00:40:25.072Z,"Solomon Islands",earthquake
+1987-05-16T20:54:44.740Z,45.571,26.713,33,,,,,,1.4,us,usp0003522,2014-11-07T00:40:25.075Z,"Romania",earthquake
+1987-05-16T21:39:19.070Z,36.032,25.732,156.6,4,mb,,,,1,us,usp0003523,2014-11-07T00:40:25.077Z,"Dodecanese Islands, Greece",earthquake
+1987-05-16T22:12:26.030Z,39.161,27.971,10,,,,,,0.7,us,usp0003524,2014-11-07T00:40:25.079Z,"western Turkey",earthquake
+1987-05-16T22:19:15.160Z,40.666,27.126,10,,,,,,1.2,us,usp0003525,2014-11-07T00:40:25.080Z,"western Turkey",earthquake
+1987-05-16T23:12:09.580Z,28.458,104.79,33,4,mb,,,,1.4,us,usp0003526,2014-11-07T00:40:25.082Z,"eastern Sichuan, China",earthquake
+1987-05-17T00:06:01.110Z,40.451,25.999,10,,,,,,1.2,us,usp0003527,2014-11-07T00:40:25.084Z,"Aegean Sea",earthquake
+1987-05-17T00:35:51.310Z,35.814,140.634,68.3,4.7,mb,,,,1,us,usp0003528,2014-11-07T00:40:25.086Z,"near the east coast of Honshu, Japan",earthquake
+1987-05-17T01:23:42.570Z,58.413,-154.267,33,3,ml,,,,1.4,us,usp0003529,2014-11-07T00:40:25.090Z,"Alaska Peninsula",earthquake
+1987-05-17T02:25:25.420Z,12.593,45.229,10,4,mb,,,,1.2,us,usp000352a,2014-11-07T00:40:25.091Z,"near the coast of Yemen",earthquake
+1987-05-17T03:35:00.820Z,-15.581,-70.765,215.1,4.5,mb,,,,1.1,us,usp000352b,2014-11-07T00:40:25.093Z,"southern Peru",earthquake
+1987-05-17T04:14:08.810Z,40.741,27.109,17.6,,,,,,1.1,us,usp000352c,2014-11-07T00:40:25.095Z,"western Turkey",earthquake
+1987-05-17T05:12:11.960Z,-13.568,167.154,176.8,5.6,mw,,,,1,us,usp000352d,2015-05-13T18:53:25.000Z,"Vanuatu",earthquake
+1987-05-17T05:41:04.900Z,35.89,-97.236,5,1.7,mblg,,,,,us,usp000352e,2014-11-07T00:40:25.132Z,"Oklahoma",earthquake
+1987-05-17T06:06:21.370Z,-34.017,-72.143,28.1,,,,,,0.5,us,usp000352f,2014-11-07T00:40:25.134Z,"offshore Libertador O'Higgins, Chile",earthquake
+1987-05-17T06:09:53.610Z,7.751,-82.545,22.7,4,md,,,,0.6,us,usp000352g,2014-11-07T00:40:25.136Z,"south of Panama",earthquake
+1987-05-17T09:38:33.140Z,-37.09,-74.372,33,4.4,mb,,,,1.1,us,usp000352h,2014-11-07T00:40:25.138Z,"offshore Bio-Bio, Chile",earthquake
+1987-05-17T09:57:52.790Z,-10.449,119.53,33,4.8,mb,,,,0.9,us,usp000352j,2014-11-07T00:40:25.140Z,"Sumba region, Indonesia",earthquake
+1987-05-17T10:28:38.270Z,-21.481,169.582,33,4.3,mb,,,,1.5,us,usp000352k,2014-11-07T00:40:25.143Z,"southeast of the Loyalty Islands",earthquake
+1987-05-17T11:05:45.670Z,-32.724,-71.283,57.4,,,,,,0.3,us,usp000352m,2014-11-07T00:40:25.145Z,"Valparaiso, Chile",earthquake
+1987-05-17T11:19:05.430Z,-21.498,169.566,33,5,mw,,,,1.5,us,usp000352n,2015-02-11T17:15:29.000Z,"southeast of the Loyalty Islands",earthquake
+1987-05-17T11:48:07.680Z,-18.015,-178.49,611.3,5.5,mw,,,,0.9,us,usp000352p,2015-02-11T17:15:29.000Z,"Fiji region",earthquake
+1987-05-17T12:11:09.760Z,3.023,97.119,73,5.1,mb,,,,1.1,us,usp000352q,2014-11-07T00:40:25.174Z,"northern Sumatra, Indonesia",earthquake
+1987-05-17T12:59:36.490Z,44.679,148.435,33,4.6,mb,,,,0.8,us,usp000352r,2014-11-07T00:40:25.189Z,"Kuril Islands",earthquake
+1987-05-17T13:43:39.010Z,0.802,122.229,82.3,5.4,mw,,,,1.2,us,usp000352s,2015-02-11T17:15:29.000Z,"Minahasa, Sulawesi, Indonesia",earthquake
+1987-05-17T13:49:54.830Z,39.177,28.081,10,,,,,,0.6,us,usp000352t,2014-11-07T00:40:25.215Z,"western Turkey",earthquake
+1987-05-17T15:01:19.800Z,35.878,-97.264,5,1.5,md,,,,,us,usp000352u,2014-11-07T00:40:25.217Z,"Oklahoma",earthquake
+1987-05-17T15:32:07.370Z,61.13,4.946,10,2,md,,,,1.5,us,usp000352v,2014-11-07T00:40:25.219Z,"southern Norway",earthquake
+1987-05-17T15:34:12.130Z,10.566,-85.163,32.8,4.7,md,,,,1.3,us,usp000352w,2014-11-07T00:40:25.220Z,"Costa Rica",earthquake
+1987-05-17T16:01:43.870Z,-22.175,-179.596,584.7,4.7,mb,,,,1.1,us,usp000352x,2014-11-07T00:40:25.222Z,"south of the Fiji Islands",earthquake
+1987-05-17T17:30:44.930Z,-6.196,147.898,59.2,3.8,mb,,,,1.4,us,usp000352y,2014-11-07T00:40:25.228Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1987-05-17T19:14:07.330Z,60.324,-151.076,45.5,,,,,,,us,usp000352z,2014-11-07T00:40:25.229Z,"Kenai Peninsula, Alaska",earthquake
+1987-05-17T19:31:00.390Z,46.218,7.445,10,,,,,,0.4,us,usp0003530,2014-11-07T00:40:25.233Z,"Switzerland",earthquake
+1987-05-17T20:04:31.220Z,37.97,20.99,10,3.2,ml,,,,1.4,us,usp0003531,2014-11-07T00:40:25.234Z,"Ionian Sea",earthquake
+1987-05-18T00:47:29.290Z,40.302,27.115,10,,,,,,0.9,us,usp0003532,2014-11-07T00:40:25.235Z,"western Turkey",earthquake
+1987-05-18T01:53:51.040Z,25.271,94.202,49.5,6.3,mw,,,,1.1,us,usp0003533,2015-05-13T18:53:25.000Z,"Myanmar-India border region",earthquake
+1987-05-18T02:18:33.520Z,-32.63,-69.525,24.1,,,,,,1.2,us,usp0003534,2014-11-07T00:40:25.278Z,"Mendoza, Argentina",earthquake
+1987-05-18T02:35:21.740Z,-30.437,-177.646,33,5.2,ms,,,,1.3,us,usp0003535,2014-11-07T00:40:25.279Z,"Kermadec Islands, New Zealand",earthquake
+1987-05-18T03:07:34.130Z,49.282,147.693,542,6.8,mw,,,,1,us,usp0003536,2015-06-30T16:59:01.454Z,"Sea of Okhotsk",earthquake
+1987-05-18T04:35:07.560Z,47.419,15.044,10,3.1,ml,,,,0.3,us,usp0003537,2014-11-07T00:40:25.348Z,"Austria",earthquake
+1987-05-18T05:10:52.660Z,44.942,11.2,10,3.3,ml,,,,1.3,us,usp0003538,2014-11-07T00:40:25.351Z,"northern Italy",earthquake
+1987-05-18T05:30:54.220Z,16.237,-61.447,26,3.4,ml,,,,0.4,us,usp0003539,2014-11-07T00:40:25.356Z,"Grande-Terre, Guadeloupe, Leeward Islands",earthquake
+1987-05-18T07:18:03.260Z,44.408,147.102,110.6,5.5,mw,,,,1,us,usp000353a,2015-02-11T17:15:29.000Z,"Kuril Islands",earthquake
+1987-05-18T07:23:24.150Z,-2.229,100.033,33,6,ms,,,,1,us,usp000353b,2015-05-13T18:53:25.000Z,"Kepulauan Mentawai region, Indonesia",earthquake
+1987-05-18T07:27:00.210Z,8.302,125.362,16.4,6.3,mw,,,,1.3,us,usp000353c,2015-05-13T18:53:25.000Z,"Mindanao, Philippines",earthquake
+1987-05-18T13:54:17.530Z,-11.214,162.406,33,4.1,mb,,,,1.3,us,usp000353d,2014-11-07T00:40:25.409Z,"Solomon Islands",earthquake
+1987-05-18T13:59:38.090Z,-5.697,147.424,180,4.3,mb,,,,1.3,us,usp000353e,2014-11-07T00:40:25.411Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1987-05-18T14:28:00.430Z,-24.275,179.987,500,4.3,mb,,,,0.8,us,usp000353f,2014-11-07T00:40:25.412Z,"south of the Fiji Islands",earthquake
+1987-05-18T16:01:02.600Z,3.893,96.423,101.3,4.2,mb,,,,0.9,us,usp000353g,2014-11-07T00:40:25.415Z,"northern Sumatra, Indonesia",earthquake
+1987-05-18T16:50:48.170Z,-17.65,-178.998,553.4,5,mb,,,,0.9,us,usp000353h,2014-11-07T00:40:25.418Z,"Fiji region",earthquake
+1987-05-18T17:26:21.750Z,8.697,58.308,10,4.9,mb,,,,0.9,us,usp000353j,2014-11-07T00:40:25.424Z,"Carlsberg Ridge",earthquake
+1987-05-18T18:26:34.500Z,29.983,129.751,150.8,4.5,mb,,,,1.3,us,usp000353k,2014-11-07T00:40:25.427Z,"Ryukyu Islands, Japan",earthquake
+1987-05-18T18:27:25.150Z,-16.283,178.254,20.4,5,mb,,,,1.3,us,usp000353m,2014-11-07T00:40:25.431Z,"Fiji",earthquake
+1987-05-18T18:33:19.650Z,-16.217,178.302,33,5.7,mw,,,,1.3,us,usp000353n,2015-05-13T18:53:25.000Z,"Fiji",earthquake
+1987-05-18T18:42:16.640Z,-1.224,149.883,32.6,4.9,mb,,,,1,us,usp000353p,2014-11-07T00:40:25.450Z,"New Ireland region, Papua New Guinea",earthquake
+1987-05-18T18:51:29.440Z,37.315,-5.099,10,,,,,,0.9,us,usp000353q,2014-11-07T00:40:25.452Z,"Spain",earthquake
+1987-05-18T22:50:35.240Z,-14.197,-76.36,33.9,4.5,mb,,,,1.4,us,usp000353r,2014-11-07T00:40:25.454Z,"near the coast of central Peru",earthquake
+1987-05-19T00:14:33.170Z,29.862,139.067,417,5.6,mw,,,,1,us,usp000353s,2015-02-11T17:15:29.000Z,"Izu Islands, Japan region",earthquake
+1987-05-19T03:01:16.560Z,43.356,21.075,10,2.4,ml,,,,1.2,us,usp000353t,2014-11-07T00:40:25.492Z,"Serbia",earthquake
+1987-05-19T03:53:51.000Z,36.44,-117.82,6,4.3,ml,,,,,us,usp000353u,2014-11-07T00:40:25.494Z,"Central California",earthquake
+1987-05-19T08:12:05.140Z,-59.677,-26.234,33,5.3,mb,,,,1,us,usp000353v,2014-11-07T00:40:25.497Z,"South Sandwich Islands region",earthquake
+1987-05-19T11:05:21.020Z,-11.002,-76.646,115.2,4.6,mb,,,,1,us,usp000353w,2014-11-07T00:40:25.502Z,"central Peru",earthquake
+1987-05-19T11:20:38.420Z,10.606,-85.322,33,4.5,md,,,,0.5,us,usp000353x,2014-11-07T00:40:25.505Z,"Costa Rica",earthquake
+1987-05-19T12:44:32.500Z,42.176,25.968,10,,,,,,1.2,us,usp000353y,2014-11-07T00:40:25.507Z,"Bulgaria",earthquake
+1987-05-19T12:56:25.290Z,-30.284,-71.484,36.4,6.2,mw,,,,1.4,us,usp000353z,2015-05-13T18:53:25.000Z,"Coquimbo, Chile",earthquake
+1987-05-19T13:09:36.030Z,34.057,-117.446,5,3.1,ml,,,,1.2,us,usp0003540,2014-11-07T00:40:25.553Z,"Greater Los Angeles area, California",earthquake
+1987-05-19T15:06:55.360Z,63.256,-151.278,33,3.1,ml,,,,1.1,us,usp0003541,2014-11-07T00:40:25.555Z,"Central Alaska",earthquake
+1987-05-19T15:16:22.530Z,63.396,-151.047,33,3.4,ml,,,,1.1,us,usp0003542,2014-11-07T00:40:25.557Z,"Central Alaska",earthquake
+1987-05-19T16:58:18.700Z,-21.185,-174.254,33,5.6,mw,,,,1.3,us,usp0003543,2015-05-13T18:53:25.000Z,"Tonga",earthquake
+1987-05-19T17:37:46.970Z,22.091,144.249,84.2,5.4,mw,,,,1.1,us,usp0003544,2015-02-11T17:15:29.000Z,"Volcano Islands, Japan region",earthquake
+1987-05-19T22:17:14.460Z,-33.115,-179.345,105.5,4.8,mb,,,,1.1,us,usp0003545,2014-11-07T00:40:25.596Z,"south of the Kermadec Islands",earthquake
+1987-05-19T22:42:23.780Z,41.763,20.006,10,2.6,ml,,,,0.5,us,usp0003546,2014-11-07T00:40:25.598Z,"Albania",earthquake
+1987-05-20T01:01:35.040Z,47.756,-1.356,10,3.4,ml,,,,1,us,usp0003547,2014-11-07T00:40:25.600Z,"France",earthquake
+1987-05-20T01:34:29.630Z,10.972,-85.617,33,4.3,md,,,,0.4,us,usp0003548,2014-11-07T00:40:25.613Z,"Costa Rica",earthquake
+1987-05-20T01:45:54.770Z,60.242,-152.917,115.7,,,,,,,us,usp0003549,2014-11-07T00:40:25.615Z,"Southern Alaska",earthquake
+1987-05-20T02:13:42.770Z,60.263,-152.567,105.9,,,,,,,us,usp000354a,2014-11-07T00:40:25.617Z,"Southern Alaska",earthquake
+1987-05-20T02:50:14.220Z,43.446,17.64,10,2.7,ml,,,,1.1,us,usp000354b,2014-11-07T00:40:25.620Z,"Bosnia and Herzegovina",earthquake
+1987-05-20T03:06:46.580Z,40.623,29.099,10,,,,,,1.2,us,usp000354c,2014-11-07T00:40:25.622Z,"western Turkey",earthquake
+1987-05-20T04:03:26.790Z,16.507,-61.489,33,2.4,ml,,,,1.7,us,usp000354d,2014-11-07T00:40:25.625Z,"Guadeloupe region, Leeward Islands",earthquake
+1987-05-20T05:40:19.490Z,56.563,-152.775,33,5.3,mw,,,,1,us,usp000354e,2015-02-11T17:15:29.000Z,"Kodiak Island region, Alaska",earthquake
+1987-05-20T05:59:18.150Z,56.597,-152.764,33,4.8,mb,,,,1.1,us,usp000354f,2014-11-07T00:40:25.643Z,"Kodiak Island region, Alaska",earthquake
+1987-05-20T06:00:35.920Z,47.936,7.487,10,2.9,ml,,,,1.1,us,usp000354g,2014-11-07T00:40:25.652Z,"Switzerland",earthquake
+1987-05-20T06:02:08.910Z,56.32,-152.842,33,4.5,mb,,,,1.4,us,usp000354h,2014-11-07T00:40:25.654Z,"Kodiak Island region, Alaska",earthquake
+1987-05-20T06:09:22.090Z,56.577,-152.733,33,4.8,mb,,,,0.9,us,usp000354j,2014-11-07T00:40:25.655Z,"Kodiak Island region, Alaska",earthquake
+1987-05-20T07:05:40.010Z,24.221,125.314,33.9,4.7,mb,,,,1.2,us,usp000354k,2014-11-07T00:40:25.665Z,"southwestern Ryukyu Islands, Japan",earthquake
+1987-05-20T07:11:19.730Z,24.213,125.177,42.9,4.8,mb,,,,1.1,us,usp000354m,2014-11-07T00:40:25.668Z,"southwestern Ryukyu Islands, Japan",earthquake
+1987-05-20T08:07:41.080Z,51.395,-169.811,33,4.4,mb,,,,0.4,us,usp000354n,2014-11-07T00:40:25.672Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1987-05-20T08:55:35.080Z,-10.423,-74.299,33,4.6,mb,,,,1.3,us,usp000354p,2014-11-07T00:40:25.673Z,"central Peru",earthquake
+1987-05-20T09:10:02.720Z,56.659,-152.786,33,4.5,mb,,,,1.3,us,usp000354q,2014-11-07T00:40:25.676Z,"Kodiak Island region, Alaska",earthquake
+1987-05-20T09:39:42.840Z,60.688,5.669,10,2,md,,,,0.7,us,usp000354r,2014-11-07T00:40:25.678Z,"southern Norway",earthquake
+1987-05-20T11:10:21.880Z,16.012,-60.845,31.4,2.8,ml,,,,0.4,us,usp000354s,2014-11-07T00:40:25.680Z,"Guadeloupe region, Leeward Islands",earthquake
+1987-05-20T12:22:34.920Z,9.568,-40.763,10,4.8,mb,,,,1.1,us,usp000354t,2014-11-07T00:40:25.682Z,"central Mid-Atlantic Ridge",earthquake
+1987-05-20T12:48:36.070Z,7.939,125.628,33,4.3,mb,,,,1.3,us,usp000354u,2014-11-07T00:40:25.686Z,"Mindanao, Philippines",earthquake
+1987-05-20T13:54:13.680Z,-61.139,-52.125,10,5,mw,,,,1.1,us,usp000354v,2015-02-11T17:15:29.000Z,"South Shetland Islands",earthquake
+1987-05-20T14:30:14.850Z,-4.845,129.602,212.9,4.6,mb,,,,1,us,usp000354w,2014-11-07T00:40:25.696Z,"Banda Sea",earthquake
+1987-05-20T15:37:19.860Z,42.409,20.2,10,3.4,md,,,,1.1,us,usp000354x,2014-11-07T00:40:25.698Z,"Albania",earthquake
+1987-05-20T15:58:33.640Z,-5.252,151.595,126.8,4.5,mb,,,,1.1,us,usp000354y,2014-11-07T00:40:25.703Z,"New Britain region, Papua New Guinea",earthquake
+1987-05-20T17:04:58.260Z,-21.893,-138.964,0,5.6,mb,,,,0.9,us,usp000354z,2015-06-16T17:25:30.197Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion
+1987-05-20T17:24:04.270Z,-31.237,116.753,33,,,,,,1.3,us,usp0003550,2014-11-07T00:40:25.719Z,"Western Australia",earthquake
+1987-05-20T19:12:36.190Z,-20.814,-178.962,625.6,4.8,mb,,,,0.8,us,usp0003551,2014-11-07T00:40:25.720Z,"Fiji region",earthquake
+1987-05-20T22:01:01.950Z,24.262,125.302,54.8,4.3,mb,,,,1.3,us,usp0003552,2014-11-07T00:40:25.722Z,"southwestern Ryukyu Islands, Japan",earthquake
+1987-05-20T23:00:40.410Z,35.34,38.071,33,4.8,mb,,,,1.4,us,usp0003553,2014-11-07T00:40:25.724Z,"Syria",earthquake
+1987-05-20T23:29:57.190Z,26.912,96.981,33,4.5,mb,,,,0.9,us,usp0003554,2014-11-07T00:40:25.728Z,"Myanmar",earthquake
+1987-05-20T23:40:47.500Z,-19.365,-173.829,33,5.1,mw,,,,1.4,us,usp0003555,2015-02-11T17:15:29.000Z,"Tonga",earthquake
+1987-05-20T23:41:22.720Z,-2.007,-77.585,167.6,4.9,mb,,,,0.9,us,usp0003556,2014-11-07T00:40:25.736Z,"Peru-Ecuador border region",earthquake
+1987-05-21T00:04:24.470Z,-14.089,-76.256,33,,,,,,1.3,us,usp0003557,2014-11-07T00:40:25.744Z,"near the coast of central Peru",earthquake
+1987-05-21T01:37:50.740Z,-11.414,-77.958,33,,,,,,0.9,us,usp0003558,2014-11-07T00:40:25.746Z,"near the coast of central Peru",earthquake
+1987-05-21T01:58:30.510Z,39.559,28.872,10,,,,,,0.3,us,usp0003559,2014-11-07T00:40:25.747Z,"western Turkey",earthquake
+1987-05-21T02:24:16.900Z,-32.559,-72.126,33,,,,,,0.8,us,usp000355a,2014-11-07T00:40:25.748Z,"offshore Valparaiso, Chile",earthquake
+1987-05-21T03:30:15.410Z,-10.604,119.465,41.1,4.6,mb,,,,1.3,us,usp000355b,2014-11-07T00:40:25.750Z,"Sumba region, Indonesia",earthquake
+1987-05-21T04:55:37.400Z,32.057,141.705,33,4.6,mb,,,,1.1,us,usp000355c,2014-11-07T00:40:25.752Z,"Izu Islands, Japan region",earthquake
+1987-05-21T05:13:32.140Z,39.171,28.051,10,,,,,,1.4,us,usp000355d,2014-11-07T00:40:25.755Z,"western Turkey",earthquake
+1987-05-21T09:20:22.750Z,-7.465,128.416,33,5,mb,,,,1.1,us,usp000355e,2014-11-07T00:40:25.756Z,"Kepulauan Barat Daya, Indonesia",earthquake
+1987-05-21T10:58:27.870Z,38.765,22.753,22.1,3.3,ml,,,,1.3,us,usp000355f,2014-11-07T00:40:25.762Z,"Greece",earthquake
+1987-05-21T11:38:31.360Z,-20.413,169.04,27.1,5,ms,,,,1.5,us,usp000355g,2014-11-07T00:40:25.764Z,"Vanuatu",earthquake
+1987-05-21T12:25:27.030Z,24.196,125.183,41.5,5.3,mw,,,,1.2,us,usp000355h,2015-02-11T17:15:29.000Z,"southwestern Ryukyu Islands, Japan",earthquake
+1987-05-21T12:34:22.560Z,24.159,125.514,33,4.6,mb,,,,1.2,us,usp000355j,2014-11-07T00:40:25.776Z,"southwestern Ryukyu Islands, Japan",earthquake
+1987-05-21T12:35:59.020Z,-7.008,129.243,160.2,4.8,mb,,,,1.3,us,usp000355k,2014-11-07T00:40:25.778Z,"Kepulauan Babar, Indonesia",earthquake
+1987-05-21T13:37:51.780Z,-10.586,119.443,33,4.9,mb,,,,1.5,us,usp000355m,2014-11-07T00:40:25.782Z,"Sumba region, Indonesia",earthquake
+1987-05-21T13:39:42.540Z,24.215,125.226,43.1,4.5,mb,,,,1.2,us,usp000355n,2014-11-07T00:40:25.786Z,"southwestern Ryukyu Islands, Japan",earthquake
+1987-05-21T13:52:59.310Z,24.164,125.463,44,4.4,ms,,,,1.2,us,usp000355p,2014-11-07T00:40:25.788Z,"southwestern Ryukyu Islands, Japan",earthquake
+1987-05-21T14:30:20.790Z,24.346,123.058,46.4,4.7,mb,,,,1.2,us,usp000355q,2014-11-07T00:40:25.792Z,"southwestern Ryukyu Islands, Japan",earthquake
+1987-05-21T15:36:08.820Z,24.214,125.234,39,4.9,mb,,,,1.3,us,usp000355r,2014-11-07T00:40:25.794Z,"southwestern Ryukyu Islands, Japan",earthquake
+1987-05-21T16:36:24.050Z,59.921,-152.311,88.4,,,,,,,us,usp000355s,2014-11-07T00:40:25.798Z,"Southern Alaska",earthquake
+1987-05-21T17:54:11.120Z,28.38,131.267,33,4.1,mb,,,,1.2,us,usp000355t,2014-11-07T00:40:25.801Z,"southeast of the Ryukyu Islands, Japan",earthquake
+1987-05-21T20:06:23.720Z,46.181,7.289,10,,,,,,1,us,usp000355u,2014-11-07T00:40:25.803Z,"Switzerland",earthquake
+1987-05-21T21:18:37.880Z,-5.716,153.492,21.1,5.1,mb,,,,1,us,usp000355v,2014-11-07T00:40:25.804Z,"New Ireland region, Papua New Guinea",earthquake
+1987-05-21T21:25:25.000Z,-7.415,130.02,33,4.9,mb,,,,0.7,us,usp000355w,2014-11-07T00:40:25.809Z,"Kepulauan Tanimbar, Indonesia",earthquake
+1987-05-21T21:50:36.490Z,62.407,-151.45,93.7,,,,,,,us,usp000355x,2014-11-07T00:40:25.810Z,"Central Alaska",earthquake
+1987-05-21T22:11:18.930Z,40.44,27.3,10,,,,,,0.4,us,usp000355y,2014-11-07T00:40:25.813Z,"western Turkey",earthquake
+1987-05-22T00:16:32.620Z,60.445,-150.747,45.3,,,,,,,us,usp000355z,2014-11-07T00:40:25.814Z,"Kenai Peninsula, Alaska",earthquake
+1987-05-22T01:12:03.150Z,-62.311,154.685,10,4.6,mb,,,,1.4,us,usp0003560,2014-11-07T00:40:25.817Z,"Balleny Islands region",earthquake
+1987-05-22T03:58:54.120Z,44.861,11.372,10,2.7,ml,,,,0.7,us,usp0003561,2014-11-07T00:40:25.819Z,"northern Italy",earthquake
+1987-05-22T05:44:33.510Z,63.525,-149.79,145.8,,,,,,,us,usp0003562,2014-11-07T00:40:25.821Z,"Central Alaska",earthquake
+1987-05-22T06:52:37.210Z,61.595,-151.532,98.6,,,,,,,us,usp0003563,2014-11-07T00:40:25.823Z,"Southern Alaska",earthquake
+1987-05-22T08:43:15.360Z,52.241,174.071,33,4.7,mb,,,,0.9,us,usp0003564,2014-11-07T00:40:25.826Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1987-05-22T09:09:48.140Z,40.311,29.104,10,,,,,,0.4,us,usp0003565,2014-11-07T00:40:25.831Z,"western Turkey",earthquake
+1987-05-22T10:06:37.650Z,-4.558,144.157,132.5,,,,,,1.1,us,usp0003566,2014-11-07T00:40:25.832Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1987-05-22T10:47:09.460Z,-13.881,167.003,307.3,4.5,mb,,,,1.1,us,usp0003567,2014-11-07T00:40:25.833Z,"Vanuatu",earthquake
+1987-05-22T12:14:22.670Z,-5.921,147.879,50.4,4.5,mb,,,,1.3,us,usp0003568,2014-11-07T00:40:25.836Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1987-05-22T12:48:28.810Z,-12.733,167.369,33,4.5,mb,,,,1,us,usp0003569,2014-11-07T00:40:25.838Z,"Santa Cruz Islands",earthquake
+1987-05-22T13:50:51.610Z,-34.302,-71.564,33,,,,,,0.3,us,usp000356a,2014-11-07T00:40:25.840Z,"Libertador General Bernardo O'Higgins, Chile",earthquake
+1987-05-22T14:25:23.470Z,47.751,1.569,10,2.4,ml,,,,0.7,us,usp000356b,2014-11-07T00:40:25.841Z,"France",earthquake
+1987-05-22T14:26:42.640Z,19.324,-64.767,10,4.5,mb,,,,1,us,usp000356c,2014-11-07T00:40:25.844Z,"Virgin Islands region",earthquake
+1987-05-22T15:38:25.030Z,-20.968,-174.073,33,4.7,mb,,,,1.5,us,usp000356d,2014-11-07T00:40:25.845Z,"Tonga",earthquake
+1987-05-22T15:50:24.000Z,42.541,2.535,10,3.3,ml,,,,1.2,us,usp000356e,2014-11-07T00:40:25.847Z,"Pyrenees",earthquake
+1987-05-22T16:20:46.080Z,52.52,-163.947,33,4.7,mb,,,,0.8,us,usp000356f,2014-11-07T00:40:25.850Z,"south of Alaska",earthquake
+1987-05-22T16:33:39.280Z,39.506,25.909,10.5,,,,,,1.1,us,usp000356g,2014-11-07T00:40:25.855Z,"Aegean Sea",earthquake
+1987-05-22T17:06:01.900Z,74.609,-75.577,18,4.3,ml,,,,,us,usp000356h,2014-11-07T00:40:25.857Z,"Baffin Bay",earthquake
+1987-05-22T17:06:53.100Z,38.119,74.569,143.9,4.6,mb,,,,1.5,us,usp000356j,2014-11-07T00:40:25.859Z,"Tajikistan",earthquake
+1987-05-22T17:22:36.000Z,-7.637,126.252,315,4.6,mb,,,,1.2,us,usp000356k,2014-11-07T00:40:25.861Z,"Kepulauan Barat Daya, Indonesia",earthquake
+1987-05-22T18:20:29.470Z,-33.432,77.939,10,4.7,mb,,,,0.8,us,usp000356m,2014-11-07T00:40:25.863Z,"Mid-Indian Ridge",earthquake
+1987-05-22T19:15:49.000Z,62.4,-124.14,10,3.5,mblg,,,,,us,usp000356n,2014-11-07T00:40:25.865Z,"Northwest Territories, Canada",earthquake
+1987-05-22T19:16:37.270Z,31.969,47.263,33,4.1,mb,,,,0.6,us,usp000356p,2014-11-07T00:40:25.866Z,"Iran-Iraq border region",earthquake
+1987-05-22T20:02:12.700Z,-3.219,143.328,10,3.6,mb,,,,0.9,us,usp000356q,2014-11-07T00:40:25.867Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1987-05-22T20:41:57.390Z,72.066,-6.799,10,4.2,mb,,,,1.4,us,usp000356r,2014-11-07T00:40:25.869Z,"Jan Mayen Island region",earthquake
+1987-05-22T22:36:46.950Z,16.13,-105.409,33,4.1,ms,,,,1.5,us,usp000356s,2014-11-07T00:40:25.870Z,"off the coast of Michoacan, Mexico",earthquake
+1987-05-22T23:28:32.630Z,51.252,156.207,33,4.4,mb,,,,1.1,us,usp000356t,2014-11-07T00:40:25.873Z,"Kamchatka Peninsula, Russia",earthquake
+1987-05-22T23:57:37.960Z,37.999,71.976,33,4.2,mb,,,,0.9,us,usp000356u,2014-11-07T00:40:25.875Z,"Tajikistan",earthquake
+1987-05-23T01:21:03.200Z,-21.309,-68.999,126.2,4.4,mb,,,,1.2,us,usp000356v,2014-11-07T00:40:25.876Z,"Antofagasta, Chile",earthquake
+1987-05-23T03:27:57.170Z,14.049,-91.314,80.7,5.2,mw,,,,1.2,us,usp000356w,2015-02-11T17:15:29.000Z,"Guatemala",earthquake
+1987-05-23T05:01:07.700Z,-20.151,-70.688,36.5,5.2,mw,,,,1.4,us,usp000356x,2015-02-11T17:15:29.000Z,"near the coast of Tarapaca, Chile",earthquake
+1987-05-23T06:10:35.340Z,10.66,-84.699,33,4.1,md,,,,1.3,us,usp000356y,2014-11-07T00:40:25.895Z,"Costa Rica",earthquake
+1987-05-23T07:01:04.050Z,51.307,-176.074,33,4.7,mb,,,,0.9,us,usp000356z,2014-11-07T00:40:25.897Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1987-05-23T08:18:00.360Z,-11.165,164.495,33,4.6,mb,,,,1.2,us,usp0003570,2014-11-07T00:40:25.902Z,"Santa Cruz Islands region",earthquake
+1987-05-23T08:49:36.070Z,30.208,103.135,33,4.3,mb,,,,1.2,us,usp0003571,2014-11-07T00:40:25.904Z,"eastern Sichuan, China",earthquake
+1987-05-23T09:13:14.230Z,15.038,-60.339,33,2.6,ml,,,,0.2,us,usp0003572,2014-11-07T00:40:25.906Z,"Martinique region, Windward Islands",earthquake
+1987-05-23T11:26:13.970Z,35.47,28.405,10,,,,,,0.1,us,usp0003573,2014-11-07T00:40:25.907Z,"eastern Mediterranean Sea",earthquake
+1987-05-23T13:31:50.320Z,34.108,46.771,33,4.4,mb,,,,1.6,us,usp0003574,2014-11-07T00:40:25.908Z,"western Iran",earthquake
+1987-05-23T13:39:38.950Z,45.245,26.994,10,,,,,,0.3,us,usp0003575,2014-11-07T00:40:25.910Z,"Romania",earthquake
+1987-05-23T13:55:54.460Z,59.63,-152.452,73.6,,,,,,,us,usp0003576,2014-11-07T00:40:25.911Z,"Southern Alaska",earthquake
+1987-05-23T14:43:48.760Z,-17.627,-13.279,10,4.6,mb,,,,1.5,us,usp0003577,2014-11-07T00:40:25.913Z,"southern Mid-Atlantic Ridge",earthquake
+1987-05-23T17:09:04.450Z,8.047,125.41,32,5.7,mw,,,,1.2,us,usp0003578,2015-05-13T18:53:25.000Z,"Mindanao, Philippines",earthquake
+1987-05-23T17:25:54.480Z,40.662,20.766,10,,,,,,1.5,us,usp0003579,2014-11-07T00:40:25.928Z,"Albania",earthquake
+1987-05-23T18:06:56.450Z,59.782,-153.819,144.2,,,,,,,us,usp000357a,2014-11-07T00:40:25.929Z,"Southern Alaska",earthquake
+1987-05-23T19:16:50.210Z,37.603,71.291,33,4.1,mb,,,,1.4,us,usp000357b,2014-11-07T00:40:25.932Z,"Hindu Kush region, Afghanistan",earthquake
+1987-05-23T19:49:32.800Z,5.005,-72.253,33,,,,,,0.1,us,usp000357c,2014-11-07T00:40:25.933Z,"Colombia",earthquake
+1987-05-23T20:15:03.950Z,51.566,16.236,10,3.7,ml,,,,0.8,us,usp000357d,2014-11-07T00:40:25.935Z,"Poland",earthquake
+1987-05-23T21:01:57.390Z,38.499,-117.809,5,3,ml,,,,0.8,us,usp000357e,2014-11-07T00:40:25.938Z,"Nevada",earthquake
+1987-05-23T21:09:55.670Z,38.793,22.653,10,3.2,ml,,,,0.3,us,usp000357f,2014-11-07T00:40:25.940Z,"Greece",earthquake
+1987-05-23T23:18:00.820Z,51.225,-176.083,33,4.5,mb,,,,1.2,us,usp000357g,2014-11-07T00:40:25.941Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1987-05-24T01:10:55.670Z,16.089,-62.075,33,3.2,m,,,,1,us,usp000357h,2014-11-07T00:40:25.943Z,"Guadeloupe region, Leeward Islands",earthquake
+1987-05-24T02:08:19.540Z,11.507,93.143,74.3,4.7,mb,,,,1.2,us,usp000357j,2014-11-07T00:40:25.945Z,"Andaman Islands, India region",earthquake
+1987-05-24T06:14:49.550Z,-27.959,-66.705,176.1,4.6,mb,,,,1.3,us,usp000357k,2014-11-07T00:40:25.957Z,"Catamarca, Argentina",earthquake
+1987-05-24T07:57:41.860Z,45.447,6.479,6.5,3,ml,,,,0.7,us,usp000357m,2014-11-07T00:40:25.963Z,"France",earthquake
+1987-05-24T09:18:15.720Z,-11.574,118.196,33,4.6,mb,,,,0.9,us,usp000357n,2014-11-07T00:40:25.967Z,"south of Sumbawa, Indonesia",earthquake
+1987-05-24T10:23:25.690Z,45.653,10.699,20.7,4.2,mb,,,,1.1,us,usp000357p,2014-11-07T00:40:25.970Z,"northern Italy",earthquake
+1987-05-24T10:25:22.220Z,40.816,27.63,10,,,,,,0.9,us,usp000357q,2014-11-07T00:40:25.982Z,"western Turkey",earthquake
+1987-05-24T10:37:37.900Z,45.641,10.734,10,,,,,,1.2,us,usp000357r,2014-11-07T00:40:25.983Z,"northern Italy",earthquake
+1987-05-24T11:09:49.590Z,15.668,-60.464,33,2.6,ml,,,,0.1,us,usp000357s,2014-11-07T00:40:25.985Z,"Dominica region, Leeward Islands",earthquake
+1987-05-24T11:33:11.770Z,45.651,10.739,10,,,,,,0.9,us,usp000357t,2014-11-07T00:40:25.986Z,"northern Italy",earthquake
+1987-05-24T12:19:03.890Z,-55.239,-27.756,33,5,mb,,,,0.7,us,usp000357u,2014-11-07T00:40:25.988Z,"South Sandwich Islands region",earthquake
+1987-05-24T13:05:11.570Z,45.758,10.661,10,,,,,,1.3,us,usp000357v,2014-11-07T00:40:25.990Z,"northern Italy",earthquake
+1987-05-24T13:13:56.240Z,39.424,14.955,312.6,4.5,mb,,,,1,us,usp000357w,2014-11-07T00:40:25.993Z,"Tyrrhenian Sea",earthquake
+1987-05-24T13:14:08.500Z,47.041,6.018,6.3,2.8,ml,,,,0.8,us,usp000357x,2014-11-07T00:40:26.002Z,"France",earthquake
+1987-05-24T13:24:24.180Z,47.049,6.039,10,3,ml,,,,0.7,us,usp000357y,2014-11-07T00:40:26.016Z,"France",earthquake
+1987-05-24T15:42:04.010Z,-5.36,151.34,130.8,4.5,mb,,,,1,us,usp000357z,2014-11-07T00:40:26.022Z,"New Britain region, Papua New Guinea",earthquake
+1987-05-24T16:05:23.430Z,46.574,10.145,10,,,,,,1,us,usp0003580,2014-11-07T00:40:26.024Z,"northern Italy",earthquake
+1987-05-24T18:14:26.240Z,49.932,-0.236,10,,,,,,0.6,us,usp0003581,2014-11-07T00:40:26.061Z,"France",earthquake
+1987-05-24T22:04:14.250Z,37.859,23.1,122.7,,,,,,0.6,us,usp0003582,2014-11-07T00:40:26.176Z,"southern Greece",earthquake
+1987-05-25T01:49:09.430Z,6.481,-82.631,24.2,4.1,mb,,,,1,us,usp0003583,2014-11-07T00:40:26.239Z,"south of Panama",earthquake
+1987-05-25T02:35:27.550Z,61.635,5.429,10,3.1,md,,,,1,us,usp0003584,2014-11-07T00:40:26.274Z,"southern Norway",earthquake
+1987-05-25T03:26:39.370Z,-21.348,-70.329,71.1,,,,,,0.8,us,usp0003585,2014-11-07T00:40:26.368Z,"near the coast of Antofagasta, Chile",earthquake
+1987-05-25T04:08:31.310Z,-6.698,130.336,100.2,5,mb,,,,0.8,us,usp0003586,2014-11-07T00:40:26.379Z,"Banda Sea",earthquake
+1987-05-25T06:57:56.550Z,43.86,20.403,10,2.6,ml,,,,1.4,us,usp0003587,2014-11-07T00:40:26.431Z,"Serbia",earthquake
+1987-05-25T11:31:54.330Z,63.85,-19.728,7.6,6,mw,,,,1,us,usp0003588,2015-05-13T18:53:25.000Z,"Iceland",earthquake
+1987-05-25T11:40:42.970Z,56.431,-152.721,33,5,mb,,,,0.8,us,usp0003589,2014-11-07T00:40:26.696Z,"Kodiak Island region, Alaska",earthquake
+1987-05-25T12:03:46.780Z,4.284,125.506,33,4.9,mb,,,,0.8,us,usp000358a,2014-11-07T00:40:26.742Z,"Kepulauan Sangihe, Indonesia",earthquake
+1987-05-25T12:05:00.390Z,37.762,139.449,37.1,4.7,mb,,,,1,us,usp000358b,2014-11-07T00:40:26.744Z,"eastern Honshu, Japan",earthquake
+1987-05-25T16:04:42.010Z,24.274,95.029,33,3.9,mb,,,,0.9,us,usp000358c,2014-11-07T00:40:26.750Z,"Myanmar",earthquake
+1987-05-25T16:24:21.260Z,26.404,128.9,33,4.6,mb,,,,1.5,us,usp000358d,2014-11-07T00:40:26.752Z,"Ryukyu Islands, Japan",earthquake
+1987-05-25T16:59:46.430Z,43.293,26.049,10,,,,,,1.2,us,usp000358e,2014-11-07T00:40:26.753Z,"Bulgaria",earthquake
+1987-05-25T17:52:56.220Z,43.906,8.603,10,2.8,ml,,,,1.1,us,usp000358f,2014-11-07T00:40:26.754Z,"Ligurian Sea",earthquake
+1987-05-25T18:29:57.210Z,16.931,-60.856,10,3.2,ml,,,,0.1,us,usp000358g,2014-11-07T00:40:26.756Z,"Antigua and Barbuda region, Leeward Islands",earthquake
+1987-05-25T19:24:11.640Z,-2.015,137.013,33,4.3,mb,,,,0.5,us,usp000358h,2014-11-07T00:40:26.757Z,"Papua, Indonesia",earthquake
+1987-05-25T20:57:18.640Z,42.201,6.764,10,3.1,ml,,,,0.9,us,usp000358j,2014-11-07T00:40:26.759Z,"western Mediterranean Sea",earthquake
+1987-05-25T21:08:19.600Z,47.101,-112.419,5,3.4,ml,,,,0.5,us,usp000358k,2014-11-07T00:40:26.760Z,"western Montana",earthquake
+1987-05-25T22:58:54.840Z,7.525,-74.779,73.7,4.3,mb,,,,0.7,us,usp000358m,2014-11-07T00:40:26.762Z,"northern Colombia",earthquake
+1987-05-25T23:39:18.340Z,-19.957,-69.464,72,5.3,mb,,,,1.2,us,usp000358n,2014-11-07T00:40:26.764Z,"Tarapaca, Chile",earthquake
+1987-05-26T01:37:42.260Z,-5.519,133.959,33,5.1,mw,,,,0.9,us,usp000358p,2015-02-11T17:15:29.000Z,"Kepulauan Kai, Indonesia",earthquake
+1987-05-26T01:49:52.210Z,29.926,142.174,68,4.7,mb,,,,1.3,us,usp000358q,2014-11-07T00:40:26.780Z,"Izu Islands, Japan region",earthquake
+1987-05-26T03:16:25.390Z,-20.013,-69.94,43.7,,,,,,0.4,us,usp000358r,2014-11-07T00:40:26.785Z,"Tarapaca, Chile",earthquake
+1987-05-26T03:45:28.860Z,14.125,-92.999,33,4,mb,,,,1,us,usp000358s,2014-11-07T00:40:26.786Z,"offshore Chiapas, Mexico",earthquake
+1987-05-26T04:05:52.730Z,64.071,-148.152,117,,,,,,0.6,us,usp000358t,2014-11-07T00:40:26.788Z,"Central Alaska",earthquake
+1987-05-26T04:51:31.560Z,-26.512,26.647,5,,,,,,0.8,us,usp000358u,2014-11-07T00:40:26.789Z,"South Africa",earthquake
+1987-05-26T05:10:16.250Z,6.986,-73.189,155.4,,,,,,1.4,us,usp000358v,2014-11-07T00:40:26.791Z,"northern Colombia",earthquake
+1987-05-26T06:38:03.050Z,-19.968,-69.81,49.5,,,,,,1.3,us,usp000358w,2014-11-07T00:40:26.793Z,"Tarapaca, Chile",earthquake
+1987-05-26T07:01:12.200Z,37.755,-122.132,4,3.4,ml,,,,,us,usp000358x,2014-11-07T00:40:26.794Z,"San Francisco Bay area, California",earthquake
+1987-05-26T07:09:39.890Z,3.579,126.827,63.4,4.9,mb,,,,1.2,us,usp000358y,2014-11-07T00:40:26.796Z,"Kepulauan Talaud, Indonesia",earthquake
+1987-05-26T07:36:10.180Z,-7.989,130.122,33,4.5,mb,,,,0.7,us,usp000358z,2014-11-07T00:40:26.798Z,"Kepulauan Tanimbar, Indonesia",earthquake
+1987-05-26T07:38:53.990Z,53.851,-167.019,33,4.7,mb,,,,1.2,us,usp0003590,2014-11-07T00:40:26.799Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1987-05-26T07:47:44.840Z,16.132,-61.49,33,2,ml,,,,0.7,us,usp0003591,2014-11-07T00:40:26.806Z,"Guadeloupe region, Leeward Islands",earthquake
+1987-05-26T07:59:40.400Z,37.752,-122.133,3,3,ml,,,,,us,usp0003592,2014-11-07T00:40:26.807Z,"San Francisco Bay area, California",earthquake
+1987-05-26T08:20:07.200Z,37.8,-122.1,4,2.1,ml,,,,,us,usp0003593,2014-11-07T00:40:26.809Z,"San Francisco Bay area, California",earthquake
+1987-05-26T09:49:16.200Z,37.755,-122.137,4,2,ml,,,,,us,usp0003594,2014-11-07T00:40:26.811Z,"San Francisco Bay area, California",earthquake
+1987-05-26T10:55:32.460Z,-23.941,-179.985,468.5,4.9,mb,,,,1.1,us,usp0003595,2014-11-07T00:40:26.812Z,"south of the Fiji Islands",earthquake
+1987-05-26T12:07:52.560Z,38.222,142.318,36.6,5.5,mw,,,,1,us,usp0003596,2015-02-11T17:15:29.000Z,"near the east coast of Honshu, Japan",earthquake
+1987-05-26T13:44:19.930Z,42.923,78.063,20,4.6,mb,,,,1,us,usp0003597,2014-11-07T00:40:26.843Z,"Kyrgyzstan",earthquake
+1987-05-26T14:26:55.560Z,40.169,29.344,10,,,,,,0.4,us,usp0003598,2014-11-07T00:40:26.846Z,"western Turkey",earthquake
+1987-05-26T14:56:57.200Z,51.554,-175.325,33,4.3,mb,,,,1.3,us,usp0003599,2014-11-07T00:40:26.848Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1987-05-26T16:11:47.140Z,45.4,-116.261,5,3.6,ml,,,,0.5,us,usp000359a,2014-11-07T00:40:26.850Z,"southern Idaho",earthquake
+1987-05-26T16:19:30.440Z,-14.34,-73.669,86.2,,,,,,1.1,us,usp000359b,2014-11-07T00:40:26.852Z,"central Peru",earthquake
+1987-05-26T16:32:58.100Z,43.302,-0.348,10,3.8,ml,,,,0.9,us,usp000359c,2014-11-07T00:40:26.854Z,"Pyrenees",earthquake
+1987-05-26T19:23:57.160Z,31.618,60.209,16.9,4.8,mb,,,,1,us,usp000359d,2014-11-07T00:40:26.858Z,"Iran-Afghanistan border region",earthquake
+1987-05-26T19:50:31.560Z,39.331,27.789,10,,,,,,0.9,us,usp000359e,2014-11-07T00:40:26.870Z,"western Turkey",earthquake
+1987-05-26T20:21:05.460Z,59.116,-152.662,69.2,,,,,,,us,usp000359f,2014-11-07T00:40:26.871Z,"Southern Alaska",earthquake
+1987-05-26T20:29:50.900Z,37.755,-122.128,4,2.3,ml,,,,,us,usp000359g,2014-11-07T00:40:26.873Z,"San Francisco Bay area, California",earthquake
+1987-05-26T22:08:50.740Z,-17.701,-178.807,584.9,4.7,mb,,,,0.9,us,usp000359h,2014-11-07T00:40:26.874Z,"Fiji region",earthquake
+1987-05-26T22:26:32.750Z,1.802,126.612,33,4.7,mb,,,,0.8,us,usp000359j,2014-11-07T00:40:26.879Z,"Molucca Sea",earthquake
+1987-05-27T03:24:44.770Z,38.33,20.308,10,3.9,ml,,,,1.3,us,usp000359k,2014-11-07T00:40:26.882Z,"Greece",earthquake
+1987-05-27T05:39:45.880Z,16.162,-61.453,33,2.6,ml,,,,1,us,usp000359m,2014-11-07T00:40:26.885Z,"Guadeloupe region, Leeward Islands",earthquake
+1987-05-27T06:37:51.670Z,51.07,-176.079,33,3.6,ml,,,,0.4,us,usp000359n,2014-11-07T00:40:26.886Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1987-05-27T06:59:41.610Z,-22.003,-63.685,539.8,4.1,mb,,,,0.9,us,usp000359p,2014-11-07T00:40:26.887Z,"Tarija, Bolivia",earthquake
+1987-05-27T07:23:05.040Z,60.76,-152.225,94.9,,,,,,,us,usp000359q,2014-11-07T00:40:26.892Z,"Southern Alaska",earthquake
+1987-05-27T08:14:41.430Z,46.348,2.73,10,2.3,ml,,,,0.4,us,usp000359r,2014-11-07T00:40:26.895Z,"France",earthquake
+1987-05-27T09:34:24.620Z,39.371,27.83,10,,,,,,0.7,us,usp000359s,2014-11-07T00:40:26.896Z,"western Turkey",earthquake
+1987-05-27T10:14:24.060Z,62.249,-147.354,44.4,,,,,,,us,usp000359t,2014-11-07T00:40:26.898Z,"Central Alaska",earthquake
+1987-05-27T11:28:08.200Z,45.408,25.124,10,,,,,,1.6,us,usp000359u,2014-11-07T00:40:26.901Z,"Romania",earthquake
+1987-05-27T11:59:07.870Z,36.706,22.933,46.4,4.2,mb,,,,1.5,us,usp000359v,2014-11-07T00:40:26.902Z,"southern Greece",earthquake
+1987-05-27T12:05:06.000Z,45.582,-111.705,6.1,3.6,ml,,,,,us,usp000359w,2014-11-07T00:40:26.906Z,"western Montana",earthquake
+1987-05-27T13:30:53.960Z,6.738,-82.46,10,4,md,,,,0.3,us,usp000359x,2014-11-07T00:40:26.908Z,"south of Panama",earthquake
+1987-05-27T14:10:22.670Z,58.016,-156.261,141.8,,,,,,1.4,us,usp000359y,2014-11-07T00:40:26.909Z,"Alaska Peninsula",earthquake
+1987-05-27T16:07:29.680Z,-6.627,147.666,43.5,4.2,mb,,,,1.1,us,usp000359z,2014-11-07T00:40:26.910Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1987-05-27T19:32:24.370Z,19.911,122.53,26.5,4.1,mb,,,,1.3,us,usp00035a0,2014-11-07T00:40:26.913Z,"Babuyan Islands region, Philippines",earthquake
+1987-05-27T20:35:34.480Z,12.074,142.687,33,4.7,mb,,,,0.7,us,usp00035a1,2014-11-07T00:40:26.915Z,"Mariana Islands region",earthquake
+1987-05-27T20:42:43.400Z,-5.876,151.333,35.7,3.7,mb,,,,1,us,usp00035a2,2014-11-07T00:40:26.917Z,"New Britain region, Papua New Guinea",earthquake
+1987-05-27T21:03:32.420Z,35.084,135.447,10,4.9,mb,,,,1.1,us,usp00035a3,2014-11-07T00:40:26.919Z,"western Honshu, Japan",earthquake
+1987-05-27T22:22:18.400Z,-32.977,-69.48,10,,,,,,0.4,us,usp00035a4,2014-11-07T00:40:26.928Z,"Mendoza, Argentina",earthquake
+1987-05-28T01:08:50.090Z,15.468,-60.804,33,2.5,ml,,,,0.9,us,usp00035a5,2014-11-07T00:40:26.930Z,"Dominica region, Leeward Islands",earthquake
+1987-05-28T02:19:10.290Z,39.411,-119.851,5,2.6,md,,,,1.3,us,usp00035a6,2014-11-07T00:40:26.931Z,"Nevada",earthquake
+1987-05-28T02:19:57.270Z,39.443,-119.868,5,3.3,md,,,,1.3,us,usp00035a7,2014-11-07T00:40:26.933Z,"Nevada",earthquake
+1987-05-28T04:01:07.240Z,-0.493,146.912,33,3.8,mb,,,,1.2,us,usp00035a8,2014-11-07T00:40:26.934Z,"Admiralty Islands region, Papua New Guinea",earthquake
+1987-05-28T06:28:40.540Z,32.509,141.927,33,4.3,mb,,,,0.2,us,usp00035a9,2014-11-07T00:40:26.935Z,"Izu Islands, Japan region",earthquake
+1987-05-28T07:19:04.640Z,-0.014,-17.713,10,4.7,mb,,,,1.1,us,usp00035aa,2014-11-07T00:40:26.936Z,"north of Ascension Island",earthquake
+1987-05-28T08:01:23.710Z,2.153,98.28,94.9,3.9,mb,,,,0.6,us,usp00035ab,2014-11-07T00:40:26.939Z,"northern Sumatra, Indonesia",earthquake
+1987-05-28T08:15:06.410Z,0.232,-17.598,10,4.7,mb,,,,1.2,us,usp00035ac,2014-11-07T00:40:26.940Z,"north of Ascension Island",earthquake
+1987-05-28T08:23:39.530Z,-32.849,-70.385,33,,,,,,1.3,us,usp00035ad,2014-11-07T00:40:26.942Z,"Valparaiso, Chile",earthquake
+1987-05-28T08:37:58.100Z,38.792,-122.775,2,3.3,ml,,,,,us,usp00035ae,2014-11-07T00:40:26.943Z,"Northern California",earthquake
+1987-05-28T08:45:04.590Z,-14.626,167.281,150.8,4.4,mb,,,,1.2,us,usp00035af,2014-11-07T00:40:26.945Z,"Vanuatu",earthquake
+1987-05-28T10:06:19.390Z,44.637,7.145,10,2.9,ml,,,,0.4,us,usp00035ag,2014-11-07T00:40:26.949Z,"northern Italy",earthquake
+1987-05-28T11:33:19.740Z,-8.583,-74.322,33,4.7,mb,,,,1.1,us,usp00035ah,2014-11-07T00:40:26.951Z,"central Peru",earthquake
+1987-05-28T11:46:50.600Z,-29.932,-177.746,33,4.8,mb,,,,1.1,us,usp00035aj,2014-11-07T00:40:26.953Z,"Kermadec Islands, New Zealand",earthquake
+1987-05-28T12:50:56.720Z,44.587,7.028,5,3.2,ml,,,,0.7,us,usp00035ak,2014-11-07T00:40:26.955Z,"northern Italy",earthquake
+1987-05-28T13:19:48.300Z,44.636,7.104,10,2.7,ml,,,,0.5,us,usp00035am,2014-11-07T00:40:26.957Z,"northern Italy",earthquake
+1987-05-28T13:44:41.420Z,44.639,7.111,10,2.8,ml,,,,0.4,us,usp00035an,2014-11-07T00:40:26.959Z,"northern Italy",earthquake
+1987-05-28T14:02:25.670Z,44.586,7.004,7.7,3,ml,,,,0.9,us,usp00035ap,2014-11-07T00:40:26.960Z,"northern Italy",earthquake
+1987-05-28T14:03:39.690Z,44.638,7.094,10,2.4,ml,,,,0.5,us,usp00035aq,2014-11-07T00:40:26.963Z,"northern Italy",earthquake
+1987-05-28T14:04:18.060Z,44.644,7.109,10,2.6,ml,,,,0.4,us,usp00035ar,2014-11-07T00:40:26.964Z,"northern Italy",earthquake
+1987-05-28T14:08:16.080Z,44.636,7.035,10,2.3,ml,,,,0.4,us,usp00035as,2014-11-07T00:40:26.966Z,"northern Italy",earthquake
+1987-05-28T14:12:21.400Z,37.745,-122.133,2,2.3,ml,,,,,us,usp00035at,2014-11-07T00:40:26.967Z,"San Francisco Bay area, California",earthquake
+1987-05-28T14:24:43.980Z,44.641,7.041,10,2.9,ml,,,,0.7,us,usp00035au,2014-11-07T00:40:26.968Z,"northern Italy",earthquake
+1987-05-28T14:25:40.430Z,44.634,7.118,10,3.1,ml,,,,0.6,us,usp00035av,2014-11-07T00:40:26.970Z,"northern Italy",earthquake
+1987-05-28T14:59:55.680Z,44.616,6.99,12.1,3.2,ml,,,,0.4,us,usp00035aw,2014-11-07T00:40:26.972Z,"France",earthquake
+1987-05-28T16:05:57.460Z,44.626,7.04,10,2.4,ml,,,,0.3,us,usp00035ax,2014-11-07T00:40:26.973Z,"northern Italy",earthquake
+1987-05-28T16:10:27.490Z,26.231,95.698,33,,,,,,0.9,us,usp00035ay,2014-11-07T00:40:26.975Z,"Myanmar-India border region",earthquake
+1987-05-28T17:38:42.080Z,-5.508,150.718,33,3.7,mb,,,,0.7,us,usp00035az,2014-11-07T00:40:26.976Z,"New Britain region, Papua New Guinea",earthquake
+1987-05-28T17:38:47.790Z,-11.496,117.515,33,4.1,mb,,,,1.1,us,usp00035b0,2014-11-07T00:40:26.977Z,"south of Sumbawa, Indonesia",earthquake
+1987-05-28T17:56:14.020Z,44.595,6.992,8.6,3.2,ml,,,,0.6,us,usp00035b1,2014-11-07T00:40:26.979Z,"France",earthquake
+1987-05-28T18:02:09.580Z,36.707,44.201,33,,,,,,1.5,us,usp00035b2,2014-11-07T00:40:26.982Z,"Iran-Iraq border region",earthquake
+1987-05-28T18:07:23.550Z,44.638,7.111,10,2.6,ml,,,,0.2,us,usp00035b3,2014-11-07T00:40:26.983Z,"northern Italy",earthquake
+1987-05-28T18:35:32.640Z,-34.066,-71.374,33,,,,,,0.2,us,usp00035b4,2014-11-07T00:40:26.985Z,"Region Metropolitana, Chile",earthquake
+1987-05-28T18:41:23.470Z,14.271,-92.994,43.2,4.3,mb,,,,1.1,us,usp00035b5,2014-11-07T00:40:26.986Z,"offshore Chiapas, Mexico",earthquake
+1987-05-28T19:08:22.420Z,44.63,7.05,10,2.9,ml,,,,0.3,us,usp00035b6,2014-11-07T00:40:26.989Z,"northern Italy",earthquake
+1987-05-28T19:18:02.700Z,34.683,-97.276,5,1.6,md,,,,,us,usp00035b7,2014-11-07T00:40:26.990Z,"Oklahoma",earthquake
+1987-05-28T21:05:10.600Z,-22.58,169.553,77.3,4.6,mb,,,,1.1,us,usp00035b8,2014-11-07T00:40:26.991Z,"southeast of the Loyalty Islands",earthquake
+1987-05-28T21:22:09.060Z,44.604,7.013,10,3,ml,,,,0.5,us,usp00035b9,2014-11-07T00:40:26.993Z,"northern Italy",earthquake
+1987-05-28T21:27:59.980Z,44.617,7.049,10,2.2,ml,,,,0.4,us,usp00035ba,2014-11-07T00:40:26.995Z,"northern Italy",earthquake
+1987-05-28T22:23:30.320Z,44.656,7.106,10,2.4,ml,,,,0.2,us,usp00035bb,2014-11-07T00:40:26.996Z,"northern Italy",earthquake
+1987-05-28T23:00:51.500Z,44.607,7.018,4.3,3.8,mb,,,,0.8,us,usp00035bc,2014-11-07T00:40:26.997Z,"northern Italy",earthquake
+1987-05-28T23:05:53.270Z,63.209,-150.908,33,2.8,ml,,,,0.8,us,usp00035bd,2014-11-07T00:40:27.003Z,"Central Alaska",earthquake
+1987-05-29T00:16:13.760Z,44.627,7.075,10,2.4,ml,,,,0.3,us,usp00035be,2014-11-07T00:40:27.004Z,"northern Italy",earthquake
+1987-05-29T00:20:16.280Z,51.572,16.09,10,3.3,ml,,,,0.7,us,usp00035bf,2014-11-07T00:40:27.005Z,"Poland",earthquake
+1987-05-29T00:35:33.640Z,35.093,23.183,33,4,mb,,,,1.3,us,usp00035bg,2014-11-07T00:40:27.008Z,"Crete, Greece",earthquake
+1987-05-29T00:58:11.210Z,44.625,7.013,10,2.3,ml,,,,0.4,us,usp00035bh,2014-11-07T00:40:27.010Z,"northern Italy",earthquake
+1987-05-29T00:58:40.570Z,4.249,-103.636,10,4.8,mb,,,,0.9,us,usp00035bj,2014-11-07T00:40:27.011Z,"Galapagos Triple Junction region",earthquake
+1987-05-29T01:26:14.200Z,50.735,20.395,10,2.9,ml,,,,0.9,us,usp00035bk,2014-11-07T00:40:27.013Z,"Poland",earthquake
+1987-05-29T02:01:09.780Z,44.619,7.059,10,2.4,ml,,,,0.4,us,usp00035bm,2014-11-07T00:40:27.015Z,"northern Italy",earthquake
+1987-05-29T02:12:24.740Z,-3.866,128.841,33,4.4,mb,,,,1.1,us,usp00035bn,2014-11-07T00:40:27.017Z,"Seram, Indonesia",earthquake
+1987-05-29T03:26:06.410Z,-5.066,102.652,45.1,5.1,mb,,,,1,us,usp00035bp,2014-11-07T00:40:27.019Z,"southern Sumatra, Indonesia",earthquake
+1987-05-29T06:27:50.770Z,34.076,48.266,40.9,5.3,mw,,,,1.2,us,usp00035bq,2015-02-11T17:15:29.000Z,"western Iran",earthquake
+1987-05-29T07:11:33.070Z,15.87,-60.471,33,2.9,ml,,,,0.8,us,usp00035br,2014-11-07T00:40:27.041Z,"Guadeloupe region, Leeward Islands",earthquake
+1987-05-29T07:21:50.290Z,47.193,9.655,10,,,,,,1.4,us,usp00035bs,2014-11-07T00:40:27.043Z,"Austria",earthquake
+1987-05-29T09:04:52.000Z,34.208,48.072,28.2,4,mb,,,,1.3,us,usp00035bt,2014-11-07T00:40:27.044Z,"western Iran",earthquake
+1987-05-29T09:46:47.880Z,3.312,128.579,61.7,4.7,mb,,,,0.9,us,usp00035bu,2014-11-07T00:40:27.046Z,"north of Halmahera, Indonesia",earthquake
+1987-05-29T11:02:13.200Z,40.249,63.266,33,4.5,mb,,,,0.8,us,usp00035bv,2014-11-07T00:40:27.050Z,"western Uzbekistan",earthquake
+1987-05-29T11:35:53.200Z,-26.906,26.634,5,4.9,mb,,,,1.3,us,usp00035bw,2015-03-20T16:27:41.731Z,"South Africa",earthquake
+1987-05-29T11:39:13.960Z,-5.057,145.877,33,4.4,mb,,,,1.1,us,usp00035bx,2014-11-07T00:40:27.058Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1987-05-29T11:51:38.700Z,53.763,-167.14,33,4.6,mb,,,,0.8,us,usp00035by,2014-11-07T00:40:27.060Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1987-05-29T14:20:51.170Z,12.107,143.7,27.7,4.9,mb,,,,1.1,us,usp00035bz,2014-11-07T00:40:27.062Z,"Guam region",earthquake
+1987-05-29T15:16:28.800Z,33.7,-118.17,13,3.1,ml,,,,,us,usp00035c0,2014-11-07T00:40:27.068Z,"San Pedro Channel, California",earthquake
+1987-05-29T16:49:04.250Z,15.959,59.729,10,4.3,mb,,,,0.6,us,usp00035c1,2014-11-07T00:40:27.069Z,"Owen Fracture Zone region",earthquake
+1987-05-29T17:33:08.500Z,44.615,7.002,10,2.9,ml,,,,0.2,us,usp00035c2,2014-11-07T00:40:27.071Z,"northern Italy",earthquake
+1987-05-29T17:37:37.300Z,22.475,143.265,118.5,5.2,mw,,,,1,us,usp00035c3,2015-02-11T17:15:29.000Z,"Volcano Islands, Japan region",earthquake
+1987-05-29T17:41:23.610Z,16.203,-60.581,28.8,3.6,ml,,,,0.3,us,usp00035c4,2014-11-07T00:40:27.097Z,"Guadeloupe region, Leeward Islands",earthquake
+1987-05-29T18:40:31.340Z,37.549,21.574,48.9,5.3,mw,,,,1.2,us,usp00035c5,2015-02-11T17:15:29.000Z,"southern Greece",earthquake
+1987-05-29T18:49:57.300Z,32.97,-117.73,6,3,ml,,,,,us,usp00035c6,2014-11-07T00:40:27.128Z,"Gulf of Santa Catalina, California",earthquake
+1987-05-29T19:04:57.790Z,51.837,-30.17,10,4.3,mb,,,,1,us,usp00035c7,2014-11-07T00:40:27.130Z,"northern Mid-Atlantic Ridge",earthquake
+1987-05-29T19:27:40.100Z,40.198,-121.3,23,3.4,ml,,,,,us,usp00035c8,2014-11-07T00:40:27.133Z,"Northern California",earthquake
+1987-05-29T19:37:51.840Z,-23.917,-66.628,205.2,5,mb,,,,0.9,us,usp00035c9,2014-11-07T00:40:27.134Z,"Jujuy, Argentina",earthquake
+1987-05-29T20:52:05.600Z,53.933,160.841,33,4.9,mb,,,,0.8,us,usp00035ca,2014-11-07T00:40:27.144Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1987-05-29T21:03:22.220Z,-18.945,168.762,233.6,4.4,mb,,,,1,us,usp00035cb,2014-11-07T00:40:27.151Z,"Vanuatu",earthquake
+1987-05-29T22:21:27.390Z,36.976,141.322,62.3,4.6,mb,,,,1.1,us,usp00035cc,2014-11-07T00:40:27.154Z,"near the east coast of Honshu, Japan",earthquake
+1987-05-29T23:17:52.950Z,44.669,7.244,33,2.2,ml,,,,0.2,us,usp00035cd,2014-11-07T00:40:27.158Z,"northern Italy",earthquake
+1987-05-29T23:33:47.930Z,-3.81,86.383,10,4.6,mb,,,,1,us,usp00035ce,2014-11-07T00:40:27.161Z,"South Indian Ocean",earthquake
+1987-05-30T00:08:35.990Z,4.61,122.783,601.9,4.3,mb,,,,0.5,us,usp00035cf,2014-11-07T00:40:27.164Z,"Celebes Sea",earthquake
+1987-05-30T00:54:40.400Z,38.852,-122.78,1,3.3,ml,,,,,us,usp00035cg,2014-11-07T00:40:27.198Z,"Northern California",earthquake
+1987-05-30T02:16:27.790Z,47.808,-1.695,10,2,ml,,,,0.1,us,usp00035ch,2014-11-07T00:40:27.201Z,"France",earthquake
+1987-05-30T02:29:00.170Z,19.189,-64.226,33,4.2,ml,,,,0.3,us,usp00035cj,2014-11-07T00:40:27.203Z,"Virgin Islands region",earthquake
+1987-05-30T02:59:36.560Z,-15.322,-173.555,33,5.7,mw,,,,1.4,us,usp00035ck,2015-05-13T18:53:25.000Z,"Tonga",earthquake
+1987-05-30T03:33:23.520Z,16.205,-60.682,33,2.9,ml,,,,0.7,us,usp00035cm,2014-11-07T00:40:27.221Z,"Guadeloupe region, Leeward Islands",earthquake
+1987-05-30T06:23:47.890Z,44.638,7.064,10,2.5,ml,,,,0.4,us,usp00035cn,2014-11-07T00:40:27.223Z,"northern Italy",earthquake
+1987-05-30T06:59:07.680Z,41.518,23.488,10,,,,,,0.4,us,usp00035cp,2014-11-07T00:40:27.225Z,"Bulgaria",earthquake
+1987-05-30T08:16:52.670Z,48.485,17.75,10,3.1,ml,,,,1.3,us,usp00035cq,2014-11-07T00:40:27.226Z,"Slovakia",earthquake
+1987-05-30T09:46:42.120Z,16.664,-60.871,33,3.3,ml,,,,0.5,us,usp00035cr,2014-11-07T00:40:27.229Z,"Guadeloupe region, Leeward Islands",earthquake
+1987-05-30T10:50:18.830Z,45.63,6.306,10,3,ml,,,,0.6,us,usp00035cs,2014-11-07T00:40:27.230Z,"France",earthquake
+1987-05-30T11:29:18.300Z,46.54,-80.99,1,3.5,mblg,,,,,us,usp00035ct,2014-11-07T00:40:27.233Z,"Ontario, Canada",earthquake
+1987-05-30T11:49:32.240Z,17.151,-62.761,135.3,,,,,,0.4,us,usp00035cu,2014-11-07T00:40:27.234Z,"Saint Kitts and Nevis region, Leeward Islands",earthquake
+1987-05-30T12:24:18.760Z,43.986,16.554,10,3.1,md,,,,1,us,usp00035cv,2014-11-07T00:40:27.235Z,"Croatia",earthquake
+1987-05-30T12:37:12.110Z,6.976,126.72,33,4.7,mb,,,,1.5,us,usp00035cw,2014-11-07T00:40:27.238Z,"Mindanao, Philippines",earthquake
+1987-05-30T13:30:08.130Z,27.326,141.157,33,4.3,mb,,,,0.4,us,usp00035cx,2014-11-07T00:40:27.240Z,"Bonin Islands, Japan region",earthquake
+1987-05-30T14:01:18.350Z,39.429,28.269,10,,,,,,1.2,us,usp00035cy,2014-11-07T00:40:27.241Z,"western Turkey",earthquake
+1987-05-30T14:11:24.170Z,59.983,-152.948,106,,,,,,,us,usp00035cz,2014-11-07T00:40:27.243Z,"Southern Alaska",earthquake
+1987-05-30T14:11:32.440Z,47.416,6.42,10,2.5,ml,,,,0.5,us,usp00035d0,2014-11-07T00:40:27.245Z,"France",earthquake
+1987-05-30T14:44:28.880Z,-37.698,146.437,10,3.5,mb,,,,1.1,us,usp00035d1,2014-11-07T00:40:27.247Z,"near the southeast coast of Australia",earthquake
+1987-05-30T15:21:40.640Z,22.701,94.585,106.3,4.5,mb,,,,1.1,us,usp00035d2,2014-11-07T00:40:27.249Z,"Myanmar",earthquake
+1987-05-30T16:54:04.710Z,-6.064,130.518,137.6,5.3,mw,,,,0.9,us,usp00035d3,2015-02-11T17:15:29.000Z,"Banda Sea",earthquake
+1987-05-30T17:19:00.160Z,44.669,150.289,52.8,5.3,mw,,,,1,us,usp00035d4,2015-02-11T17:15:29.000Z,"east of the Kuril Islands",earthquake
+1987-05-30T17:55:08.340Z,17.962,-67.131,5,4.6,mb,,,,1.1,us,usp00035d5,2014-11-07T00:40:27.282Z,"Puerto Rico",earthquake
+1987-05-30T18:17:19.450Z,45.231,14.692,14.1,3.4,ml,,,,1.4,us,usp00035d6,2014-11-07T00:40:27.287Z,"Croatia",earthquake
+1987-05-30T18:18:07.630Z,45.204,149.652,33,4.6,mb,,,,1.6,us,usp00035d7,2014-11-07T00:40:27.291Z,"Kuril Islands",earthquake
+1987-05-30T19:25:16.500Z,33.713,139.737,113.4,4,mb,,,,1.5,us,usp00035d8,2014-11-07T00:40:27.293Z,"Izu Islands, Japan region",earthquake
+1987-05-30T19:37:30.350Z,-7.034,156.014,79.3,4.7,mb,,,,0.6,us,usp00035d9,2014-11-07T00:40:27.295Z,"Solomon Islands",earthquake
+1987-05-30T19:45:18.250Z,45.954,7.933,10,2.8,ml,,,,1.2,us,usp00035da,2014-11-07T00:40:27.299Z,"northern Italy",earthquake
+1987-05-30T21:27:24.200Z,-5.908,147.002,210.4,4.1,mb,,,,1.2,us,usp00035db,2014-11-07T00:40:27.301Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1987-05-30T22:28:01.600Z,33.957,48.413,33,,,,,,1.1,us,usp00035dc,2014-11-07T00:40:27.303Z,"western Iran",earthquake
+1987-05-30T23:06:40.800Z,33.86,-116.18,4,3.1,ml,,,,,us,usp00035dd,2014-11-07T00:40:27.304Z,"Southern California",earthquake
+1987-05-30T23:24:30.630Z,-22.105,-179.609,493.6,4.8,mb,,,,1.5,us,usp00035de,2014-11-07T00:40:27.305Z,"south of the Fiji Islands",earthquake
+1987-05-31T01:00:53.120Z,-7.93,122.273,225.1,5.2,mw,,,,1,us,usp00035df,2015-02-11T17:15:29.000Z,"Flores Sea",earthquake
+1987-05-31T02:08:04.770Z,61.302,-150.054,52.9,,,,,,,us,usp00035dg,2014-11-07T00:40:27.325Z,"Southern Alaska",earthquake
+1987-05-31T02:54:26.660Z,51.653,16.283,9.8,4.9,mb,,,,1.1,us,usp00035dh,2014-11-07T00:40:27.328Z,"Poland",earthquake
+1987-05-31T03:14:53.130Z,44.612,7.053,10,3.1,ml,,,,0.7,us,usp00035dj,2014-11-07T00:40:27.333Z,"northern Italy",earthquake
+1987-05-31T03:34:50.200Z,37.735,-122.123,3,3.2,ml,,,,,us,usp00035dk,2014-11-07T00:40:27.336Z,"San Francisco Bay area, California",earthquake
+1987-05-31T05:16:24.500Z,37.745,-122.137,3,2.4,ml,,,,,us,usp00035dm,2014-11-07T00:40:27.338Z,"San Francisco Bay area, California",earthquake
+1987-05-31T08:06:17.320Z,-29.664,60.705,10,4.6,mb,,,,1.1,us,usp00035dn,2014-11-07T00:40:27.339Z,"Southwest Indian Ridge",earthquake
+1987-05-31T08:45:50.170Z,-24.081,-66.602,203.1,4.4,mb,,,,0.9,us,usp00035dp,2014-11-07T00:40:27.341Z,"Jujuy, Argentina",earthquake
+1987-05-31T09:15:09.990Z,35.433,23.244,33,3.6,ml,,,,1.2,us,usp00035dq,2014-11-07T00:40:27.343Z,"Crete, Greece",earthquake
+1987-05-31T09:34:15.930Z,27.945,56.051,33,4,mb,,,,0.9,us,usp00035dr,2014-11-07T00:40:27.345Z,"southern Iran",earthquake
+1987-05-31T09:47:24.100Z,-31.106,29.709,5,4,m,,,,1.2,us,usp00035ds,2014-11-07T00:40:27.346Z,"South Africa",earthquake
+1987-05-31T09:52:19.600Z,-33.943,-72.488,33,,,,,,0.4,us,usp00035dt,2014-11-07T00:40:27.349Z,"offshore Libertador O'Higgins, Chile",earthquake
+1987-05-31T11:38:49.940Z,45.767,-0.286,10,3,ml,,,,0.6,us,usp00035du,2014-11-07T00:40:27.351Z,"France",earthquake
+1987-05-31T11:59:47.080Z,-30.098,28.062,5,3.6,m,,,,1.4,us,usp00035dv,2014-11-07T00:40:27.353Z,"Lesotho",earthquake
+1987-05-31T12:09:20.720Z,41.57,19.611,10,2,ml,,,,0.6,us,usp00035dw,2014-11-07T00:40:27.355Z,"Albania",earthquake
+1987-05-31T16:06:57.160Z,-11.488,118.335,33,5.2,mb,,,,1.1,us,usp00035dx,2014-11-07T00:40:27.357Z,"south of Sumbawa, Indonesia",earthquake
+1987-05-31T16:41:53.750Z,-7.418,119.959,401.2,4.5,mb,,,,1,us,usp00035dy,2014-11-07T00:40:27.359Z,"Flores Sea",earthquake
+1987-05-31T16:41:56.260Z,36.516,-5.919,10,,,,,,1.5,us,usp00035dz,2014-11-07T00:40:27.362Z,"Strait of Gibraltar",earthquake
+1987-05-31T17:02:11.050Z,42.187,25.059,10,,,,,,0.9,us,usp00035e0,2014-11-07T00:40:27.363Z,"Bulgaria",earthquake
+1987-05-31T18:06:29.340Z,15.506,119.429,33,4.1,mb,,,,1.3,us,usp00035e1,2014-11-07T00:40:27.364Z,"Luzon, Philippines",earthquake
+1987-05-31T18:32:17.050Z,0.748,121.941,78.5,5.3,mw,,,,1,us,usp00035e2,2015-02-11T17:15:30.000Z,"Minahasa, Sulawesi, Indonesia",earthquake
+1987-05-31T18:45:33.240Z,-5.795,152.732,13.7,5.2,mb,,,,1,us,usp00035e3,2014-11-07T00:40:27.375Z,"New Britain region, Papua New Guinea",earthquake
+1987-05-31T21:18:13.050Z,1.781,126.842,102.2,4.7,mb,,,,0.9,us,usp00035e4,2014-11-07T00:40:27.384Z,"Molucca Sea",earthquake
+1987-05-31T21:29:36.860Z,15.263,-61.014,131.5,,,,,,0.4,us,usp00035e5,2014-11-07T00:40:27.386Z,"Dominica region, Leeward Islands",earthquake
+1987-05-31T22:35:19.350Z,47.398,145.741,311.8,4.5,mb,,,,0.8,us,usp00035e6,2014-11-07T00:40:27.388Z,"Sea of Okhotsk",earthquake
+1987-05-31T23:20:34.140Z,36.207,-5.589,10,,,,,,1.1,us,usp00035e7,2014-11-07T00:40:27.393Z,"Strait of Gibraltar",earthquake
+1987-05-31T23:38:40.050Z,36.236,102.788,33,4.4,mb,,,,1.2,us,usp00035e8,2014-11-07T00:40:27.395Z,"Gansu-Qinghai border region, China",earthquake
+1987-05-31T23:50:34.690Z,61.147,-152.276,109.6,,,,,,,us,usp00035e9,2014-11-07T00:40:27.398Z,"Southern Alaska",earthquake

@@ -1,0 +1,731 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1978-03-01T00:08:19.700Z,46.291,153.107,33,5.4,mb,,,,,us,usp0000t69,2014-11-06T23:21:47.412Z,"Kuril Islands",earthquake
+1978-03-01T01:58:45.200Z,13.23,50.209,33,5.1,mb,,,,,us,usp0000t6a,2014-11-06T23:21:47.413Z,"Gulf of Aden",earthquake
+1978-03-01T04:08:26.100Z,34.493,-86.683,5,2.5,,,,,,us,usp0000t6b,2014-11-06T23:21:47.413Z,"Alabama",earthquake
+1978-03-01T04:54:31.200Z,34.533,-116.766,5,4.4,ml,,,,,us,usp0000t6c,2014-11-06T23:21:47.415Z,"Southern California",earthquake
+1978-03-01T09:53:46.400Z,27.387,56.401,33,4.6,mb,,,,,us,usp0000t6d,2014-11-06T23:21:47.415Z,"southern Iran",earthquake
+1978-03-01T11:05:02.000Z,46.269,153.12,33,5,mb,,,,,us,usp0000t6e,2014-11-06T23:21:47.417Z,"Kuril Islands",earthquake
+1978-03-01T11:47:34.000Z,46.342,153.076,33,5,mb,,,,,us,usp0000t6f,2014-11-06T23:21:47.418Z,"Kuril Islands",earthquake
+1978-03-01T11:58:47.600Z,66.092,-149.493,33,3.5,ml,,,,,us,usp0000t6g,2014-11-06T23:21:47.420Z,"northern Alaska",earthquake
+1978-03-01T15:45:09.600Z,34.791,141.728,32,5.4,mb,,,,,us,usp0000t6h,2015-02-12T15:43:38.000Z,"off the east coast of Honshu, Japan",earthquake
+1978-03-01T20:07:30.100Z,8.276,-71.306,13,,,,,,,us,usp0000t6j,2014-11-06T23:21:47.421Z,"Merida, Venezuela",earthquake
+1978-03-01T20:33:39.600Z,-15.435,-173.263,33,5.4,mb,,,,,us,usp0000t6k,2014-11-06T23:21:47.422Z,"Tonga",earthquake
+1978-03-01T22:51:05.100Z,35.967,27.134,89,4.6,mb,,,,,us,usp0000t6m,2014-11-06T23:21:47.423Z,"Dodecanese Islands, Greece",earthquake
+1978-03-01T23:27:58.400Z,40.974,42.895,33,4.5,mb,,,,,us,usp0000t6n,2014-11-06T23:21:47.424Z,"eastern Turkey",earthquake
+1978-03-02T01:48:33.700Z,61.186,-151.269,97,,,,,,,us,usp0000t6p,2014-11-06T23:21:47.425Z,"Southern Alaska",earthquake
+1978-03-02T09:07:05.600Z,-21.043,-69.207,124,4.6,mb,,,,,us,usp0000t6q,2014-11-06T23:21:47.427Z,"Tarapaca, Chile",earthquake
+1978-03-02T10:04:52.700Z,31.562,-102.512,11,3.5,ml,,,,,us,usp0000t6r,2014-11-06T23:21:47.427Z,"western Texas",earthquake
+1978-03-02T10:56:19.300Z,53.234,171.49,33,4.3,mb,,,,,us,usp0000t6s,2014-11-06T23:21:47.428Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1978-03-02T11:35:10.600Z,13.196,-89.648,102,4.6,mb,,,,,us,usp0000t6t,2014-11-06T23:21:47.429Z,"offshore El Salvador",earthquake
+1978-03-02T11:42:13.700Z,37.317,54.614,33,4.7,mb,,,,,us,usp0000t6u,2014-11-06T23:21:47.430Z,"Turkmenistan-Iran border region",earthquake
+1978-03-02T12:14:42.800Z,27.243,96.918,93,4.6,mb,,,,,us,usp0000t6v,2014-11-06T23:21:47.432Z,"Myanmar-India border region",earthquake
+1978-03-02T14:34:58.500Z,55.073,164.632,33,5.5,ms,,,,,us,usp0000t6w,2015-05-13T18:53:14.000Z,"Komandorskiye Ostrova, Russia region",earthquake
+1978-03-02T14:41:40.700Z,56.388,-158.282,88,4.9,mb,,,,,us,usp0000t6x,2014-11-06T23:21:47.434Z,"Alaska Peninsula",earthquake
+1978-03-02T16:15:04.800Z,-31.537,-67.834,38,5,mb,,,,,us,usp0000t6y,2014-11-06T23:21:47.434Z,"San Juan, Argentina",earthquake
+1978-03-02T16:44:47.600Z,55.009,164.66,33,4.6,ms,,,,,us,usp0000t6z,2014-11-06T23:21:47.435Z,"Komandorskiye Ostrova, Russia region",earthquake
+1978-03-02T17:51:29.400Z,62.455,-26.099,10,4.7,mb,,,,,us,usp0000t70,2014-11-06T23:21:47.436Z,"Iceland region",earthquake
+1978-03-02T18:23:06.100Z,-22.993,-175.128,33,5.1,mb,,,,,us,usp0000t71,2014-11-06T23:21:47.437Z,"Tonga region",earthquake
+1978-03-02T22:09:22.500Z,55.114,164.559,33,4.8,mb,,,,,us,usp0000t72,2014-11-06T23:21:47.437Z,"Komandorskiye Ostrova, Russia region",earthquake
+1978-03-02T22:53:46.200Z,43.296,147.787,33,5,mb,,,,,us,usp0000t73,2014-11-06T23:21:47.439Z,"Kuril Islands",earthquake
+1978-03-03T02:00:11.700Z,-30.152,-178.035,338,4.6,mb,,,,,us,usp0000t74,2014-11-06T23:21:47.440Z,"Kermadec Islands, New Zealand",earthquake
+1978-03-03T02:42:47.500Z,32.916,48.584,33,4.8,mb,,,,,us,usp0000t75,2014-11-06T23:21:47.440Z,"western Iran",earthquake
+1978-03-03T07:26:44.200Z,-11.316,118.485,33,5,mb,,,,,us,usp0000t76,2014-11-06T23:21:47.442Z,"south of Sumbawa, Indonesia",earthquake
+1978-03-03T07:34:59.800Z,-23.256,-174.999,33,5.2,mb,,,,,us,usp0000t77,2014-11-06T23:21:47.442Z,"Tonga region",earthquake
+1978-03-03T07:42:08.600Z,-23.263,-174.984,33,5.2,mb,,,,,us,usp0000t78,2014-11-06T23:21:47.444Z,"Tonga region",earthquake
+1978-03-03T09:55:25.000Z,55.473,164.422,33,4.5,mb,,,,,us,usp0000t79,2014-11-06T23:21:47.445Z,"Komandorskiye Ostrova, Russia region",earthquake
+1978-03-03T10:36:12.500Z,55.417,164.667,33,4.2,mb,,,,,us,usp0000t7a,2014-11-06T23:21:47.445Z,"Komandorskiye Ostrova, Russia region",earthquake
+1978-03-03T10:48:11.100Z,-15.288,-173.517,33,6.2,ms,,,,,us,usp0000t7b,2015-05-13T18:53:14.000Z,"Tonga",earthquake
+1978-03-03T10:53:19.800Z,55.098,164.757,33,6.2,ms,,,,,us,usp0000t7c,2015-05-13T18:53:14.000Z,"Komandorskiye Ostrova, Russia region",earthquake
+1978-03-03T17:29:43.200Z,3.485,63.777,33,5,mb,,,,,us,usp0000t7d,2014-11-06T23:21:47.448Z,"Carlsberg Ridge",earthquake
+1978-03-03T18:37:24.000Z,36.017,-117.632,3,3,ml,,,,,us,usp0000t7e,2014-11-06T23:21:47.449Z,"Central California",earthquake
+1978-03-03T18:48:36.700Z,56.319,-152.801,35,4.5,mb,,,,,us,usp0000t7f,2014-11-06T23:21:47.450Z,"Kodiak Island region, Alaska",earthquake
+1978-03-04T01:21:39.200Z,11.993,143.519,33,5.4,mb,,,,,us,usp0000t7g,2014-11-06T23:21:47.452Z,"south of the Mariana Islands",earthquake
+1978-03-04T02:43:59.700Z,-7.066,103.086,46,5.2,mb,,,,,us,usp0000t7h,2014-11-06T23:21:47.452Z,"southwest of Sumatra, Indonesia",earthquake
+1978-03-04T03:51:33.100Z,-23.911,179.796,513,5.2,mb,,,,,us,usp0000t7j,2014-11-06T23:21:47.453Z,"south of the Fiji Islands",earthquake
+1978-03-04T04:46:36.100Z,-21.894,-174.854,33,6.3,ms,,,,,us,usp0000t7k,2015-05-13T18:53:14.000Z,"Tonga",earthquake
+1978-03-04T06:23:49.900Z,33.433,141.546,42,4.7,mb,,,,,us,usp0000t7m,2014-11-06T23:21:47.455Z,"off the east coast of Honshu, Japan",earthquake
+1978-03-04T06:40:04.300Z,-36.937,-96.12,33,5.3,mb,,,,,us,usp0000t7n,2014-11-06T23:21:47.457Z,"West Chile Rise",earthquake
+1978-03-04T07:34:10.700Z,52.932,-168.951,48,4.4,mb,,,,,us,usp0000t7p,2014-11-06T23:21:47.457Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1978-03-04T08:00:45.500Z,-31.622,-67.666,33,,,,,,,us,usp0000t7q,2014-11-06T23:21:47.458Z,"San Juan, Argentina",earthquake
+1978-03-04T10:23:01.400Z,56.256,-152.723,20,4.6,mb,,,,,us,usp0000t7r,2014-11-06T23:21:47.459Z,"Kodiak Island region, Alaska",earthquake
+1978-03-04T12:08:49.000Z,-17.962,-178.488,588,5,mb,,,,,us,usp0000t7s,2014-11-06T23:21:47.460Z,"Fiji region",earthquake
+1978-03-04T13:00:37.200Z,48.791,19.276,33,,,,,,,us,usp0000t7t,2014-11-06T23:21:47.460Z,"Slovakia",earthquake
+1978-03-04T14:58:13.000Z,-4.656,153.101,78,6.2,mb,,,,,us,usp0000t7u,2015-05-13T18:53:14.000Z,"New Ireland region, Papua New Guinea",earthquake
+1978-03-04T17:35:09.400Z,14.341,-91.334,101,5.2,mb,,,,,us,usp0000t7v,2014-11-06T23:21:47.462Z,"Guatemala",earthquake
+1978-03-05T00:33:26.800Z,59.962,-153.498,155,4.5,mb,,,,,us,usp0000t7w,2014-11-06T23:21:47.463Z,"Southern Alaska",earthquake
+1978-03-05T00:54:45.800Z,-30.212,-177.151,33,5.1,mb,,,,,us,usp0000t7x,2014-11-06T23:21:47.464Z,"Kermadec Islands, New Zealand",earthquake
+1978-03-05T03:06:03.200Z,41.718,70.598,61,4.5,mb,,,,,us,usp0000t7y,2014-11-06T23:21:47.465Z,"Kyrgyzstan",earthquake
+1978-03-05T03:27:55.600Z,-24.197,-66.983,187,4.6,mb,,,,,us,usp0000t7z,2014-11-06T23:21:47.467Z,"Salta, Argentina",earthquake
+1978-03-05T04:36:55.000Z,38.029,21.263,33,3.8,mb,,,,,us,usp0000t80,2014-11-06T23:21:47.467Z,"Greece",earthquake
+1978-03-05T05:03:37.900Z,9.721,-84.29,8,4.6,mb,,,,,us,usp0000t81,2014-11-06T23:21:47.468Z,"Costa Rica",earthquake
+1978-03-05T05:26:05.300Z,34.854,23.365,33,4.4,mb,,,,,us,usp0000t82,2014-11-06T23:21:47.469Z,"Crete, Greece",earthquake
+1978-03-05T07:53:25.600Z,41.352,-74.146,5,2.1,,,,,,us,usp0000t83,2014-11-06T23:21:47.470Z,"New York",earthquake
+1978-03-05T09:07:48.500Z,-23.303,-68.279,114,4.3,mb,,,,,us,usp0000t84,2014-11-06T23:21:47.470Z,"Antofagasta, Chile",earthquake
+1978-03-05T10:05:51.400Z,35.676,22.122,33,4.2,mb,,,,,us,usp0000t85,2014-11-06T23:21:47.472Z,"central Mediterranean Sea",earthquake
+1978-03-05T10:47:50.400Z,46.978,153.979,33,4.6,mb,,,,,us,usp0000t86,2014-11-06T23:21:47.472Z,"Kuril Islands",earthquake
+1978-03-05T12:34:09.900Z,2.716,-95.412,33,5,ms,,,,,us,usp0000t87,2015-02-12T15:43:38.000Z,"Galapagos Islands, Ecuador region",earthquake
+1978-03-05T13:00:08.200Z,-17.678,-178.743,581,4.9,mb,,,,,us,usp0000t88,2014-11-06T23:21:47.474Z,"Fiji region",earthquake
+1978-03-05T13:03:16.000Z,2.245,-95.673,33,4.9,mb,,,,,us,usp0000t89,2014-11-06T23:21:47.475Z,"Galapagos Islands, Ecuador region",earthquake
+1978-03-05T14:15:41.500Z,-5.366,145.626,64,4.6,mb,,,,,us,usp0000t8a,2014-11-06T23:21:47.476Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1978-03-05T18:13:35.900Z,48.057,-122.998,57,3.3,ml,,,,,us,usp0000t8b,2014-11-06T23:21:47.477Z,"Olympic Peninsula, Washington",earthquake
+1978-03-05T20:24:16.600Z,-17.287,-178.455,553,4.5,mb,,,,,us,usp0000t8c,2014-11-06T23:21:47.477Z,"Fiji region",earthquake
+1978-03-05T22:46:17.200Z,38.944,-117.99,5,4,mb,,,,,us,usp0000t8d,2014-11-06T23:21:47.479Z,"Nevada",earthquake
+1978-03-05T23:21:02.000Z,43.48,-79.75,18,2.3,,,,,,us,usp0000t8e,2014-11-06T23:21:47.480Z,"southern Ontario, Canada",earthquake
+1978-03-05T23:29:25.800Z,37.684,21.262,33,4.2,mb,,,,,us,usp0000t8f,2014-11-06T23:21:47.481Z,"southern Greece",earthquake
+1978-03-06T00:22:19.200Z,-35.523,-102.586,33,5.7,ms,,,,,us,usp0000t8g,2015-05-13T18:53:14.000Z,"southeast of Easter Island",earthquake
+1978-03-06T01:18:59.600Z,55.011,164.713,33,5.1,mb,,,,,us,usp0000t8h,2014-11-06T23:21:47.483Z,"Komandorskiye Ostrova, Russia region",earthquake
+1978-03-06T02:15:32.200Z,-20.999,-178.935,620,5.2,mb,,,,,us,usp0000t8j,2014-11-06T23:21:47.484Z,"Fiji region",earthquake
+1978-03-06T05:04:14.700Z,-4.926,151.756,99,5.5,mb,,,,,us,usp0000t8k,2015-05-13T18:53:14.000Z,"New Britain region, Papua New Guinea",earthquake
+1978-03-06T05:39:39.100Z,12.167,143.974,40,4.7,mb,,,,,us,usp0000t8m,2014-11-06T23:21:47.487Z,"Guam region",earthquake
+1978-03-06T07:25:59.000Z,-10.274,-75.542,25,4.8,mb,,,,,us,usp0000t8n,2014-11-06T23:21:47.487Z,"central Peru",earthquake
+1978-03-06T09:45:12.100Z,-21.18,-178.163,437,4.6,mb,,,,,us,usp0000t8p,2014-11-06T23:21:47.488Z,"Fiji region",earthquake
+1978-03-06T11:06:21.500Z,44.22,-110.846,5,2.9,ml,,,,,us,usp0000t8q,2014-11-06T23:21:47.489Z,"Yellowstone National Park, Wyoming",earthquake
+1978-03-06T15:11:38.200Z,38.252,133.966,417,5.1,mb,,,,,us,usp0000t8r,2015-02-12T15:43:39.000Z,"Sea of Japan",earthquake
+1978-03-06T18:33:57.100Z,55.079,164.55,33,5,mb,,,,,us,usp0000t8s,2014-11-06T23:21:47.490Z,"Komandorskiye Ostrova, Russia region",earthquake
+1978-03-06T18:40:23.600Z,51.761,-175.808,65,4.7,mb,,,,,us,usp0000t8t,2014-11-06T23:21:47.492Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1978-03-06T20:47:25.600Z,59.004,-154.272,138,,,,,,,us,usp0000t8u,2014-11-06T23:21:47.493Z,"Southern Alaska",earthquake
+1978-03-07T01:10:47.600Z,44.433,-110.843,5,3.5,ml,,,,,us,usp0000t8v,2014-11-06T23:21:47.493Z,"Yellowstone National Park, Wyoming",earthquake
+1978-03-07T01:53:13.800Z,59.646,-152.709,102,,,,,,,us,usp0000t8w,2014-11-06T23:21:47.495Z,"Southern Alaska",earthquake
+1978-03-07T02:31:55.100Z,56.706,7.947,33,,,,,,,us,usp0000t8x,2014-11-06T23:21:47.495Z,"North Sea",earthquake
+1978-03-07T02:48:39.400Z,31.962,137.61,442,6,mb,,,,,us,usp0000t8y,2015-05-13T18:53:14.000Z,"Izu Islands, Japan region",earthquake
+1978-03-07T02:48:47.600Z,32.005,137.609,439,6.9,mb,,,,,us,usp0000t8z,2015-05-13T18:53:14.000Z,"Izu Islands, Japan region",earthquake
+1978-03-07T04:04:03.300Z,-31.506,-67.721,33,,,,,,,us,usp0000t90,2014-11-06T23:21:47.498Z,"San Juan, Argentina",earthquake
+1978-03-07T07:39:33.100Z,44.304,-110.918,5,3.1,ml,,,,,us,usp0000t91,2014-11-06T23:21:47.500Z,"Yellowstone National Park, Wyoming",earthquake
+1978-03-07T08:14:06.900Z,50.654,18.939,33,,,,,,,us,usp0000t92,2014-11-06T23:21:47.500Z,"Poland",earthquake
+1978-03-07T08:16:30.300Z,-31.467,-69.422,151,,,,,,,us,usp0000t93,2014-11-06T23:21:47.501Z,"San Juan, Argentina",earthquake
+1978-03-07T10:21:59.100Z,29.279,81.052,33,4.2,mb,,,,,us,usp0000t94,2014-11-06T23:21:47.502Z,"Nepal",earthquake
+1978-03-07T11:34:58.700Z,-48.714,127.443,33,5.1,mb,,,,,us,usp0000t95,2014-11-06T23:21:47.503Z,"western Indian-Antarctic Ridge",earthquake
+1978-03-07T11:45:35.800Z,6.787,-73.038,163,5,mb,,,,,us,usp0000t96,2014-11-06T23:21:47.505Z,"northern Colombia",earthquake
+1978-03-07T12:29:04.400Z,34.836,26.595,33,,,,,,,us,usp0000t97,2014-11-06T23:21:47.505Z,"Crete, Greece",earthquake
+1978-03-07T15:28:33.700Z,36,-117.633,5,3.3,ml,,,,,us,usp0000t98,2014-11-06T23:21:47.506Z,"Central California",earthquake
+1978-03-07T15:36:59.800Z,15.121,95.447,33,4.4,mb,,,,,us,usp0000t99,2014-11-06T23:21:47.507Z,"near the south coast of Myanmar",earthquake
+1978-03-07T16:34:45.100Z,-55.627,-27.721,33,5.5,mb,,,,,us,usp0000t9a,2015-02-12T15:43:39.000Z,"South Sandwich Islands region",earthquake
+1978-03-07T17:05:30.600Z,-5.947,146.808,117,4.9,mb,,,,,us,usp0000t9b,2014-11-06T23:21:47.509Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1978-03-07T18:21:39.400Z,36.519,70.436,33,3.6,mb,,,,,us,usp0000t9c,2014-11-06T23:21:47.510Z,"Hindu Kush region, Afghanistan",earthquake
+1978-03-07T18:35:00.700Z,-56.446,-25.589,33,5.5,ms,,,,,us,usp0000t9d,2015-05-13T18:53:14.000Z,"South Sandwich Islands region",earthquake
+1978-03-07T18:39:54.600Z,-56.428,-25.486,33,5.9,mb,,,,,us,usp0000t9e,2014-11-06T23:21:47.512Z,"South Sandwich Islands region",earthquake
+1978-03-07T19:12:20.200Z,-18.552,169.254,215,4.5,mb,,,,,us,usp0000t9f,2014-11-06T23:21:47.514Z,"Vanuatu",earthquake
+1978-03-07T19:58:45.800Z,-1.679,99.714,33,5.3,mb,,,,,us,usp0000t9g,2014-11-06T23:21:47.515Z,"Kepulauan Mentawai region, Indonesia",earthquake
+1978-03-07T20:11:40.200Z,-56.622,-25.533,33,5.7,mb,,,,,us,usp0000t9h,2014-11-06T23:21:47.515Z,"South Sandwich Islands region",earthquake
+1978-03-07T20:53:23.500Z,-31.669,-67.891,10,,,,,,,us,usp0000t9j,2014-11-06T23:21:47.517Z,"San Juan, Argentina",earthquake
+1978-03-07T22:33:46.700Z,34.499,25.258,42,5.4,mb,,,,,us,usp0000t9k,2015-02-12T15:43:39.000Z,"Crete, Greece",earthquake
+1978-03-07T22:59:58.000Z,34.355,25.287,33,4.4,mb,,,,,us,usp0000t9m,2014-11-06T23:21:47.519Z,"Crete, Greece",earthquake
+1978-03-07T23:15:57.500Z,34.95,25.905,33,,,,,,,us,usp0000t9n,2014-11-06T23:21:47.520Z,"Crete, Greece",earthquake
+1978-03-07T23:31:29.700Z,-56.505,-25.64,33,5.8,ms,,,,,us,usp0000t9p,2015-05-13T18:53:14.000Z,"South Sandwich Islands region",earthquake
+1978-03-08T01:03:45.200Z,34.131,25.358,33,,,,,,,us,usp0000t9q,2014-11-06T23:21:47.522Z,"Crete, Greece",earthquake
+1978-03-08T04:38:30.800Z,-5.414,125.536,565,4.6,mb,,,,,us,usp0000t9r,2014-11-06T23:21:47.523Z,"Banda Sea",earthquake
+1978-03-08T05:37:52.800Z,-31.7,-67.824,34,,,,,,,us,usp0000t9s,2014-11-06T23:21:47.524Z,"San Juan, Argentina",earthquake
+1978-03-08T06:48:55.300Z,-58.733,-25.444,33,5,mb,,,,,us,usp0000t9t,2014-11-06T23:21:47.525Z,"South Sandwich Islands region",earthquake
+1978-03-08T07:43:01.100Z,55.233,164.494,33,4.4,mb,,,,,us,usp0000t9u,2014-11-06T23:21:47.526Z,"Komandorskiye Ostrova, Russia region",earthquake
+1978-03-08T09:13:31.100Z,-23.33,170.058,33,,,,,,,us,usp0000t9v,2014-11-06T23:21:47.527Z,"southeast of the Loyalty Islands",earthquake
+1978-03-08T09:42:30.400Z,-30.56,-72.081,33,,,,,,,us,usp0000t9w,2014-11-06T23:21:47.528Z,"offshore Coquimbo, Chile",earthquake
+1978-03-08T10:27:49.700Z,36.023,141.225,42,4.7,mb,,,,,us,usp0000t9x,2014-11-06T23:21:47.530Z,"near the east coast of Honshu, Japan",earthquake
+1978-03-08T10:55:43.500Z,36.028,141.008,27,,,,,,,us,usp0000t9y,2014-11-06T23:21:47.530Z,"near the east coast of Honshu, Japan",earthquake
+1978-03-08T11:24:11.900Z,-6.476,147.812,64,,,,,,,us,usp0000t9z,2014-11-06T23:21:47.531Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1978-03-08T12:59:44.200Z,-31.389,-68.974,111,,,,,,,us,usp0000ta0,2014-11-06T23:21:47.532Z,"San Juan, Argentina",earthquake
+1978-03-08T14:49:34.900Z,33.834,-117.883,5,2.9,ml,,,,,us,usp0000ta1,2014-11-06T23:21:47.533Z,"Greater Los Angeles area, California",earthquake
+1978-03-08T17:14:59.700Z,31.767,-115.699,4,3.2,ml,,,,,us,usp0000ta2,2014-11-06T23:21:47.533Z,"Baja California, Mexico",earthquake
+1978-03-08T18:36:56.400Z,-19.549,-177.956,437,4.7,mb,,,,,us,usp0000ta3,2014-11-06T23:21:47.535Z,"Fiji region",earthquake
+1978-03-08T20:37:35.800Z,-22.882,-68.589,157,4.9,mb,,,,,us,usp0000ta4,2014-11-06T23:21:47.535Z,"Antofagasta, Chile",earthquake
+1978-03-08T21:15:26.000Z,78.26,-107.57,18,4.3,mb,,,,,us,usp0000ta5,2014-11-06T23:21:47.536Z,"Sverdrup Islands, Nunavut, Canada",earthquake
+1978-03-08T23:42:36.800Z,13.501,-91.08,194,4.4,mb,,,,,us,usp0000ta6,2014-11-06T23:21:47.537Z,"offshore Guatemala",earthquake
+1978-03-08T23:54:29.400Z,34.777,22.941,33,4.3,mb,,,,,us,usp0000ta7,2014-11-06T23:21:47.538Z,"central Mediterranean Sea",earthquake
+1978-03-09T00:51:00.800Z,-22.813,174.265,33,4.1,mb,,,,,us,usp0000ta8,2014-11-06T23:21:47.540Z,"southeast of the Loyalty Islands",earthquake
+1978-03-09T02:46:34.300Z,-31.685,-67.744,15,,,,,,,us,usp0000ta9,2014-11-06T23:21:47.540Z,"San Juan, Argentina",earthquake
+1978-03-09T05:51:12.100Z,40.756,-112.074,9,2.2,ml,,,,,us,usp0000taa,2014-11-06T23:21:47.541Z,"Wasatch Front Urban Corridor, Utah",earthquake
+1978-03-09T06:30:51.800Z,40.761,-112.081,9,3.3,ml,,,,,us,usp0000tab,2014-11-06T23:21:47.542Z,"Wasatch Front Urban Corridor, Utah",earthquake
+1978-03-09T06:46:20.000Z,40.769,-112.075,7,2.5,ml,,,,,us,usp0000tac,2014-11-06T23:21:47.543Z,"Wasatch Front Urban Corridor, Utah",earthquake
+1978-03-09T10:25:23.900Z,-31.279,-68.18,10,,,,,,,us,usp0000tad,2014-11-06T23:21:47.543Z,"San Juan, Argentina",earthquake
+1978-03-09T14:22:02.300Z,-20.887,-179.794,672,5.2,mb,,,,,us,usp0000tae,2015-02-12T15:43:39.000Z,"Fiji region",earthquake
+1978-03-09T19:02:26.400Z,-26.469,27.085,33,,,,,,,us,usp0000taf,2014-11-06T23:21:47.545Z,"South Africa",earthquake
+1978-03-09T21:36:44.700Z,-31.758,-67.855,5,,,,,,,us,usp0000tag,2014-11-06T23:21:47.546Z,"San Juan, Argentina",earthquake
+1978-03-09T21:43:06.900Z,-6.094,149.858,65,5.3,mb,,,,,us,usp0000tah,2014-11-06T23:21:47.547Z,"New Britain region, Papua New Guinea",earthquake
+1978-03-09T23:41:58.100Z,46.78,153.877,43,4.7,mb,,,,,us,usp0000taj,2014-11-06T23:21:47.548Z,"Kuril Islands",earthquake
+1978-03-09T23:45:14.700Z,-11.386,165.79,33,4.9,mb,,,,,us,usp0000tak,2014-11-06T23:21:47.549Z,"Santa Cruz Islands",earthquake
+1978-03-10T00:23:06.500Z,35.09,22.976,57,4.3,mb,,,,,us,usp0000tam,2014-11-06T23:21:47.550Z,"central Mediterranean Sea",earthquake
+1978-03-10T01:01:38.500Z,14.317,-91.71,49,4.1,mb,,,,,us,usp0000tan,2014-11-06T23:21:47.551Z,"Guatemala",earthquake
+1978-03-10T02:03:59.400Z,-22.715,-68.552,122,4.1,mb,,,,,us,usp0000tap,2014-11-06T23:21:47.552Z,"Antofagasta, Chile",earthquake
+1978-03-10T02:34:35.000Z,60.786,-153.767,44,,,,,,,us,usp0000taq,2014-11-06T23:21:47.553Z,"Southern Alaska",earthquake
+1978-03-10T03:49:26.800Z,-56.706,-25.388,33,5.7,mb,,,,,us,usp0000tar,2015-02-12T15:43:39.000Z,"South Sandwich Islands region",earthquake
+1978-03-10T06:15:11.200Z,35.543,23.736,78,4,mb,,,,,us,usp0000tas,2014-11-06T23:21:47.554Z,"Crete, Greece",earthquake
+1978-03-10T06:56:19.700Z,-20.669,-68.702,138,,,,,,,us,usp0000tat,2014-11-06T23:21:47.555Z,"Tarapaca, Chile",earthquake
+1978-03-10T07:47:11.800Z,43.842,-110.167,5,3.2,ml,,,,,us,usp0000tau,2014-11-06T23:21:47.557Z,"Wyoming",earthquake
+1978-03-10T11:01:22.100Z,38.106,32.529,33,4.3,mb,,,,,us,usp0000tav,2014-11-06T23:21:47.557Z,"central Turkey",earthquake
+1978-03-10T13:51:39.800Z,18.238,-101.981,113,4.6,mb,,,,,us,usp0000taw,2014-11-06T23:21:47.558Z,"Michoacan, Mexico",earthquake
+1978-03-10T13:58:40.500Z,-11.128,119.124,33,5.3,mb,,,,,us,usp0000tax,2014-11-06T23:21:47.559Z,"south of Sumba, Indonesia",earthquake
+1978-03-10T14:12:39.500Z,-11.105,119.228,33,,,,,,,us,usp0000tay,2014-11-06T23:21:47.560Z,"south of Sumba, Indonesia",earthquake
+1978-03-10T17:11:52.800Z,3.188,98.784,121,4.2,mb,,,,,us,usp0000taz,2014-11-06T23:21:47.560Z,"northern Sumatra, Indonesia",earthquake
+1978-03-10T17:25:30.700Z,-10.925,119.05,33,5.3,mb,,,,,us,usp0000tb0,2014-11-06T23:21:47.562Z,"Sumba region, Indonesia",earthquake
+1978-03-10T18:01:44.800Z,-11.136,119.075,33,5.5,mb,,,,,us,usp0000tb1,2014-11-06T23:21:47.563Z,"south of Sumba, Indonesia",earthquake
+1978-03-10T19:26:30.600Z,38.718,75.544,33,4.5,mb,,,,,us,usp0000tb2,2014-11-06T23:21:47.563Z,"southern Xinjiang, China",earthquake
+1978-03-10T20:34:36.200Z,32.334,-115.033,5,3.5,ml,,,,,us,usp0000tb3,2014-11-06T23:21:47.565Z,"Baja California, Mexico",earthquake
+1978-03-10T22:15:07.900Z,-9.201,67.337,33,4.8,mb,,,,,us,usp0000tb4,2014-11-06T23:21:47.565Z,"Mid-Indian Ridge",earthquake
+1978-03-10T22:16:14.700Z,-8.147,148.521,67,5.2,mb,,,,,us,usp0000tb5,2014-11-06T23:21:47.566Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1978-03-10T22:20:58.100Z,38.61,143.11,30,4.9,mb,,,,,us,usp0000tb6,2014-11-06T23:21:47.566Z,"off the east coast of Honshu, Japan",earthquake
+1978-03-10T23:41:38.200Z,-13.258,-76.407,71,5.2,mb,,,,,us,usp0000tb7,2014-11-06T23:21:47.567Z,"near the coast of central Peru",earthquake
+1978-03-11T00:22:24.400Z,32.266,-115.083,5,3.3,ml,,,,,us,usp0000tb8,2014-11-06T23:21:47.568Z,"Baja California, Mexico",earthquake
+1978-03-11T02:59:24.700Z,12.74,125.187,33,5.2,mb,,,,,us,usp0000tb9,2014-11-06T23:21:47.569Z,"Samar, Philippines",earthquake
+1978-03-11T03:12:46.900Z,12.7,125.151,33,5.2,mb,,,,,us,usp0000tba,2014-11-06T23:21:47.569Z,"Samar, Philippines",earthquake
+1978-03-11T03:32:11.100Z,-20.888,-126.865,33,4.9,mb,,,,,us,usp0000tbb,2014-11-06T23:21:47.571Z,"South Pacific Ocean",earthquake
+1978-03-11T04:18:03.600Z,1.753,126.014,63,5.7,mb,,,,,us,usp0000tbc,2015-05-13T18:53:14.000Z,"Molucca Sea",earthquake
+1978-03-11T05:17:11.600Z,32.266,-115.083,5,3.4,ml,,,,,us,usp0000tbd,2014-11-06T23:21:47.573Z,"Baja California, Mexico",earthquake
+1978-03-11T05:40:32.700Z,32.417,-115.183,5,3.8,ml,,,,,us,usp0000tbe,2014-11-06T23:21:47.574Z,"Baja California, Mexico",earthquake
+1978-03-11T07:15:09.700Z,-2.433,99.989,33,5,mb,,,,,us,usp0000tbf,2014-11-06T23:21:47.576Z,"Kepulauan Mentawai region, Indonesia",earthquake
+1978-03-11T09:00:38.100Z,34.995,70.889,147,4.3,mb,,,,,us,usp0000tbg,2014-11-06T23:21:47.576Z,"Hindu Kush region, Afghanistan",earthquake
+1978-03-11T10:38:24.500Z,0.284,127.57,237,5.3,mb,,,,,us,usp0000tbh,2014-11-06T23:21:47.577Z,"Halmahera, Indonesia",earthquake
+1978-03-11T11:54:42.100Z,-10.858,119.111,33,5.5,mb,,,,,us,usp0000tbj,2015-02-12T15:43:39.000Z,"Sumba region, Indonesia",earthquake
+1978-03-11T13:30:06.400Z,59.412,-152.082,68,,,,,,,us,usp0000tbk,2014-11-06T23:21:47.579Z,"Southern Alaska",earthquake
+1978-03-11T14:41:29.700Z,-21.402,-174.809,33,4.8,mb,,,,,us,usp0000tbm,2014-11-06T23:21:47.581Z,"Tonga",earthquake
+1978-03-11T15:52:11.200Z,47.416,-122.71,25,4.3,mb,,,,,us,usp0000tbn,2014-11-06T23:21:47.581Z,"Puget Sound region, Washington",earthquake
+1978-03-11T15:54:59.700Z,5.259,127.444,118,5.1,mb,,,,,us,usp0000tbp,2014-11-06T23:21:47.582Z,"Philippine Islands region",earthquake
+1978-03-11T19:20:49.100Z,38.104,16.031,33,5.6,mb,,,,,us,usp0000tbq,2015-02-12T15:43:39.000Z,"southern Italy",earthquake
+1978-03-11T20:11:00.000Z,16.597,-94.811,122,4.3,mb,,,,,us,usp0000tbr,2014-11-06T23:21:47.584Z,"Oaxaca, Mexico",earthquake
+1978-03-11T21:11:20.700Z,44.422,149.479,33,4.9,mb,,,,,us,usp0000tbs,2014-11-06T23:21:47.586Z,"Kuril Islands",earthquake
+1978-03-11T21:16:48.100Z,32.367,-115.116,5,3.2,ml,,,,,us,usp0000tbt,2014-11-06T23:21:47.586Z,"Baja California, Mexico",earthquake
+1978-03-11T21:52:32.100Z,32.383,-115.083,5,3.2,ml,,,,,us,usp0000tbu,2014-11-06T23:21:47.588Z,"Baja California, Mexico",earthquake
+1978-03-11T23:57:45.700Z,32.29,-115.081,5,4.8,mb,,,,,us,usp0000tbv,2015-03-25T16:30:14.550Z,"Baja California, Mexico",earthquake
+1978-03-12T00:30:14.200Z,32.188,-115.107,5,4.5,mb,,,,,us,usp0000tbw,2014-11-06T23:21:47.590Z,"Baja California, Mexico",earthquake
+1978-03-12T03:12:30.000Z,-4.555,144.072,104,,,,,,,us,usp0000tbx,2014-11-06T23:21:47.591Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1978-03-12T03:15:19.200Z,61.476,-150.762,46,,,,,,,us,usp0000tby,2014-11-06T23:21:47.592Z,"Southern Alaska",earthquake
+1978-03-12T08:29:19.000Z,41.901,79.962,26,5.3,mb,,,,,us,usp0000tbz,2015-02-12T15:43:39.000Z,"Kyrgyzstan-Xinjiang border region",earthquake
+1978-03-12T11:24:59.400Z,-31.297,-71.441,144,,,,,,,us,usp0000tc0,2014-11-06T23:21:47.594Z,"Coquimbo, Chile",earthquake
+1978-03-12T13:30:39.100Z,-31.49,-68.239,7,,,,,,,us,usp0000tc1,2014-11-06T23:21:47.595Z,"San Juan, Argentina",earthquake
+1978-03-12T13:58:01.600Z,9.239,139.648,33,4.5,mb,,,,,us,usp0000tc2,2014-11-06T23:21:47.596Z,"State of Yap, Federated States of Micronesia",earthquake
+1978-03-12T16:13:13.000Z,-30.677,-178.137,37,5.5,mb,,,,,us,usp0000tc3,2015-02-12T15:43:39.000Z,"Kermadec Islands, New Zealand",earthquake
+1978-03-12T16:41:56.000Z,42.893,106.209,33,4.6,mb,,,,,us,usp0000tc4,2014-11-06T23:21:47.598Z,"Mongolia-China border region",earthquake
+1978-03-12T17:59:48.700Z,38.81,141.93,64,5.1,mb,,,,,us,usp0000tc5,2014-11-06T23:21:47.598Z,"near the east coast of Honshu, Japan",earthquake
+1978-03-12T18:42:22.800Z,32.228,-115.083,5,4.9,mb,,,,,us,usp0000tc6,2015-03-25T16:30:15.478Z,"Baja California, Mexico",earthquake
+1978-03-12T20:05:28.400Z,32.317,-115.133,5,3.3,ml,,,,,us,usp0000tc7,2014-11-06T23:21:47.601Z,"Baja California, Mexico",earthquake
+1978-03-12T20:37:28.800Z,2.691,128.608,237,4.9,mb,,,,,us,usp0000tc8,2014-11-06T23:21:47.603Z,"Halmahera, Indonesia",earthquake
+1978-03-12T22:01:32.000Z,32.334,-115.167,5,3.4,ml,,,,,us,usp0000tc9,2014-11-06T23:21:47.603Z,"Baja California, Mexico",earthquake
+1978-03-12T22:31:31.800Z,-31.774,-71.803,65,4.2,mb,,,,,us,usp0000tca,2014-11-06T23:21:47.605Z,"offshore Coquimbo, Chile",earthquake
+1978-03-12T23:10:11.000Z,32.2,-115.183,5,3.9,ml,,,,,us,usp0000tcb,2014-11-06T23:21:47.606Z,"Baja California, Mexico",earthquake
+1978-03-13T02:07:24.700Z,31.733,-115.8,4,3.1,ml,,,,,us,usp0000tcc,2014-11-06T23:21:47.606Z,"Baja California, Mexico",earthquake
+1978-03-13T02:38:39.300Z,38.377,143.452,33,4.3,mb,,,,,us,usp0000tcd,2014-11-06T23:21:47.608Z,"off the east coast of Honshu, Japan",earthquake
+1978-03-13T03:13:26.000Z,-31.358,-67.728,5,,,,,,,us,usp0000tce,2014-11-06T23:21:47.608Z,"San Juan, Argentina",earthquake
+1978-03-13T07:55:25.900Z,32.117,-115.016,5,3.1,ml,,,,,us,usp0000tcf,2014-11-06T23:21:47.609Z,"Baja California, Mexico",earthquake
+1978-03-13T08:45:17.600Z,-19.096,-177.505,583,5.2,mb,,,,,us,usp0000tcg,2014-11-06T23:21:47.610Z,"Fiji region",earthquake
+1978-03-13T09:11:37.200Z,32.284,-115.1,5,3.7,ml,,,,,us,usp0000tch,2014-11-06T23:21:47.611Z,"Baja California, Mexico",earthquake
+1978-03-13T11:17:35.500Z,32.349,-115.1,5,3.1,ml,,,,,us,usp0000tcj,2014-11-06T23:21:47.612Z,"Baja California, Mexico",earthquake
+1978-03-13T13:06:43.400Z,37.848,26.861,33,4.7,mb,,,,,us,usp0000tck,2014-11-06T23:21:47.613Z,"Dodecanese Islands, Greece",earthquake
+1978-03-13T13:35:43.400Z,40.763,-112.084,13,2.8,ml,,,,,us,usp0000tcm,2014-11-06T23:21:47.614Z,"Wasatch Front Urban Corridor, Utah",earthquake
+1978-03-13T16:01:15.100Z,34.873,139.447,40,4.6,mb,,,,,us,usp0000tcn,2014-11-06T23:21:47.615Z,"near the south coast of Honshu, Japan",earthquake
+1978-03-13T16:15:15.500Z,29.986,68.507,33,4.5,mb,,,,,us,usp0000tcp,2014-11-06T23:21:47.616Z,"Pakistan",earthquake
+1978-03-13T16:38:15.700Z,33.934,-117.983,4,3.2,ml,,,,,us,usp0000tcq,2014-11-06T23:21:47.617Z,"Greater Los Angeles area, California",earthquake
+1978-03-13T17:42:39.600Z,45.522,9.631,33,,,,,,,us,usp0000tcr,2014-11-06T23:21:47.618Z,"northern Italy",earthquake
+1978-03-14T01:17:05.200Z,27.376,-111.216,15,4.5,mb,,,,,us,usp0000tcs,2014-11-06T23:21:47.619Z,"Gulf of California",earthquake
+1978-03-14T01:57:03.700Z,6.138,126.885,82,5.5,mb,,,,,us,usp0000tct,2015-02-12T15:43:39.000Z,"Mindanao, Philippines",earthquake
+1978-03-14T02:08:13.700Z,-20.121,-174.582,66,4.7,mb,,,,,us,usp0000tcu,2014-11-06T23:21:47.621Z,"Tonga",earthquake
+1978-03-14T02:30:23.600Z,51.967,-179.115,102,5.1,mb,,,,,us,usp0000tcv,2014-11-06T23:21:47.621Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1978-03-14T03:26:16.700Z,-29.91,-175.262,33,5.2,mb,,,,,us,usp0000tcw,2014-11-06T23:21:47.623Z,"Kermadec Islands region",earthquake
+1978-03-14T04:04:21.700Z,32.45,-115.116,5,3.3,ml,,,,,us,usp0000tcx,2014-11-06T23:21:47.623Z,"Baja California, Mexico",earthquake
+1978-03-14T04:07:13.100Z,36.927,28.623,13,,,,,,,us,usp0000tcy,2014-11-06T23:21:47.625Z,"Dodecanese Islands, Greece",earthquake
+1978-03-14T05:38:03.200Z,-32.779,-72.106,65,4,mb,,,,,us,usp0000tcz,2014-11-06T23:21:47.625Z,"offshore Valparaiso, Chile",earthquake
+1978-03-14T07:49:49.600Z,14.1,-90.989,153,4.7,mb,,,,,us,usp0000td0,2014-11-06T23:21:47.626Z,"Guatemala",earthquake
+1978-03-14T09:44:04.800Z,41.044,72.696,29,4.4,mb,,,,,us,usp0000td1,2014-11-06T23:21:47.628Z,"Kyrgyzstan",earthquake
+1978-03-14T11:38:38.600Z,35.906,77.933,33,4.7,mb,,,,,us,usp0000td2,2014-11-06T23:21:47.628Z,"Kashmir-Xinjiang border region",earthquake
+1978-03-14T13:47:04.100Z,-7.281,129.235,145,,,,,,,us,usp0000td3,2014-11-06T23:21:47.629Z,"Kepulauan Babar, Indonesia",earthquake
+1978-03-14T15:51:36.600Z,-5.36,153.732,54,,,,,,,us,usp0000td4,2014-11-06T23:21:47.630Z,"New Ireland region, Papua New Guinea",earthquake
+1978-03-14T16:09:51.200Z,33.95,-117.966,4,2.5,ml,,,,,us,usp0000td5,2014-11-06T23:21:47.631Z,"Greater Los Angeles area, California",earthquake
+1978-03-14T17:20:47.300Z,-4.67,-77.762,69,4.8,mb,,,,,us,usp0000td6,2014-11-06T23:21:47.631Z,"northern Peru",earthquake
+1978-03-14T18:57:39.000Z,-49.907,110.847,33,4.8,mb,,,,,us,usp0000td7,2014-11-06T23:21:47.633Z,"southeast Indian Ridge",earthquake
+1978-03-14T19:42:37.600Z,2.951,125.396,185,5,mb,,,,,us,usp0000td8,2014-11-06T23:21:47.633Z,"Kepulauan Sangihe, Indonesia",earthquake
+1978-03-14T20:32:15.000Z,24.072,122.638,43,5.5,mb,,,,,us,usp0000td9,2015-05-13T18:53:14.000Z,"Taiwan region",earthquake
+1978-03-14T23:59:55.000Z,34,-118.683,12,3.2,ml,,,,,us,usp0000tda,2014-11-06T23:21:47.635Z,"Santa Monica Bay, California",earthquake
+1978-03-15T01:09:20.700Z,-21.611,-69.521,192,,,,,,,us,usp0000tdb,2014-11-06T23:21:47.636Z,"Antofagasta, Chile",earthquake
+1978-03-15T03:09:14.200Z,38.359,-118.188,5,3.2,ml,,,,,us,usp0000tdc,2014-11-06T23:21:47.637Z,"Nevada",earthquake
+1978-03-15T04:02:49.400Z,32.784,-115.533,5,2.9,ml,,,,,us,usp0000tdd,2014-11-06T23:21:47.638Z,"Southern California",earthquake
+1978-03-15T04:09:39.700Z,32.784,-115.566,5,3.2,ml,,,,,us,usp0000tde,2014-11-06T23:21:47.639Z,"Southern California",earthquake
+1978-03-15T06:12:07.100Z,2.812,99.185,177,4.7,mb,,,,,us,usp0000tdf,2014-11-06T23:21:47.640Z,"northern Sumatra, Indonesia",earthquake
+1978-03-15T07:11:57.500Z,-16.158,166.987,36,,,,,,,us,usp0000tdg,2014-11-06T23:21:47.641Z,"Vanuatu",earthquake
+1978-03-15T10:05:06.700Z,-19.422,169.094,123,,,,,,,us,usp0000tdh,2014-11-06T23:21:47.641Z,"Vanuatu",earthquake
+1978-03-15T11:05:23.000Z,-24.31,-67.128,188,,,,,,,us,usp0000tdj,2014-11-06T23:21:47.643Z,"Salta, Argentina",earthquake
+1978-03-15T11:16:13.100Z,-7.072,129.666,157,5.4,mb,,,,,us,usp0000tdk,2014-11-06T23:21:47.643Z,"Kepulauan Babar, Indonesia",earthquake
+1978-03-15T14:46:23.700Z,-9.622,116.411,94,5.4,mb,,,,,us,usp0000tdm,2015-02-12T15:43:39.000Z,"Lombok region, Indonesia",earthquake
+1978-03-15T15:01:51.400Z,52.26,-168.436,20,4.7,mb,,,,,us,usp0000tdn,2014-11-06T23:21:47.646Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1978-03-15T15:26:38.900Z,10.24,-62.254,33,4.5,mb,,,,,us,usp0000tdp,2014-11-06T23:21:47.646Z,"Gulf of Paria, Venezuela",earthquake
+1978-03-15T16:17:17.900Z,32.349,-115.116,5,3,ml,,,,,us,usp0000tdq,2014-11-06T23:21:47.648Z,"Baja California, Mexico",earthquake
+1978-03-15T20:13:17.700Z,32.3,-115.116,5,3.2,ml,,,,,us,usp0000tdr,2014-11-06T23:21:47.649Z,"Baja California, Mexico",earthquake
+1978-03-15T21:50:06.000Z,-1.591,-12.975,33,4.9,mb,,,,,us,usp0000tds,2014-11-06T23:21:47.650Z,"north of Ascension Island",earthquake
+1978-03-15T21:54:31.100Z,42.75,145.96,57,5.3,mb,,,,,us,usp0000tdt,2014-11-06T23:21:47.651Z,"Hokkaido, Japan region",earthquake
+1978-03-15T22:04:40.100Z,26.42,140.563,263,6.1,mb,,,,,us,usp0000tdu,2015-05-13T18:53:14.000Z,"Bonin Islands, Japan region",earthquake
+1978-03-16T00:46:13.700Z,-6.719,129.917,33,,,,,,,us,usp0000tdv,2014-11-06T23:21:47.654Z,"Banda Sea",earthquake
+1978-03-16T01:51:10.100Z,32.3,-115.116,5,4.2,mb,,,,,us,usp0000tdw,2014-11-06T23:21:47.655Z,"Baja California, Mexico",earthquake
+1978-03-16T02:00:00.500Z,29.926,66.302,33,5.9,ms,,,,,us,usp0000tdx,2015-05-13T18:53:14.000Z,"western Afghanistan",earthquake
+1978-03-16T02:00:50.400Z,52.267,-168.593,38,5.1,mb,,,,,us,usp0000tdy,2014-11-06T23:21:47.656Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1978-03-16T02:09:38.400Z,52.295,-168.622,49,5.5,mb,,,,,us,usp0000tdz,2015-05-13T18:53:14.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1978-03-16T02:31:10.500Z,52.433,-168.586,51,4.6,mb,,,,,us,usp0000te0,2014-11-06T23:21:47.659Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1978-03-16T02:44:27.500Z,27.035,140.147,480,4.5,mb,,,,,us,usp0000te1,2014-11-06T23:21:47.659Z,"Bonin Islands, Japan region",earthquake
+1978-03-16T03:29:59.600Z,52.314,-168.581,33,5,mb,,,,,us,usp0000te2,2014-11-06T23:21:47.661Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1978-03-16T05:51:57.300Z,36.792,21.625,58,4.9,mb,,,,,us,usp0000te3,2014-11-06T23:21:47.661Z,"southern Greece",earthquake
+1978-03-16T05:58:13.200Z,36.771,21.659,65,4.2,mb,,,,,us,usp0000te4,2014-11-06T23:21:47.663Z,"southern Greece",earthquake
+1978-03-16T06:08:40.800Z,43.13,17.819,33,4.6,ml,,,,,us,usp0000te5,2014-11-06T23:21:47.664Z,"Bosnia and Herzegovina",earthquake
+1978-03-16T06:33:27.400Z,42.715,17.566,33,,,,,,,us,usp0000te6,2014-11-06T23:21:47.664Z,"Adriatic Sea",earthquake
+1978-03-16T08:21:21.800Z,-22.719,-175.373,95,4.8,mb,,,,,us,usp0000te7,2014-11-06T23:21:47.666Z,"Tonga region",earthquake
+1978-03-16T10:11:11.800Z,59.041,1.372,33,,,,,,,us,usp0000te8,2014-11-06T23:21:47.666Z,"North Sea",earthquake
+1978-03-16T14:06:18.100Z,57.18,-5.582,33,,,,,,,us,usp0000te9,2014-11-06T23:21:47.668Z,"Scotland, United Kingdom",earthquake
+1978-03-16T14:59:59.600Z,37.1,-116.057,2,3.9,mb,,,,,us,usp0000tea,2015-06-16T15:39:12.042Z,"Nevada",nuclear explosion
+1978-03-16T18:00:56.900Z,-18.967,-172.582,33,5.1,mb,,,,,us,usp0000teb,2014-11-06T23:21:47.669Z,"Tonga region",earthquake
+1978-03-16T18:45:06.400Z,12.683,125.357,33,5,mb,,,,,us,usp0000tec,2014-11-06T23:21:47.671Z,"Samar, Philippines",earthquake
+1978-03-16T19:00:28.400Z,31.667,-115.8,4,3.3,ml,,,,,us,usp0000ted,2014-11-06T23:21:47.671Z,"Baja California, Mexico",earthquake
+1978-03-16T19:47:47.800Z,41.285,49.26,69,4.6,mb,,,,,us,usp0000tee,2014-11-06T23:21:47.672Z,"Caspian Sea, offshore Azerbaijan",earthquake
+1978-03-16T20:53:38.900Z,37.788,29.369,33,,,,,,,us,usp0000tef,2014-11-06T23:21:47.674Z,"western Turkey",earthquake
+1978-03-16T21:51:45.500Z,42.943,47.882,33,3.9,mb,,,,,us,usp0000teg,2014-11-06T23:21:47.674Z,"Caucasus region, Russia",earthquake
+1978-03-16T22:49:59.400Z,17.447,122.629,46,4.9,mb,,,,,us,usp0000teh,2014-11-06T23:21:47.675Z,"Luzon, Philippines",earthquake
+1978-03-16T23:11:06.300Z,36.596,7.383,33,4.7,mb,,,,,us,usp0000tej,2014-11-06T23:21:47.677Z,"northern Algeria",earthquake
+1978-03-17T00:16:16.400Z,23.68,121.805,9,,,,,,,us,usp0000tek,2014-11-06T23:21:47.677Z,"Taiwan",earthquake
+1978-03-17T01:24:26.500Z,38.832,27.393,11,,,,,,,us,usp0000tem,2014-11-06T23:21:47.678Z,"western Turkey",earthquake
+1978-03-17T03:07:23.900Z,55.218,162.091,33,4.8,mb,,,,,us,usp0000ten,2014-11-06T23:21:47.679Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1978-03-17T06:16:21.300Z,24.936,122.082,100,4.5,mb,,,,,us,usp0000tep,2014-11-06T23:21:47.680Z,"Taiwan region",earthquake
+1978-03-17T11:00:33.300Z,-1.996,139.28,33,,,,,,,us,usp0000teq,2014-11-06T23:21:47.682Z,"near the north coast of Papua, Indonesia",earthquake
+1978-03-17T11:00:39.500Z,-22.889,-175.358,33,5.7,mb,,,,,us,usp0000ter,2015-02-12T15:43:39.000Z,"Tonga region",earthquake
+1978-03-17T18:11:25.500Z,38.05,73.521,198,3.9,mb,,,,,us,usp0000tes,2014-11-06T23:21:47.683Z,"Tajikistan",earthquake
+1978-03-17T18:26:34.500Z,36.75,-80.739,7,2.8,,,,,,us,usp0000tet,2014-11-06T23:21:47.684Z,"Virginia-North Carolina border region",earthquake
+1978-03-17T18:53:55.800Z,-32.146,-70.922,33,,,,,,,us,usp0000teu,2014-11-06T23:21:47.685Z,"Valparaiso, Chile",earthquake
+1978-03-17T19:18:23.500Z,-10.671,-73.858,105,4.6,mb,,,,,us,usp0000tev,2014-11-06T23:21:47.686Z,"central Peru",earthquake
+1978-03-17T22:40:17.200Z,28.876,-112.703,33,4.7,mb,,,,,us,usp0000tew,2014-11-06T23:21:47.687Z,"Gulf of California",earthquake
+1978-03-17T23:03:32.900Z,28.275,130.938,33,4.7,mb,,,,,us,usp0000tex,2014-11-06T23:21:47.688Z,"Ryukyu Islands, Japan",earthquake
+1978-03-17T23:08:38.900Z,28.929,-112.763,33,4.2,mb,,,,,us,usp0000tey,2014-11-06T23:21:47.688Z,"Gulf of California",earthquake
+1978-03-17T23:47:44.300Z,13.269,123.723,107,5.1,mb,,,,,us,usp0000tez,2014-11-06T23:21:47.690Z,"Luzon, Philippines",earthquake
+1978-03-18T00:22:22.400Z,7.823,123.062,48,4.7,mb,,,,,us,usp0000tf0,2014-11-06T23:21:47.690Z,"Mindanao, Philippines",earthquake
+1978-03-18T04:40:19.400Z,32.2,-115.066,5,3.7,ml,,,,,us,usp0000tf1,2014-11-06T23:21:47.692Z,"Baja California, Mexico",earthquake
+1978-03-18T04:44:31.100Z,15.561,121.818,87,4.9,mb,,,,,us,usp0000tf2,2014-11-06T23:21:47.693Z,"Luzon, Philippines",earthquake
+1978-03-18T06:34:36.800Z,43.549,20.726,10,,,,,,,us,usp0000tf3,2014-11-06T23:21:47.693Z,"Serbia",earthquake
+1978-03-18T06:49:37.400Z,-31.492,-67.787,12,,,,,,,us,usp0000tf4,2014-11-06T23:21:47.695Z,"San Juan, Argentina",earthquake
+1978-03-18T07:09:33.900Z,-37.6,-93.539,33,5.1,mb,,,,,us,usp0000tf5,2014-11-06T23:21:47.695Z,"West Chile Rise",earthquake
+1978-03-18T08:20:36.500Z,35.317,-118.516,5,3.5,ml,,,,,us,usp0000tf6,2014-11-06T23:21:47.696Z,"Central California",earthquake
+1978-03-18T09:13:14.600Z,-38.201,-93.766,33,5.6,ms,,,,,us,usp0000tf7,2015-05-13T18:53:14.000Z,"West Chile Rise",earthquake
+1978-03-18T12:59:53.700Z,-31.36,-68.013,10,,,,,,,us,usp0000tf8,2014-11-06T23:21:47.698Z,"San Juan, Argentina",earthquake
+1978-03-18T16:12:35.300Z,59.634,-153.339,126,,,,,,,us,usp0000tf9,2014-11-06T23:21:47.699Z,"Southern Alaska",earthquake
+1978-03-18T17:27:27.400Z,-35.611,-15.43,33,4.8,mb,,,,,us,usp0000tfa,2014-11-06T23:21:47.700Z,"Tristan da Cunha region",earthquake
+1978-03-18T18:40:58.100Z,24.283,92.866,39,4.6,mb,,,,,us,usp0000tfb,2014-11-06T23:21:47.701Z,"India-Bangladesh border region",earthquake
+1978-03-18T21:26:38.800Z,62.549,-150.882,34,3.3,ml,,,,,us,usp0000tfc,2014-11-06T23:21:47.702Z,"Central Alaska",earthquake
+1978-03-18T22:01:35.900Z,40.522,144.325,15,4,mb,,,,,us,usp0000tfd,2014-11-06T23:21:47.703Z,"off the east coast of Honshu, Japan",earthquake
+1978-03-19T01:39:14.000Z,17.026,-99.735,36,6.4,ms,,,,,us,usp0000tfe,2015-05-13T18:53:14.000Z,"Guerrero, Mexico",earthquake
+1978-03-19T02:33:47.800Z,44.496,-114.418,5,3.2,ml,,,,,us,usp0000tff,2014-11-06T23:21:47.705Z,"southern Idaho",earthquake
+1978-03-19T03:37:05.300Z,63.781,-147.499,11,3.4,mb,,,,,us,usp0000tfg,2014-11-06T23:21:47.706Z,"Central Alaska",earthquake
+1978-03-19T03:46:57.400Z,49.972,77.755,0,5.2,mb,,,,,us,usp0000tfh,2015-06-16T17:22:03.575Z,"eastern Kazakhstan",nuclear explosion
+1978-03-19T04:53:05.500Z,32.349,-115.133,5,3.1,ml,,,,,us,usp0000tfj,2014-11-06T23:21:47.708Z,"Baja California, Mexico",earthquake
+1978-03-19T05:55:01.600Z,37.753,21.177,33,3.7,ml,,,,,us,usp0000tfk,2014-11-06T23:21:47.709Z,"southern Greece",earthquake
+1978-03-19T06:27:32.700Z,6.777,-73.041,166,4.9,mb,,,,,us,usp0000tfm,2014-11-06T23:21:47.710Z,"northern Colombia",earthquake
+1978-03-19T09:32:32.000Z,42.534,13.342,25,3.8,ml,,,,,us,usp0000tfn,2014-11-06T23:21:47.711Z,"central Italy",earthquake
+1978-03-19T10:49:27.700Z,-32.848,-71.799,33,,,,,,,us,usp0000tfp,2014-11-06T23:21:47.711Z,"offshore Valparaiso, Chile",earthquake
+1978-03-19T14:39:18.000Z,-17.626,-178.932,540,5.1,mb,,,,,us,usp0000tfq,2014-11-06T23:21:47.713Z,"Fiji region",earthquake
+1978-03-19T14:49:47.800Z,48.825,155.204,61,5.2,mb,,,,,us,usp0000tfr,2014-11-06T23:21:47.713Z,"Kuril Islands",earthquake
+1978-03-19T18:17:38.800Z,-6.394,145.561,132,,,,,,,us,usp0000tfs,2014-11-06T23:21:47.714Z,"New Guinea, Papua New Guinea",earthquake
+1978-03-19T18:27:49.500Z,-2.048,138.989,33,,,,,,,us,usp0000tft,2014-11-06T23:21:47.715Z,"Papua, Indonesia",earthquake
+1978-03-19T18:43:40.800Z,-1.481,-15.611,33,5.4,mb,,,,,us,usp0000tfu,2015-05-13T18:53:14.000Z,"north of Ascension Island",earthquake
+1978-03-19T19:23:17.800Z,56.013,160.403,33,4.4,mb,,,,,us,usp0000tfv,2014-11-06T23:21:47.717Z,"Kamchatka Peninsula, Russia",earthquake
+1978-03-19T22:30:51.700Z,39.347,28.937,10,,,,,,,us,usp0000tfw,2014-11-06T23:21:47.718Z,"western Turkey",earthquake
+1978-03-20T00:05:22.200Z,-31.663,-67.651,80,,,,,,,us,usp0000tfx,2014-11-06T23:21:47.718Z,"San Juan, Argentina",earthquake
+1978-03-20T00:07:56.700Z,36,-117.867,1,3,ml,,,,,us,usp0000tfy,2014-11-06T23:21:47.720Z,"Central California",earthquake
+1978-03-20T00:24:56.000Z,-3.517,138.5,69,4.6,mb,,,,,us,usp0000tfz,2014-11-06T23:21:47.721Z,"Papua, Indonesia",earthquake
+1978-03-20T03:59:05.000Z,60.182,-153.608,153,4.9,mb,,,,,us,usp0000tg0,2014-11-06T23:21:47.721Z,"Southern Alaska",earthquake
+1978-03-20T07:14:45.200Z,38.677,23.085,33,,,,,,,us,usp0000tg1,2014-11-06T23:21:47.723Z,"Greece",earthquake
+1978-03-20T07:19:27.800Z,42.351,142.7,75,5.3,mb,,,,,us,usp0000tg2,2014-11-06T23:21:47.723Z,"Hokkaido, Japan region",earthquake
+1978-03-20T07:36:28.100Z,-19.571,-69.703,108,,,,,,,us,usp0000tg3,2014-11-06T23:21:47.724Z,"Tarapaca, Chile",earthquake
+1978-03-20T08:15:37.500Z,59.842,-153.237,134,3.8,mb,,,,,us,usp0000tg4,2014-11-06T23:21:47.725Z,"Southern Alaska",earthquake
+1978-03-20T08:37:57.600Z,-1.5,-13.813,33,4.6,mb,,,,,us,usp0000tg5,2014-11-06T23:21:47.726Z,"north of Ascension Island",earthquake
+1978-03-20T10:24:13.600Z,36.049,139.681,66,5.7,mb,,,,,us,usp0000tg6,2015-02-12T15:43:39.000Z,"eastern Honshu, Japan",earthquake
+1978-03-20T15:42:46.700Z,0.831,-29.817,33,5.7,mb,,,,,us,usp0000tg7,2015-05-13T18:53:14.000Z,"central Mid-Atlantic Ridge",earthquake
+1978-03-20T18:09:43.600Z,0.766,-29.693,33,5.8,ms,,,,,us,usp0000tg8,2015-05-13T18:53:14.000Z,"central Mid-Atlantic Ridge",earthquake
+1978-03-20T22:23:30.200Z,36.105,137.022,278,3.6,mb,,,,,us,usp0000tg9,2014-11-06T23:21:47.730Z,"eastern Honshu, Japan",earthquake
+1978-03-20T23:25:22.900Z,37.154,57.441,33,4.2,mb,,,,,us,usp0000tga,2014-11-06T23:21:47.731Z,"Turkmenistan-Iran border region",earthquake
+1978-03-20T23:50:34.800Z,-28.06,-71.464,33,3.9,ms,,,,,us,usp0000tgb,2014-11-06T23:21:47.732Z,"offshore Atacama, Chile",earthquake
+1978-03-21T00:05:52.600Z,30.005,81.131,76,,,,,,,us,usp0000tgc,2014-11-06T23:21:47.733Z,"western Xizang",earthquake
+1978-03-21T01:00:49.100Z,-15.364,-74.804,33,4.9,mb,,,,,us,usp0000tgd,2014-11-06T23:21:47.734Z,"near the coast of southern Peru",earthquake
+1978-03-21T02:36:26.700Z,13.386,-89.202,33,4.3,mb,,,,,us,usp0000tge,2014-11-06T23:21:47.734Z,"offshore El Salvador",earthquake
+1978-03-21T02:38:24.200Z,36.967,30.979,114,3.9,mb,,,,,us,usp0000tgf,2014-11-06T23:21:47.736Z,"western Turkey",earthquake
+1978-03-21T06:53:50.300Z,55.046,164.505,36,4.7,mb,,,,,us,usp0000tgg,2014-11-06T23:21:47.736Z,"Komandorskiye Ostrova, Russia region",earthquake
+1978-03-21T07:01:04.800Z,-17.277,-174.524,33,4.5,mb,,,,,us,usp0000tgh,2014-11-06T23:21:47.737Z,"Tonga",earthquake
+1978-03-21T09:14:34.000Z,-27.855,-67.796,140,4.7,mb,,,,,us,usp0000tgj,2014-11-06T23:21:47.738Z,"Catamarca, Argentina",earthquake
+1978-03-21T13:18:32.000Z,32.334,-115.116,5,3,ml,,,,,us,usp0000tgk,2014-11-06T23:21:47.739Z,"Baja California, Mexico",earthquake
+1978-03-21T13:42:32.500Z,17.106,122.41,43,5.3,mb,,,,,us,usp0000tgm,2015-02-12T15:43:39.000Z,"Luzon, Philippines",earthquake
+1978-03-21T13:43:56.600Z,36.137,71.207,123,4,mb,,,,,us,usp0000tgn,2014-11-06T23:21:47.741Z,"Hindu Kush region, Afghanistan",earthquake
+1978-03-21T14:05:12.100Z,40.441,-124.45,11,4.5,mb,,,,,us,usp0000tgp,2014-11-06T23:21:47.742Z,"offshore Northern California",earthquake
+1978-03-21T14:38:19.700Z,39.576,29.18,10,3.4,ml,,,,,us,usp0000tgq,2014-11-06T23:21:47.742Z,"western Turkey",earthquake
+1978-03-21T14:57:25.800Z,26.958,-112.687,15,4.4,mb,,,,,us,usp0000tgr,2014-11-06T23:21:47.744Z,"Baja California Sur, Mexico",earthquake
+1978-03-21T15:32:54.600Z,53.859,160.497,57,5.1,mb,,,,,us,usp0000tgs,2014-11-06T23:21:47.745Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1978-03-21T16:57:03.500Z,40.057,142.548,61,4.6,mb,,,,,us,usp0000tgt,2014-11-06T23:21:47.745Z,"near the east coast of Honshu, Japan",earthquake
+1978-03-21T17:53:07.900Z,-17.505,167.883,27,5.2,mb,,,,,us,usp0000tgu,2014-11-06T23:21:47.747Z,"Vanuatu",earthquake
+1978-03-21T19:08:47.500Z,26.304,128.026,18,4.6,mb,,,,,us,usp0000tgv,2014-11-06T23:21:47.747Z,"Ryukyu Islands, Japan",earthquake
+1978-03-21T19:14:05.900Z,-17.613,167.773,23,5.4,mb,,,,,us,usp0000tgw,2014-11-06T23:21:47.748Z,"Vanuatu",earthquake
+1978-03-21T19:27:11.700Z,1.563,126.658,148,,,,,,,us,usp0000tgx,2014-11-06T23:21:47.749Z,"Molucca Sea",earthquake
+1978-03-21T20:17:06.800Z,40.383,-124.459,13,3.5,ml,,,,,us,usp0000tgy,2014-11-06T23:21:47.750Z,"offshore Northern California",earthquake
+1978-03-21T21:58:50.800Z,39.36,29.355,10,,,,,,,us,usp0000tgz,2014-11-06T23:21:47.751Z,"western Turkey",earthquake
+1978-03-21T23:02:42.800Z,45.98,141.802,33,5.2,mb,,,,,us,usp0000th0,2014-11-06T23:21:47.752Z,"Hokkaido, Japan region",earthquake
+1978-03-21T23:58:49.700Z,40.969,143.225,51,,,,,,,us,usp0000th1,2014-11-06T23:21:47.753Z,"off the east coast of Honshu, Japan",earthquake
+1978-03-22T00:50:32.200Z,44.026,149.002,33,6.7,ms,,,,,us,usp0000th2,2015-05-13T18:53:14.000Z,"Kuril Islands",earthquake
+1978-03-22T00:57:14.300Z,43.92,148.995,33,5.2,mb,,,,,us,usp0000th3,2014-11-06T23:21:47.755Z,"east of the Kuril Islands",earthquake
+1978-03-22T01:00:22.600Z,44.791,148.274,33,4.9,mb,,,,,us,usp0000th4,2014-11-06T23:21:47.755Z,"Kuril Islands",earthquake
+1978-03-22T01:13:30.200Z,43.818,149.035,33,5.1,mb,,,,,us,usp0000th5,2014-11-06T23:21:47.757Z,"east of the Kuril Islands",earthquake
+1978-03-22T01:23:53.400Z,44.025,149.153,33,5.4,mb,,,,,us,usp0000th6,2014-11-06T23:21:47.758Z,"Kuril Islands",earthquake
+1978-03-22T01:46:11.300Z,46.077,141.743,33,4.6,mb,,,,,us,usp0000th7,2014-11-06T23:21:47.758Z,"Sakhalin, Russia",earthquake
+1978-03-22T02:04:40.100Z,44.006,149.054,43,5.1,mb,,,,,us,usp0000th8,2014-11-06T23:21:47.760Z,"Kuril Islands",earthquake
+1978-03-22T02:31:33.600Z,44.412,148.905,66,4.6,mb,,,,,us,usp0000th9,2014-11-06T23:21:47.760Z,"Kuril Islands",earthquake
+1978-03-22T02:32:38.900Z,44.065,149.016,33,5.6,mb,,,,,us,usp0000tha,2015-05-13T18:53:14.000Z,"Kuril Islands",earthquake
+1978-03-22T02:48:23.600Z,43.945,149.154,33,4.3,mb,,,,,us,usp0000thb,2014-11-06T23:21:47.762Z,"east of the Kuril Islands",earthquake
+1978-03-22T02:50:22.900Z,44.004,148.979,33,4.7,mb,,,,,us,usp0000thc,2014-11-06T23:21:47.763Z,"Kuril Islands",earthquake
+1978-03-22T04:33:45.300Z,-17.523,167.767,33,,,,,,,us,usp0000thd,2014-11-06T23:21:47.765Z,"Vanuatu",earthquake
+1978-03-22T06:23:38.200Z,43.677,149.421,33,4.4,mb,,,,,us,usp0000the,2014-11-06T23:21:47.765Z,"east of the Kuril Islands",earthquake
+1978-03-22T06:33:17.500Z,40.07,-122.94,25,3.2,ml,,,,,us,usp0000thf,2014-11-06T23:21:47.766Z,"Northern California",earthquake
+1978-03-22T08:25:18.400Z,44.056,148.976,37,5.1,mb,,,,,us,usp0000thg,2014-11-06T23:21:47.767Z,"Kuril Islands",earthquake
+1978-03-22T08:40:34.500Z,40.078,-122.944,23,3.2,ml,,,,,us,usp0000thh,2014-11-06T23:21:47.768Z,"Northern California",earthquake
+1978-03-22T10:06:46.200Z,55.124,164.526,33,4.3,mb,,,,,us,usp0000thj,2014-11-06T23:21:47.769Z,"Komandorskiye Ostrova, Russia region",earthquake
+1978-03-22T10:52:38.500Z,46.206,141.716,33,4.6,mb,,,,,us,usp0000thk,2014-11-06T23:21:47.770Z,"Sakhalin, Russia",earthquake
+1978-03-22T11:45:47.700Z,44.061,149.061,49,4.2,mb,,,,,us,usp0000thm,2014-11-06T23:21:47.771Z,"Kuril Islands",earthquake
+1978-03-22T13:55:16.500Z,43.878,149.016,39,4.8,mb,,,,,us,usp0000thn,2014-11-06T23:21:47.771Z,"east of the Kuril Islands",earthquake
+1978-03-22T14:30:15.700Z,44.293,-115.496,5,4.1,ml,,,,,us,usp0000thp,2014-11-06T23:21:47.772Z,"southern Idaho",earthquake
+1978-03-22T15:31:26.600Z,-17.857,167.82,34,,,,,,,us,usp0000thq,2014-11-06T23:21:47.773Z,"Vanuatu",earthquake
+1978-03-22T15:45:20.300Z,64.879,-160.482,33,4.7,mb,,,,,us,usp0000thr,2014-11-06T23:21:47.775Z,"Central Alaska",earthquake
+1978-03-22T15:52:26.700Z,36.201,-81.73,1,2.9,,,,,,us,usp0000ths,2014-11-06T23:21:47.775Z,"Virginia-North Carolina border region",earthquake
+1978-03-22T16:07:33.400Z,-3.92,102.758,112,4.2,mb,,,,,us,usp0000tht,2014-11-06T23:21:47.776Z,"southern Sumatra, Indonesia",earthquake
+1978-03-22T16:37:42.500Z,-6.559,129.981,172,4.7,mb,,,,,us,usp0000thu,2014-11-06T23:21:47.777Z,"Banda Sea",earthquake
+1978-03-22T17:22:28.800Z,-7.08,123.256,556,5,mb,,,,,us,usp0000thv,2014-11-06T23:21:47.778Z,"Banda Sea",earthquake
+1978-03-22T17:29:57.200Z,-22.102,-138.561,0,4.8,mb,,,,,us,usp0000thw,2015-06-16T15:39:12.738Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion
+1978-03-22T19:23:20.800Z,44.306,149.018,49,4.5,mb,,,,,us,usp0000thx,2014-11-06T23:21:47.780Z,"Kuril Islands",earthquake
+1978-03-22T21:34:33.400Z,44.14,149.029,33,6.6,ms,,,,,us,usp0000thy,2015-05-13T18:53:14.000Z,"Kuril Islands",earthquake
+1978-03-22T22:10:46.900Z,43.982,149.165,33,5,mb,,,,,us,usp0000thz,2014-11-06T23:21:47.783Z,"east of the Kuril Islands",earthquake
+1978-03-22T22:14:51.700Z,12.218,144.042,33,5,mb,,,,,us,usp0000tj0,2014-11-06T23:21:47.783Z,"Guam region",earthquake
+1978-03-22T23:09:42.000Z,-5.641,146.608,115,,,,,,,us,usp0000tj1,2014-11-06T23:21:47.784Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1978-03-23T00:18:44.700Z,44.04,149.233,33,4.5,mb,,,,,us,usp0000tj2,2014-11-06T23:21:47.785Z,"Kuril Islands",earthquake
+1978-03-23T00:31:02.100Z,44.209,148.971,46,6.8,ms,,,,,us,usp0000tj3,2015-05-13T18:53:14.000Z,"Kuril Islands",earthquake
+1978-03-23T00:36:35.400Z,44.021,148.819,54,5.6,mb,,,,,us,usp0000tj4,2015-05-13T18:53:14.000Z,"Kuril Islands",earthquake
+1978-03-23T00:39:41.000Z,44.216,149.27,33,5.6,mb,,,,,us,usp0000tj5,2015-05-13T18:53:14.000Z,"Kuril Islands",earthquake
+1978-03-23T00:46:35.000Z,44.112,149.09,47,5.3,mb,,,,,us,usp0000tj6,2014-11-06T23:21:47.789Z,"Kuril Islands",earthquake
+1978-03-23T00:54:26.600Z,44.287,149.062,49,5.2,mb,,,,,us,usp0000tj7,2014-11-06T23:21:47.790Z,"Kuril Islands",earthquake
+1978-03-23T01:04:44.800Z,44.255,149.144,33,5.3,mb,,,,,us,usp0000tj8,2014-11-06T23:21:47.791Z,"Kuril Islands",earthquake
+1978-03-23T01:12:17.500Z,44.322,148.975,33,4.8,mb,,,,,us,usp0000tj9,2014-11-06T23:21:47.793Z,"Kuril Islands",earthquake
+1978-03-23T01:24:02.300Z,44.247,148.895,47,4.5,mb,,,,,us,usp0000tja,2014-11-06T23:21:47.793Z,"Kuril Islands",earthquake
+1978-03-23T01:49:33.800Z,43.855,148.939,33,6.4,ms,,,,,us,usp0000tjb,2015-05-13T18:53:14.000Z,"east of the Kuril Islands",earthquake
+1978-03-23T01:54:29.800Z,44.104,148.949,33,5.2,mb,,,,,us,usp0000tjc,2014-11-06T23:21:47.796Z,"Kuril Islands",earthquake
+1978-03-23T02:06:28.000Z,43.653,11.247,10,3.5,mb,,,,,us,usp0000tjd,2014-11-06T23:21:47.797Z,"central Italy",earthquake
+1978-03-23T02:37:00.900Z,44.196,148.731,50,5.8,mb,,,,,us,usp0000tje,2015-05-13T18:53:14.000Z,"Kuril Islands",earthquake
+1978-03-23T02:59:25.500Z,44.277,149.136,33,4.6,mb,,,,,us,usp0000tjf,2014-11-06T23:21:47.798Z,"Kuril Islands",earthquake
+1978-03-23T03:14:23.300Z,44.288,149.126,33,5.9,mb,,,,,us,usp0000tjg,2015-05-13T18:53:14.000Z,"Kuril Islands",earthquake
+1978-03-23T03:15:20.300Z,44.932,148.439,33,7.5,ms,,,,,us,usp0000tjh,2015-05-13T18:53:14.000Z,"Kuril Islands",earthquake
+1978-03-23T03:24:25.200Z,43.922,149.144,33,5.5,mb,,,,,us,usp0000tjj,2014-11-06T23:21:47.802Z,"east of the Kuril Islands",earthquake
+1978-03-23T03:48:16.200Z,44.047,149.057,33,4.6,mb,,,,,us,usp0000tjk,2014-11-06T23:21:47.803Z,"Kuril Islands",earthquake
+1978-03-23T03:49:27.700Z,44.376,149.472,33,5.3,mb,,,,,us,usp0000tjm,2014-11-06T23:21:47.803Z,"Kuril Islands",earthquake
+1978-03-23T03:50:52.500Z,44.376,149.58,50,6,mb,,,,,us,usp0000tjn,2015-07-13T17:02:24.000Z,"Kuril Islands",earthquake
+1978-03-23T04:03:30.400Z,44.496,149.472,33,4.9,mb,,,,,us,usp0000tjp,2014-11-06T23:21:47.806Z,"Kuril Islands",earthquake
+1978-03-23T04:13:39.800Z,44.191,149.355,33,4.9,mb,,,,,us,usp0000tjq,2014-11-06T23:21:47.808Z,"Kuril Islands",earthquake
+1978-03-23T04:25:25.100Z,44.333,149.637,33,5.2,mb,,,,,us,usp0000tjr,2014-11-06T23:21:47.808Z,"Kuril Islands",earthquake
+1978-03-23T04:34:12.600Z,44.117,148.848,33,4.5,mb,,,,,us,usp0000tjs,2014-11-06T23:21:47.810Z,"Kuril Islands",earthquake
+1978-03-23T04:36:43.500Z,44.437,149.435,33,4.6,mb,,,,,us,usp0000tjt,2014-11-06T23:21:47.811Z,"Kuril Islands",earthquake
+1978-03-23T04:48:16.200Z,44.183,149.467,43,4.8,mb,,,,,us,usp0000tju,2014-11-06T23:21:47.812Z,"Kuril Islands",earthquake
+1978-03-23T05:12:54.200Z,44.207,149.621,43,5,mb,,,,,us,usp0000tjv,2014-11-06T23:21:47.813Z,"Kuril Islands",earthquake
+1978-03-23T05:19:31.300Z,44.212,149.202,33,4.3,mb,,,,,us,usp0000tjw,2014-11-06T23:21:47.813Z,"Kuril Islands",earthquake
+1978-03-23T05:23:16.900Z,44.101,149.151,33,5,mb,,,,,us,usp0000tjx,2014-11-06T23:21:47.815Z,"Kuril Islands",earthquake
+1978-03-23T05:38:30.800Z,44.342,149.207,41,4.9,mb,,,,,us,usp0000tjy,2014-11-06T23:21:47.821Z,"Kuril Islands",earthquake
+1978-03-23T05:42:46.200Z,44.103,149.784,33,4.9,mb,,,,,us,usp0000tjz,2014-11-06T23:21:47.821Z,"Kuril Islands",earthquake
+1978-03-23T06:05:43.900Z,44.266,149.699,33,5,mb,,,,,us,usp0000tk0,2014-11-06T23:21:47.823Z,"Kuril Islands",earthquake
+1978-03-23T06:34:27.100Z,44.265,149.173,50,4.6,mb,,,,,us,usp0000tk1,2014-11-06T23:21:47.824Z,"Kuril Islands",earthquake
+1978-03-23T07:03:56.300Z,43.925,148.898,33,5.1,mb,,,,,us,usp0000tk2,2014-11-06T23:21:47.826Z,"east of the Kuril Islands",earthquake
+1978-03-23T07:23:13.400Z,52.01,-169.465,23,5.8,ms,,,,,us,usp0000tk3,2015-05-13T18:53:14.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1978-03-23T07:32:15.700Z,44.143,148.756,48,5.1,mb,,,,,us,usp0000tk4,2014-11-06T23:21:47.827Z,"Kuril Islands",earthquake
+1978-03-23T07:52:07.900Z,44.506,149.341,49,4.9,mb,,,,,us,usp0000tk5,2014-11-06T23:21:47.828Z,"Kuril Islands",earthquake
+1978-03-23T08:14:31.900Z,44.318,149.064,48,5.9,ms,,,,,us,usp0000tk6,2015-05-13T18:53:14.000Z,"Kuril Islands",earthquake
+1978-03-23T08:50:58.900Z,44.006,149.236,33,4.6,mb,,,,,us,usp0000tk7,2014-11-06T23:21:47.831Z,"Kuril Islands",earthquake
+1978-03-23T08:55:26.800Z,44.204,148.722,41,4.8,mb,,,,,us,usp0000tk8,2014-11-06T23:21:47.831Z,"Kuril Islands",earthquake
+1978-03-23T09:19:09.200Z,43.978,149.07,49,4.9,mb,,,,,us,usp0000tk9,2014-11-06T23:21:47.832Z,"east of the Kuril Islands",earthquake
+1978-03-23T09:48:52.100Z,44.408,149.459,33,4.7,mb,,,,,us,usp0000tka,2014-11-06T23:21:47.833Z,"Kuril Islands",earthquake
+1978-03-23T09:52:05.500Z,44.112,149.382,44,4.6,mb,,,,,us,usp0000tkb,2014-11-06T23:21:47.834Z,"Kuril Islands",earthquake
+1978-03-23T10:52:20.500Z,44.41,149.696,51,4.7,mb,,,,,us,usp0000tkc,2014-11-06T23:21:47.835Z,"Kuril Islands",earthquake
+1978-03-23T11:14:29.600Z,27.271,53.247,33,4.6,mb,,,,,us,usp0000tkd,2014-11-06T23:21:47.836Z,"southern Iran",earthquake
+1978-03-23T11:26:37.100Z,44.39,149.672,45,4.9,mb,,,,,us,usp0000tke,2014-11-06T23:21:47.837Z,"Kuril Islands",earthquake
+1978-03-23T13:10:50.000Z,44.411,149.668,33,4.8,mb,,,,,us,usp0000tkf,2014-11-06T23:21:47.838Z,"Kuril Islands",earthquake
+1978-03-23T13:22:58.300Z,44.368,149.674,43,5.1,mb,,,,,us,usp0000tkg,2014-11-06T23:21:47.839Z,"Kuril Islands",earthquake
+1978-03-23T13:49:44.500Z,44.26,149.423,50,5.1,ms,,,,,us,usp0000tkh,2014-11-06T23:21:47.840Z,"Kuril Islands",earthquake
+1978-03-23T14:07:15.500Z,44.09,149.277,33,4.8,mb,,,,,us,usp0000tkj,2014-11-06T23:21:47.841Z,"Kuril Islands",earthquake
+1978-03-23T14:18:39.700Z,44.095,149.623,33,4.7,mb,,,,,us,usp0000tkk,2014-11-06T23:21:47.842Z,"Kuril Islands",earthquake
+1978-03-23T14:52:20.200Z,7.628,-37.341,10,4.8,mb,,,,,us,usp0000tkm,2014-11-06T23:21:47.843Z,"central Mid-Atlantic Ridge",earthquake
+1978-03-23T15:07:15.700Z,44.224,149.2,33,4.6,mb,,,,,us,usp0000tkn,2014-11-06T23:21:47.844Z,"Kuril Islands",earthquake
+1978-03-23T15:09:16.900Z,44.123,148.983,44,4.8,mb,,,,,us,usp0000tkp,2014-11-06T23:21:47.845Z,"Kuril Islands",earthquake
+1978-03-23T15:16:54.400Z,44.795,149.049,33,4.9,mb,,,,,us,usp0000tkq,2014-11-06T23:21:47.846Z,"Kuril Islands",earthquake
+1978-03-23T15:42:19.500Z,44.276,149.863,33,4.6,mb,,,,,us,usp0000tkr,2014-11-06T23:21:47.847Z,"Kuril Islands",earthquake
+1978-03-23T16:05:07.600Z,44.406,148.889,33,4.4,mb,,,,,us,usp0000tks,2014-11-06T23:21:47.848Z,"Kuril Islands",earthquake
+1978-03-23T16:22:59.300Z,44.292,149.829,33,5.2,mb,,,,,us,usp0000tkt,2014-11-06T23:21:47.849Z,"Kuril Islands",earthquake
+1978-03-23T16:30:00.200Z,37.102,-116.051,0,5.6,mb,,,,,us,usp0000tku,2015-06-16T17:22:04.488Z,"Nevada",nuclear explosion
+1978-03-23T16:50:07.500Z,44.252,149.231,33,4.5,mb,,,,,us,usp0000tkv,2014-11-06T23:21:47.852Z,"Kuril Islands",earthquake
+1978-03-23T16:52:35.200Z,44.254,149.588,46,5.4,mb,,,,,us,usp0000tkw,2014-11-06T23:21:47.854Z,"Kuril Islands",earthquake
+1978-03-23T17:27:06.000Z,44.001,149.511,33,4.9,mb,,,,,us,usp0000tkx,2014-11-06T23:21:47.854Z,"Kuril Islands",earthquake
+1978-03-23T18:28:51.900Z,44.235,148.935,33,4.4,mb,,,,,us,usp0000tky,2014-11-06T23:21:47.855Z,"Kuril Islands",earthquake
+1978-03-23T18:45:39.300Z,43.64,16.693,33,4.2,mb,,,,,us,usp0000tkz,2014-11-06T23:21:47.856Z,"Croatia",earthquake
+1978-03-23T19:12:23.600Z,44.343,149.737,33,6.8,ms,,,,,us,usp0000tm0,2015-05-13T18:53:14.000Z,"Kuril Islands",earthquake
+1978-03-23T19:21:00.100Z,44.34,149.777,33,5.2,mb,,,,,us,usp0000tm1,2014-11-06T23:21:47.858Z,"Kuril Islands",earthquake
+1978-03-23T19:46:24.400Z,44.375,149.672,33,5.4,mb,,,,,us,usp0000tm2,2014-11-06T23:21:47.859Z,"Kuril Islands",earthquake
+1978-03-23T20:21:13.800Z,44.292,149.579,45,5.2,mb,,,,,us,usp0000tm3,2014-11-06T23:21:47.860Z,"Kuril Islands",earthquake
+1978-03-23T21:13:15.800Z,44.521,79.353,33,4.7,mb,,,,,us,usp0000tm4,2014-11-06T23:21:47.861Z,"eastern Kazakhstan",earthquake
+1978-03-23T21:44:50.200Z,-24.784,-179.903,475,5.5,mb,,,,,us,usp0000tm5,2015-05-13T18:53:14.000Z,"south of the Fiji Islands",earthquake
+1978-03-23T21:51:58.500Z,37.639,141.72,57,,,,,,,us,usp0000tm6,2014-11-06T23:21:47.863Z,"near the east coast of Honshu, Japan",earthquake
+1978-03-23T23:33:01.700Z,44.432,149.911,42,5.2,mb,,,,,us,usp0000tm7,2014-11-06T23:21:47.864Z,"Kuril Islands",earthquake
+1978-03-24T00:31:22.100Z,-5.22,-75.586,42,5.3,mb,,,,,us,usp0000tm8,2014-11-06T23:21:47.865Z,"northern Peru",earthquake
+1978-03-24T00:42:36.300Z,29.801,-67.4,20,6.1,mb,,,,,us,usp0000tm9,2015-05-13T18:53:14.000Z,"North Atlantic Ocean",earthquake
+1978-03-24T01:49:39.600Z,44.415,148.951,33,4.4,mb,,,,,us,usp0000tma,2014-11-06T23:21:47.867Z,"Kuril Islands",earthquake
+1978-03-24T02:34:15.600Z,35.39,133.803,7,,,,,,,us,usp0000tmb,2014-11-06T23:21:47.868Z,"western Honshu, Japan",earthquake
+1978-03-24T04:38:11.400Z,38.135,21.977,33,3.4,ml,,,,,us,usp0000tmc,2014-11-06T23:21:47.869Z,"Greece",earthquake
+1978-03-24T05:22:09.900Z,52.218,-169.518,33,4.7,mb,,,,,us,usp0000tmd,2014-11-06T23:21:47.870Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1978-03-24T05:32:31.500Z,29.646,-67.381,33,,,,,,,us,usp0000tme,2014-11-06T23:21:47.871Z,"North Atlantic Ocean",earthquake
+1978-03-24T06:34:53.100Z,36.754,141.788,44,,,,,,,us,usp0000tmf,2014-11-06T23:21:47.872Z,"near the east coast of Honshu, Japan",earthquake
+1978-03-24T07:12:45.000Z,44.03,148.852,46,4.7,mb,,,,,us,usp0000tmg,2014-11-06T23:21:47.873Z,"Kuril Islands",earthquake
+1978-03-24T08:00:43.900Z,12.826,142.812,33,,,,,,,us,usp0000tmh,2014-11-06T23:21:47.874Z,"Mariana Islands region",earthquake
+1978-03-24T09:03:15.800Z,12.401,143.266,27,4.6,mb,,,,,us,usp0000tmj,2014-11-06T23:21:47.874Z,"Guam region",earthquake
+1978-03-24T09:13:41.100Z,44.174,149.419,33,4.4,mb,,,,,us,usp0000tmk,2014-11-06T23:21:47.876Z,"Kuril Islands",earthquake
+1978-03-24T10:47:49.200Z,-12.436,166.949,247,5,mb,,,,,us,usp0000tmm,2014-11-06T23:21:47.876Z,"Santa Cruz Islands",earthquake
+1978-03-24T10:58:45.500Z,-14.452,167.773,150,,,,,,,us,usp0000tmn,2014-11-06T23:21:47.877Z,"Vanuatu",earthquake
+1978-03-24T11:35:09.700Z,44.474,149.674,33,4.4,mb,,,,,us,usp0000tmp,2014-11-06T23:21:47.878Z,"Kuril Islands",earthquake
+1978-03-24T11:52:16.600Z,44.956,149.211,33,4.3,mb,,,,,us,usp0000tmq,2014-11-06T23:21:47.879Z,"Kuril Islands",earthquake
+1978-03-24T13:01:23.200Z,37.653,-1.687,10,,,,,,,us,usp0000tmr,2014-11-06T23:21:47.879Z,"Spain",earthquake
+1978-03-24T13:18:08.100Z,44.375,149.84,33,4.3,mb,,,,,us,usp0000tms,2014-11-06T23:21:47.881Z,"Kuril Islands",earthquake
+1978-03-24T13:38:05.100Z,29.558,-67.715,33,,,,,,,us,usp0000tmt,2014-11-06T23:21:47.881Z,"North Atlantic Ocean",earthquake
+1978-03-24T14:21:10.300Z,-31.172,-67.702,33,,,,,,,us,usp0000tmu,2014-11-06T23:21:47.883Z,"San Juan, Argentina",earthquake
+1978-03-24T14:23:16.800Z,44.08,148.821,40,4.8,mb,,,,,us,usp0000tmv,2014-11-06T23:21:47.884Z,"Kuril Islands",earthquake
+1978-03-24T18:30:08.400Z,44.139,148.827,48,4.9,mb,,,,,us,usp0000tmw,2014-11-06T23:21:47.884Z,"Kuril Islands",earthquake
+1978-03-24T18:35:02.500Z,47.208,-113.299,5,3.8,ml,,,,,us,usp0000tmx,2014-11-06T23:21:47.886Z,"western Montana",earthquake
+1978-03-24T19:47:50.700Z,44.244,148.862,33,7.6,ms,,,,,us,usp0000tmy,2015-05-13T18:53:14.000Z,"Kuril Islands",earthquake
+1978-03-24T20:00:20.500Z,43.653,148.587,44,5.6,mb,,,,,us,usp0000tmz,2014-11-06T23:21:47.888Z,"east of the Kuril Islands",earthquake
+1978-03-24T20:07:56.500Z,43.911,149.389,33,4.8,mb,,,,,us,usp0000tn0,2014-11-06T23:21:47.889Z,"east of the Kuril Islands",earthquake
+1978-03-24T20:16:36.100Z,44.312,148.658,33,5.2,mb,,,,,us,usp0000tn1,2014-11-06T23:21:47.891Z,"Kuril Islands",earthquake
+1978-03-24T20:18:17.800Z,45.634,148.791,33,5.1,mb,,,,,us,usp0000tn2,2014-11-06T23:21:47.891Z,"Kuril Islands",earthquake
+1978-03-24T20:31:09.000Z,43.857,148.803,33,5.5,mb,,,,,us,usp0000tn3,2014-11-06T23:21:47.893Z,"east of the Kuril Islands",earthquake
+1978-03-24T20:38:20.500Z,43.911,148.582,33,5,mb,,,,,us,usp0000tn4,2014-11-06T23:21:47.894Z,"east of the Kuril Islands",earthquake
+1978-03-24T20:48:11.700Z,43.906,148.691,33,4.9,mb,,,,,us,usp0000tn5,2014-11-06T23:21:47.894Z,"east of the Kuril Islands",earthquake
+1978-03-24T21:05:48.200Z,42.839,78.606,33,7.1,ms,,,,,us,usp0000tn6,2015-05-13T18:53:14.000Z,"Kyrgyzstan",earthquake
+1978-03-24T21:08:24.200Z,43.949,149.019,33,5,mb,,,,,us,usp0000tn7,2014-11-06T23:21:47.896Z,"east of the Kuril Islands",earthquake
+1978-03-24T21:13:43.400Z,44.08,148.912,33,5.4,mb,,,,,us,usp0000tn8,2014-11-06T23:21:47.897Z,"Kuril Islands",earthquake
+1978-03-24T21:19:54.600Z,43.911,148.656,33,5,mb,,,,,us,usp0000tn9,2014-11-06T23:21:47.898Z,"east of the Kuril Islands",earthquake
+1978-03-24T21:24:07.900Z,44.143,148.431,33,5.1,mb,,,,,us,usp0000tna,2014-11-06T23:21:47.899Z,"Kuril Islands",earthquake
+1978-03-24T21:25:18.300Z,44.101,148.773,33,5.2,mb,,,,,us,usp0000tnb,2014-11-06T23:21:47.899Z,"Kuril Islands",earthquake
+1978-03-24T21:45:40.800Z,43.948,148.744,43,4.8,mb,,,,,us,usp0000tnc,2014-11-06T23:21:47.901Z,"east of the Kuril Islands",earthquake
+1978-03-24T21:50:54.300Z,44.305,149.04,33,5.4,mb,,,,,us,usp0000tnd,2014-11-06T23:21:47.901Z,"Kuril Islands",earthquake
+1978-03-24T21:57:22.100Z,43.75,148.815,33,5.2,mb,,,,,us,usp0000tne,2014-11-06T23:21:47.902Z,"east of the Kuril Islands",earthquake
+1978-03-24T21:58:25.100Z,44.514,148.438,33,5,mb,,,,,us,usp0000tnf,2014-11-06T23:21:47.903Z,"Kuril Islands",earthquake
+1978-03-24T21:59:41.800Z,44.422,148.756,33,5.2,mb,,,,,us,usp0000tng,2014-11-06T23:21:47.904Z,"Kuril Islands",earthquake
+1978-03-24T22:04:50.300Z,43.923,148.585,48,4.6,mb,,,,,us,usp0000tnh,2014-11-06T23:21:47.905Z,"east of the Kuril Islands",earthquake
+1978-03-24T22:08:58.300Z,44.109,148.952,45,5.6,mb,,,,,us,usp0000tnj,2015-05-13T18:53:14.000Z,"Kuril Islands",earthquake
+1978-03-24T22:24:44.700Z,44.399,149.815,33,4.9,mb,,,,,us,usp0000tnk,2014-11-06T23:21:47.907Z,"Kuril Islands",earthquake
+1978-03-24T22:35:33.700Z,44.03,148.481,38,4.9,mb,,,,,us,usp0000tnm,2014-11-06T23:21:47.908Z,"Kuril Islands",earthquake
+1978-03-24T22:45:33.500Z,43.978,148.522,33,4.7,mb,,,,,us,usp0000tnn,2014-11-06T23:21:47.909Z,"east of the Kuril Islands",earthquake
+1978-03-24T22:53:38.700Z,43.976,148.916,46,5,mb,,,,,us,usp0000tnp,2014-11-06T23:21:47.911Z,"east of the Kuril Islands",earthquake
+1978-03-24T22:58:06.900Z,43.893,149.067,33,4.6,mb,,,,,us,usp0000tnq,2014-11-06T23:21:47.911Z,"east of the Kuril Islands",earthquake
+1978-03-24T22:59:12.800Z,44.329,149.181,33,4.9,mb,,,,,us,usp0000tnr,2014-11-06T23:21:47.912Z,"Kuril Islands",earthquake
+1978-03-24T23:02:01.700Z,44.296,149.038,33,4.9,mb,,,,,us,usp0000tns,2014-11-06T23:21:47.913Z,"Kuril Islands",earthquake
+1978-03-24T23:15:45.600Z,44.079,148.949,45,5.7,ms,,,,,us,usp0000tnt,2014-11-06T23:21:47.914Z,"Kuril Islands",earthquake
+1978-03-24T23:40:05.600Z,44.148,149.085,47,5,mb,,,,,us,usp0000tnu,2014-11-06T23:21:47.914Z,"Kuril Islands",earthquake
+1978-03-24T23:50:02.200Z,42.869,78.682,33,4.8,mb,,,,,us,usp0000tnv,2014-11-06T23:21:47.916Z,"Kyrgyzstan",earthquake
+1978-03-25T00:12:15.600Z,44.008,148.891,45,4.8,mb,,,,,us,usp0000tnw,2014-11-06T23:21:47.916Z,"Kuril Islands",earthquake
+1978-03-25T00:37:35.400Z,43.77,148.89,33,4.8,mb,,,,,us,usp0000tnx,2014-11-06T23:21:47.918Z,"east of the Kuril Islands",earthquake
+1978-03-25T00:38:12.500Z,43.729,148.561,37,5.3,mb,,,,,us,usp0000tny,2014-11-06T23:21:47.919Z,"east of the Kuril Islands",earthquake
+1978-03-25T00:44:40.200Z,44.001,148.984,33,5,mb,,,,,us,usp0000tnz,2014-11-06T23:21:47.919Z,"Kuril Islands",earthquake
+1978-03-25T00:59:06.200Z,44.39,149.493,47,4.3,mb,,,,,us,usp0000tp0,2014-11-06T23:21:47.921Z,"Kuril Islands",earthquake
+1978-03-25T01:08:31.700Z,44.014,148.709,43,4.5,mb,,,,,us,usp0000tp1,2014-11-06T23:21:47.921Z,"Kuril Islands",earthquake
+1978-03-25T01:25:04.600Z,44.183,148.892,57,5,mb,,,,,us,usp0000tp2,2014-11-06T23:21:47.922Z,"Kuril Islands",earthquake
+1978-03-25T01:31:31.200Z,43.772,149.223,33,5,mb,,,,,us,usp0000tp3,2014-11-06T23:21:47.923Z,"east of the Kuril Islands",earthquake
+1978-03-25T01:40:16.500Z,44.334,149.688,33,4.6,mb,,,,,us,usp0000tp4,2014-11-06T23:21:47.924Z,"Kuril Islands",earthquake
+1978-03-25T01:41:04.600Z,43.857,148.369,41,5.3,mb,,,,,us,usp0000tp5,2014-11-06T23:21:47.925Z,"east of the Kuril Islands",earthquake
+1978-03-25T01:47:52.600Z,44.039,148.42,33,4.6,mb,,,,,us,usp0000tp6,2014-11-06T23:21:47.926Z,"Kuril Islands",earthquake
+1978-03-25T02:25:19.200Z,42.819,78.722,29,4.9,mb,,,,,us,usp0000tp7,2014-11-06T23:21:47.926Z,"Kyrgyzstan",earthquake
+1978-03-25T02:27:18.100Z,44.67,148.64,33,4.2,mb,,,,,us,usp0000tp8,2014-11-06T23:21:47.928Z,"Kuril Islands",earthquake
+1978-03-25T02:39:41.900Z,44.336,148.929,33,4.3,mb,,,,,us,usp0000tp9,2014-11-06T23:21:47.928Z,"Kuril Islands",earthquake
+1978-03-25T02:55:04.200Z,16.53,40.259,10,5,mb,,,,,us,usp0000tpa,2014-11-06T23:21:47.929Z,"Red Sea",earthquake
+1978-03-25T03:01:59.700Z,44.68,147.491,33,4.3,mb,,,,,us,usp0000tpb,2014-11-06T23:21:47.930Z,"Kuril Islands",earthquake
+1978-03-25T03:32:46.400Z,43.988,149.406,42,4.5,mb,,,,,us,usp0000tpc,2014-11-06T23:21:47.931Z,"east of the Kuril Islands",earthquake
+1978-03-25T03:52:32.000Z,44.122,148.476,33,4.7,mb,,,,,us,usp0000tpd,2014-11-06T23:21:47.932Z,"Kuril Islands",earthquake
+1978-03-25T04:00:25.200Z,-32.525,-68.99,10,,,,,,,us,usp0000tpe,2014-11-06T23:21:47.933Z,"Mendoza, Argentina",earthquake
+1978-03-25T04:19:09.700Z,44.52,148.231,33,4.2,mb,,,,,us,usp0000tpf,2014-11-06T23:21:47.934Z,"Kuril Islands",earthquake
+1978-03-25T05:15:55.200Z,44.123,148.868,45,4.6,mb,,,,,us,usp0000tpg,2014-11-06T23:21:47.934Z,"Kuril Islands",earthquake
+1978-03-25T05:24:41.300Z,44.009,149.278,33,5.4,mb,,,,,us,usp0000tph,2014-11-06T23:21:47.936Z,"Kuril Islands",earthquake
+1978-03-25T05:45:51.400Z,44.041,148.398,42,4.9,mb,,,,,us,usp0000tpj,2014-11-06T23:21:47.936Z,"Kuril Islands",earthquake
+1978-03-25T05:53:58.800Z,12.391,143.355,33,4.2,mb,,,,,us,usp0000tpk,2014-11-06T23:21:47.938Z,"Guam region",earthquake
+1978-03-25T06:20:19.300Z,57.004,-154.169,33,4,mb,,,,,us,usp0000tpm,2014-11-06T23:21:47.939Z,"Kodiak Island region, Alaska",earthquake
+1978-03-25T06:28:01.300Z,42.895,78.904,16,4.4,mb,,,,,us,usp0000tpn,2014-11-06T23:21:47.939Z,"Kyrgyzstan",earthquake
+1978-03-25T07:10:02.600Z,44.023,148.556,44,4.9,mb,,,,,us,usp0000tpp,2014-11-06T23:21:47.941Z,"Kuril Islands",earthquake
+1978-03-25T07:17:20.600Z,44.158,148.985,44,4.3,mb,,,,,us,usp0000tpq,2014-11-06T23:21:47.941Z,"Kuril Islands",earthquake
+1978-03-25T07:32:44.900Z,44.41,149.483,33,4.3,mb,,,,,us,usp0000tpr,2014-11-06T23:21:47.942Z,"Kuril Islands",earthquake
+1978-03-25T07:54:28.600Z,44.72,148.768,33,4.9,mb,,,,,us,usp0000tps,2014-11-06T23:21:47.943Z,"Kuril Islands",earthquake
+1978-03-25T08:01:48.400Z,44.106,148.996,50,5.3,mb,,,,,us,usp0000tpt,2014-11-06T23:21:47.944Z,"Kuril Islands",earthquake
+1978-03-25T08:21:27.600Z,44.633,148.541,33,4.7,mb,,,,,us,usp0000tpu,2014-11-06T23:21:47.946Z,"Kuril Islands",earthquake
+1978-03-25T08:48:50.600Z,44.079,148.982,45,5,mb,,,,,us,usp0000tpv,2014-11-06T23:21:47.946Z,"Kuril Islands",earthquake
+1978-03-25T08:55:22.500Z,44.347,149.206,40,5,mb,,,,,us,usp0000tpw,2014-11-06T23:21:47.947Z,"Kuril Islands",earthquake
+1978-03-25T09:14:00.100Z,44.083,148.99,45,5.1,mb,,,,,us,usp0000tpx,2014-11-06T23:21:47.949Z,"Kuril Islands",earthquake
+1978-03-25T09:21:33.700Z,10.143,93.166,33,4.8,mb,,,,,us,usp0000tpy,2014-11-06T23:21:47.949Z,"Andaman Islands, India region",earthquake
+1978-03-25T09:56:56.500Z,44.348,148.361,33,4.7,mb,,,,,us,usp0000tpz,2014-11-06T23:21:47.951Z,"Kuril Islands",earthquake
+1978-03-25T11:00:02.400Z,43.909,148.35,44,5,mb,,,,,us,usp0000tq0,2014-11-06T23:21:47.951Z,"east of the Kuril Islands",earthquake
+1978-03-25T11:19:17.800Z,44.592,149.653,33,4.3,mb,,,,,us,usp0000tq1,2014-11-06T23:21:47.952Z,"Kuril Islands",earthquake
+1978-03-25T11:40:29.600Z,44.054,148.713,46,5.4,mb,,,,,us,usp0000tq2,2015-02-12T15:43:39.000Z,"Kuril Islands",earthquake
+1978-03-25T12:45:59.300Z,1.787,127.301,134,4.7,mb,,,,,us,usp0000tq3,2014-11-06T23:21:47.954Z,"Halmahera, Indonesia",earthquake
+1978-03-25T12:50:30.600Z,43.968,148.464,41,4.7,mb,,,,,us,usp0000tq4,2014-11-06T23:21:47.956Z,"east of the Kuril Islands",earthquake
+1978-03-25T13:54:02.900Z,44.161,148.657,33,4.5,mb,,,,,us,usp0000tq5,2014-11-06T23:21:47.977Z,"Kuril Islands",earthquake
+1978-03-25T14:41:21.800Z,44.124,148.964,33,4.4,mb,,,,,us,usp0000tq6,2014-11-06T23:21:47.979Z,"Kuril Islands",earthquake
+1978-03-25T15:09:07.600Z,44.019,148.738,33,5,mb,,,,,us,usp0000tq7,2014-11-06T23:21:47.979Z,"Kuril Islands",earthquake
+1978-03-25T15:09:32.800Z,-17.954,-177.884,592,4.9,mb,,,,,us,usp0000tq8,2014-11-06T23:21:47.981Z,"Fiji region",earthquake
+1978-03-25T15:21:43.400Z,43.803,148.783,33,4.8,mb,,,,,us,usp0000tq9,2014-11-06T23:21:47.982Z,"east of the Kuril Islands",earthquake
+1978-03-25T15:45:46.300Z,44.231,148.742,33,4.4,mb,,,,,us,usp0000tqa,2014-11-06T23:21:47.983Z,"Kuril Islands",earthquake
+1978-03-25T15:51:05.900Z,6.707,-72.837,169,4.7,mb,,,,,us,usp0000tqb,2014-11-06T23:21:47.984Z,"northern Colombia",earthquake
+1978-03-25T16:55:13.300Z,44.101,148.817,50,5.2,mb,,,,,us,usp0000tqc,2014-11-06T23:21:47.986Z,"Kuril Islands",earthquake
+1978-03-25T18:10:02.400Z,44.076,148.984,45,5,mb,,,,,us,usp0000tqd,2014-11-06T23:21:47.986Z,"Kuril Islands",earthquake
+1978-03-25T18:45:54.700Z,9.933,-84.182,37,4.3,mb,,,,,us,usp0000tqe,2014-11-06T23:21:47.987Z,"Costa Rica",earthquake
+1978-03-25T19:26:03.200Z,-21.03,-178.836,595,5.7,mb,,,,,us,usp0000tqf,2015-05-13T18:53:14.000Z,"Fiji region",earthquake
+1978-03-25T19:51:39.000Z,44.004,148.992,33,4.2,mb,,,,,us,usp0000tqg,2014-11-06T23:21:47.989Z,"Kuril Islands",earthquake
+1978-03-25T21:22:49.300Z,36.229,140.128,47,,,,,,,us,usp0000tqh,2014-11-06T23:21:47.991Z,"near the east coast of Honshu, Japan",earthquake
+1978-03-25T22:45:13.200Z,44.165,148.734,33,4.4,mb,,,,,us,usp0000tqj,2014-11-06T23:21:47.992Z,"Kuril Islands",earthquake
+1978-03-25T23:52:14.800Z,43.773,148.451,47,5.6,ms,,,,,us,usp0000tqk,2015-05-13T18:53:14.000Z,"east of the Kuril Islands",earthquake
+1978-03-26T00:05:54.500Z,-0.101,125.184,33,5.5,mb,,,,,us,usp0000tqm,2014-11-06T23:21:47.994Z,"Molucca Sea",earthquake
+1978-03-26T00:18:40.700Z,-21.231,-179.128,628,5.4,mb,,,,,us,usp0000tqn,2014-11-06T23:21:47.994Z,"Fiji region",earthquake
+1978-03-26T00:27:04.400Z,39.191,-123.2,10,4.9,mb,,,,,us,usp0000tqp,2015-03-25T16:30:16.413Z,"Northern California",earthquake
+1978-03-26T00:34:11.700Z,39.22,-123.18,5,3.1,ml,,,,,us,usp0000tqq,2014-11-06T23:21:47.997Z,"Northern California",earthquake
+1978-03-26T00:53:00.700Z,43.86,148.446,43,5,mb,,,,,us,usp0000tqr,2014-11-06T23:21:47.997Z,"east of the Kuril Islands",earthquake
+1978-03-26T01:19:09.700Z,39.191,-123.17,10,3.6,mb,,,,,us,usp0000tqs,2014-11-06T23:21:47.999Z,"Northern California",earthquake
+1978-03-26T02:14:27.000Z,-6.691,129.018,33,4.6,mb,,,,,us,usp0000tqt,2014-11-06T23:21:47.999Z,"Banda Sea",earthquake
+1978-03-26T02:29:16.600Z,39.2,-123.229,10,3.3,ml,,,,,us,usp0000tqu,2014-11-06T23:21:48.000Z,"Northern California",earthquake
+1978-03-26T02:51:55.200Z,43.957,149.002,33,4.8,mb,,,,,us,usp0000tqv,2014-11-06T23:21:48.001Z,"east of the Kuril Islands",earthquake
+1978-03-26T03:06:06.300Z,-6.732,147.933,83,,,,,,,us,usp0000tqw,2014-11-06T23:21:48.002Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1978-03-26T03:56:57.600Z,49.734,78.074,0,5.5,mb,,,,,us,usp0000tqx,2015-06-16T17:22:05.528Z,"eastern Kazakhstan",nuclear explosion
+1978-03-26T04:06:41.100Z,44.16,149.617,33,4.6,mb,,,,,us,usp0000tqy,2014-11-06T23:21:48.004Z,"Kuril Islands",earthquake
+1978-03-26T04:28:18.700Z,39.2,-123.209,10,3.5,ml,,,,,us,usp0000tqz,2014-11-06T23:21:48.004Z,"Northern California",earthquake
+1978-03-26T04:48:39.800Z,43.925,148.328,47,4.8,mb,,,,,us,usp0000tr0,2014-11-06T23:21:48.006Z,"east of the Kuril Islands",earthquake
+1978-03-26T06:00:16.600Z,44.519,149.679,33,5.4,mb,,,,,us,usp0000tr1,2014-11-06T23:21:48.007Z,"Kuril Islands",earthquake
+1978-03-26T06:07:10.100Z,-5.047,154.71,85,,,,,,,us,usp0000tr2,2014-11-06T23:21:48.007Z,"Bougainville region, Papua New Guinea",earthquake
+1978-03-26T06:50:28.600Z,4.745,125.422,50,5.2,mb,,,,,us,usp0000tr3,2014-11-06T23:21:48.009Z,"Kepulauan Sangihe, Indonesia",earthquake
+1978-03-26T07:09:57.700Z,44.461,149.675,41,4.9,mb,,,,,us,usp0000tr4,2014-11-06T23:21:48.009Z,"Kuril Islands",earthquake
+1978-03-26T07:21:17.800Z,4.751,125.421,28,5,mb,,,,,us,usp0000tr5,2014-11-06T23:21:48.010Z,"Kepulauan Sangihe, Indonesia",earthquake
+1978-03-26T07:31:08.600Z,44.391,149.904,33,4.4,mb,,,,,us,usp0000tr6,2014-11-06T23:21:48.011Z,"Kuril Islands",earthquake
+1978-03-26T07:36:00.200Z,44.507,149.749,33,4.8,mb,,,,,us,usp0000tr7,2014-11-06T23:21:48.012Z,"Kuril Islands",earthquake
+1978-03-26T07:46:08.700Z,-21.237,-178.834,565,5,mb,,,,,us,usp0000tr8,2014-11-06T23:21:48.014Z,"Fiji region",earthquake
+1978-03-26T07:54:20.900Z,-31.717,-67.667,10,4.6,mb,,,,,us,usp0000tr9,2014-11-06T23:21:48.015Z,"San Juan, Argentina",earthquake
+1978-03-26T08:07:49.200Z,36.167,139.009,86,,,,,,,us,usp0000tra,2014-11-06T23:21:48.016Z,"eastern Honshu, Japan",earthquake
+1978-03-26T08:28:01.300Z,-10.713,162.1,56,4.3,mb,,,,,us,usp0000trb,2014-11-06T23:21:48.017Z,"Solomon Islands",earthquake
+1978-03-26T08:51:23.800Z,42.815,78.784,24,5,mb,,,,,us,usp0000trc,2014-11-06T23:21:48.017Z,"Kyrgyzstan",earthquake
+1978-03-26T09:20:26.900Z,-6.499,153.271,10,5.3,mb,,,,,us,usp0000trd,2014-11-06T23:21:48.019Z,"New Britain region, Papua New Guinea",earthquake
+1978-03-26T09:30:29.500Z,63.279,-151.12,33,,,,,,,us,usp0000tre,2014-11-06T23:21:48.019Z,"Central Alaska",earthquake
+1978-03-26T10:13:36.400Z,-6.58,151.041,33,4.8,mb,,,,,us,usp0000trf,2014-11-06T23:21:48.020Z,"New Britain region, Papua New Guinea",earthquake
+1978-03-26T10:29:29.200Z,44.042,148.588,33,4.8,mb,,,,,us,usp0000trg,2014-11-06T23:21:48.021Z,"Kuril Islands",earthquake
+1978-03-26T10:46:28.600Z,-22.089,-174.459,45,5.1,mb,,,,,us,usp0000trh,2014-11-06T23:21:48.022Z,"Tonga region",earthquake
+1978-03-26T10:56:23.100Z,36.979,-117.486,5,3.2,ml,,,,,us,usp0000trj,2014-11-06T23:21:48.024Z,"Central California",earthquake
+1978-03-26T11:01:45.900Z,44.354,149.418,45,5.1,mb,,,,,us,usp0000trk,2014-11-06T23:21:48.024Z,"Kuril Islands",earthquake
+1978-03-26T12:53:06.900Z,37.248,71.597,130,4.4,mb,,,,,us,usp0000trm,2014-11-06T23:21:48.026Z,"Tajikistan",earthquake
+1978-03-26T13:24:38.000Z,6.251,-82.209,33,4.5,mb,,,,,us,usp0000trn,2014-11-06T23:21:48.026Z,"south of Panama",earthquake
+1978-03-26T13:56:30.100Z,41.181,22.699,10,3.1,mb,,,,,us,usp0000trp,2014-11-06T23:21:48.027Z,"Macedonia",earthquake
+1978-03-26T14:54:00.200Z,43.988,148.878,48,5.1,mb,,,,,us,usp0000trq,2014-11-06T23:21:48.028Z,"east of the Kuril Islands",earthquake
+1978-03-26T17:27:02.500Z,-20.773,-68.796,106,5,mb,,,,,us,usp0000trr,2014-11-06T23:21:48.029Z,"Tarapaca, Chile",earthquake
+1978-03-26T17:39:13.000Z,44.344,149.083,51,4.9,mb,,,,,us,usp0000trs,2014-11-06T23:21:48.031Z,"Kuril Islands",earthquake
+1978-03-26T18:35:55.200Z,-16.549,-70.94,240,4.4,mb,,,,,us,usp0000trt,2014-11-06T23:21:48.031Z,"southern Peru",earthquake
+1978-03-26T19:06:54.500Z,9.161,126.237,65,4.7,mb,,,,,us,usp0000tru,2014-11-06T23:21:48.032Z,"Mindanao, Philippines",earthquake
+1978-03-26T19:39:37.500Z,50.5,-129.793,10,3.9,mb,,,,,us,usp0000trv,2014-11-06T23:21:48.033Z,"Vancouver Island, Canada region",earthquake
+1978-03-26T19:57:21.200Z,18.061,-99.519,84,4.7,mb,,,,,us,usp0000trw,2014-11-06T23:21:48.034Z,"Guerrero, Mexico",earthquake
+1978-03-26T20:08:12.200Z,67.36,-146.074,33,,,,,,,us,usp0000trx,2014-11-06T23:21:48.036Z,"northern Alaska",earthquake
+1978-03-26T20:24:11.700Z,38.733,142.067,66,,,,,,,us,usp0000try,2014-11-06T23:21:48.036Z,"near the east coast of Honshu, Japan",earthquake
+1978-03-26T20:35:11.600Z,43.985,148.996,33,4.8,mb,,,,,us,usp0000trz,2014-11-06T23:21:48.037Z,"east of the Kuril Islands",earthquake
+1978-03-26T20:46:09.600Z,44.206,149.52,37,4.7,mb,,,,,us,usp0000ts0,2014-11-06T23:21:48.038Z,"Kuril Islands",earthquake
+1978-03-26T21:03:07.000Z,44.248,148.925,33,5.3,mb,,,,,us,usp0000ts1,2014-11-06T23:21:48.039Z,"Kuril Islands",earthquake
+1978-03-26T21:04:58.900Z,53.515,162.991,34,5.5,mb,,,,,us,usp0000ts2,2014-11-06T23:21:48.047Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake
+1978-03-26T21:24:42.600Z,-22.133,-174.263,33,5.2,ms,,,,,us,usp0000ts3,2014-11-06T23:21:48.052Z,"Tonga region",earthquake
+1978-03-26T22:09:13.000Z,44.813,148.547,33,4.4,mb,,,,,us,usp0000ts4,2014-11-06T23:21:48.058Z,"Kuril Islands",earthquake
+1978-03-26T22:36:54.600Z,-32.331,138.763,69,,,,,,,us,usp0000ts5,2014-11-06T23:21:48.064Z,"near the coast of South Australia",earthquake
+1978-03-26T22:59:40.400Z,42.888,78.594,25,4.6,mb,,,,,us,usp0000ts6,2014-11-06T23:21:48.069Z,"Kyrgyzstan",earthquake
+1978-03-26T23:02:38.300Z,43.871,148.779,33,4.7,mb,,,,,us,usp0000ts7,2014-11-06T23:21:48.075Z,"east of the Kuril Islands",earthquake
+1978-03-26T23:11:27.200Z,44.052,148.652,44,4.8,mb,,,,,us,usp0000ts8,2014-11-06T23:21:48.081Z,"Kuril Islands",earthquake
+1978-03-26T23:56:45.300Z,43.94,149.031,42,5.2,mb,,,,,us,usp0000ts9,2014-11-06T23:21:48.087Z,"east of the Kuril Islands",earthquake
+1978-03-27T01:58:55.000Z,-31.645,-68.296,10,,,,,,,us,usp0000tsa,2014-11-06T23:21:48.092Z,"San Juan, Argentina",earthquake
+1978-03-27T02:41:20.100Z,43.81,148.458,36,4.7,mb,,,,,us,usp0000tsb,2014-11-06T23:21:48.098Z,"east of the Kuril Islands",earthquake
+1978-03-27T04:27:01.100Z,34.851,-117.083,5,3.1,ml,,,,,us,usp0000tsc,2014-11-06T23:21:48.100Z,"Southern California",earthquake
+1978-03-27T04:29:13.700Z,36.982,-117.805,4,3.1,ml,,,,,us,usp0000tsd,2014-11-06T23:21:48.104Z,"Central California",earthquake
+1978-03-27T06:10:36.700Z,-20.316,-177.593,487,4.6,mb,,,,,us,usp0000tse,2014-11-06T23:21:48.111Z,"Fiji region",earthquake
+1978-03-27T06:16:53.200Z,36.289,71.554,200,3.6,mb,,,,,us,usp0000tsf,2014-11-06T23:21:48.116Z,"Afghanistan-Tajikistan-Pakistan region",earthquake
+1978-03-27T07:13:43.600Z,-20.476,-177.971,550,5.5,mb,,,,,us,usp0000tsg,2014-11-06T23:21:48.123Z,"Fiji region",earthquake
+1978-03-27T08:00:13.000Z,45.102,148.324,33,4.4,mb,,,,,us,usp0000tsh,2014-11-06T23:21:48.123Z,"Kuril Islands",earthquake
+1978-03-27T08:04:59.500Z,-11.299,118.493,35,5,mb,,,,,us,usp0000tsj,2014-11-06T23:21:48.124Z,"south of Sumbawa, Indonesia",earthquake
+1978-03-27T08:44:03.000Z,40.434,-124.314,14,3.2,ml,,,,,us,usp0000tsk,2014-11-06T23:21:48.126Z,"Northern California",earthquake
+1978-03-27T09:00:20.100Z,36.127,70.608,111,4.2,mb,,,,,us,usp0000tsm,2014-11-06T23:21:48.126Z,"Hindu Kush region, Afghanistan",earthquake
+1978-03-27T10:14:12.100Z,44.422,149.662,33,4.6,mb,,,,,us,usp0000tsn,2014-11-06T23:21:48.127Z,"Kuril Islands",earthquake
+1978-03-27T10:36:06.000Z,-8.583,125.103,69,5.9,mb,,,,,us,usp0000tsp,2015-05-13T18:53:14.000Z,"East Timor region",earthquake
+1978-03-27T10:36:12.000Z,32.3,-115.116,5,3.5,ml,,,,,us,usp0000tsq,2014-11-06T23:21:48.129Z,"Baja California, Mexico",earthquake
+1978-03-27T11:36:27.400Z,36.894,25.512,10,3.9,ml,,,,,us,usp0000tsr,2014-11-06T23:21:48.131Z,"Dodecanese Islands, Greece",earthquake
+1978-03-27T12:01:11.900Z,-7.422,129.276,143,5.4,mb,,,,,us,usp0000tss,2014-11-06T23:21:48.132Z,"Kepulauan Babar, Indonesia",earthquake
+1978-03-27T13:12:14.000Z,43.934,148.568,33,4.6,mb,,,,,us,usp0000tst,2014-11-06T23:21:48.134Z,"east of the Kuril Islands",earthquake
+1978-03-27T14:02:46.700Z,38.521,75.131,89,4.2,mb,,,,,us,usp0000tsu,2014-11-06T23:21:48.134Z,"southern Xinjiang, China",earthquake
+1978-03-27T15:06:01.500Z,-2.583,141.999,33,,,,,,,us,usp0000tsv,2014-11-06T23:21:48.136Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1978-03-27T16:15:34.600Z,39.142,-123.095,15,3,ml,,,,,us,usp0000tsw,2014-11-06T23:21:48.137Z,"Northern California",earthquake
+1978-03-27T18:24:13.200Z,43.976,149.04,33,4.2,mb,,,,,us,usp0000tsx,2014-11-06T23:21:48.137Z,"east of the Kuril Islands",earthquake
+1978-03-27T18:33:38.900Z,6.709,123.558,602,5.2,mb,,,,,us,usp0000tsy,2014-11-06T23:21:48.139Z,"Moro Gulf, Mindanao, Philippines",earthquake
+1978-03-27T18:51:13.900Z,43.966,149.091,39,4.5,mb,,,,,us,usp0000tsz,2014-11-06T23:21:48.140Z,"east of the Kuril Islands",earthquake
+1978-03-27T20:48:34.400Z,44.079,148.861,46,4.7,mb,,,,,us,usp0000tt0,2014-11-06T23:21:48.141Z,"Kuril Islands",earthquake
+1978-03-27T21:07:09.400Z,-9.896,125.479,33,4.7,mb,,,,,us,usp0000tt1,2014-11-06T23:21:48.142Z,"East Timor region",earthquake
+1978-03-27T21:15:21.400Z,46.351,13.074,10,,,,,,,us,usp0000tt2,2014-11-06T23:21:48.142Z,"Austria-Italy-Slovenia border region",earthquake
+1978-03-27T21:52:03.200Z,-5.231,127.348,381,5.2,mb,,,,,us,usp0000tt3,2015-05-13T18:53:14.000Z,"Banda Sea",earthquake
+1978-03-27T21:54:09.100Z,39.133,23.538,10,3.4,ml,,,,,us,usp0000tt4,2014-11-06T23:21:48.144Z,"Aegean Sea",earthquake
+1978-03-27T23:36:44.900Z,44.935,147.698,94,4.3,mb,,,,,us,usp0000tt5,2014-11-06T23:21:48.146Z,"Kuril Islands",earthquake
+1978-03-28T01:07:49.800Z,39.443,26.363,10,,,,,,,us,usp0000tt6,2014-11-06T23:21:48.147Z,"near the coast of western Turkey",earthquake
+1978-03-28T02:10:20.200Z,-6.304,147.56,83,4.9,mb,,,,,us,usp0000tt7,2014-11-06T23:21:48.147Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1978-03-28T02:38:47.300Z,44.494,149.192,33,4.5,mb,,,,,us,usp0000tt8,2014-11-06T23:21:48.149Z,"Kuril Islands",earthquake
+1978-03-28T03:54:39.700Z,42.765,12.663,10,4.3,ml,,,,,us,usp0000tt9,2014-11-06T23:21:48.149Z,"central Italy",earthquake
+1978-03-28T05:04:44.700Z,44.043,148.994,33,4.4,mb,,,,,us,usp0000tta,2014-11-06T23:21:48.151Z,"Kuril Islands",earthquake
+1978-03-28T09:01:56.300Z,14.044,-92.227,82,4.5,mb,,,,,us,usp0000ttb,2014-11-06T23:21:48.152Z,"offshore Guatemala",earthquake
+1978-03-28T10:25:05.600Z,24.327,94.325,108,4.3,mb,,,,,us,usp0000ttc,2014-11-06T23:21:48.153Z,"Myanmar-India border region",earthquake
+1978-03-28T10:28:50.800Z,59.054,-151.827,33,,,,,,,us,usp0000ttd,2014-11-06T23:21:48.154Z,"Kenai Peninsula, Alaska",earthquake
+1978-03-28T10:45:40.800Z,44.034,148.776,54,4.5,mb,,,,,us,usp0000tte,2014-11-06T23:21:48.154Z,"Kuril Islands",earthquake
+1978-03-28T11:01:01.800Z,43.941,149.086,33,5,mb,,,,,us,usp0000ttf,2014-11-06T23:21:48.156Z,"east of the Kuril Islands",earthquake
+1978-03-28T11:25:46.300Z,-5.354,145.93,162,,,,,,,us,usp0000ttg,2014-11-06T23:21:48.157Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1978-03-28T12:37:40.000Z,23.205,92.896,33,4.8,mb,,,,,us,usp0000tth,2014-11-06T23:21:48.158Z,"India-Bangladesh border region",earthquake
+1978-03-28T13:48:50.000Z,44.233,148.448,45,4.9,mb,,,,,us,usp0000ttj,2014-11-06T23:21:48.159Z,"Kuril Islands",earthquake
+1978-03-28T17:10:01.700Z,-31.76,-67.824,10,,,,,,,us,usp0000ttk,2014-11-06T23:21:48.160Z,"San Juan, Argentina",earthquake
+1978-03-28T18:48:48.300Z,-20.634,169.777,144,4.9,mb,,,,,us,usp0000ttm,2014-11-06T23:21:48.161Z,"Vanuatu",earthquake
+1978-03-28T20:17:05.800Z,48.764,154.918,53,5.8,ms,,,,,us,usp0000ttn,2015-05-13T18:53:14.000Z,"Kuril Islands",earthquake
+1978-03-28T21:00:07.800Z,36.127,139.896,54,,,,,,,us,usp0000ttp,2014-11-06T23:21:48.166Z,"eastern Honshu, Japan",earthquake
+1978-03-28T21:13:16.400Z,44.08,148.508,43,5.2,ms,,,,,us,usp0000ttq,2014-11-06T23:21:48.167Z,"Kuril Islands",earthquake
+1978-03-28T22:12:14.000Z,44.077,149.482,33,5.5,ms,,,,,us,usp0000ttr,2015-05-13T18:53:14.000Z,"Kuril Islands",earthquake
+1978-03-28T22:50:07.900Z,-23.171,170.068,53,5.3,mb,,,,,us,usp0000tts,2014-11-06T23:21:48.175Z,"southeast of the Loyalty Islands",earthquake
+1978-03-29T02:40:39.300Z,44.093,149.541,35,4.6,mb,,,,,us,usp0000ttt,2014-11-06T23:21:48.176Z,"Kuril Islands",earthquake
+1978-03-29T04:02:20.400Z,-6.053,148.599,64,5.4,mb,,,,,us,usp0000ttu,2015-05-13T18:53:14.000Z,"New Britain region, Papua New Guinea",earthquake
+1978-03-29T05:46:13.000Z,44.107,148.484,33,4.4,mb,,,,,us,usp0000ttv,2014-11-06T23:21:48.178Z,"Kuril Islands",earthquake
+1978-03-29T07:08:11.000Z,39.388,29.133,10,3.1,ml,,,,,us,usp0000ttw,2014-11-06T23:21:48.179Z,"western Turkey",earthquake
+1978-03-29T07:30:03.100Z,-8.967,-79.811,33,4.7,mb,,,,,us,usp0000ttx,2014-11-06T23:21:48.180Z,"near the coast of northern Peru",earthquake
+1978-03-29T09:00:42.500Z,32.75,88.358,33,4.3,mb,,,,,us,usp0000tty,2014-11-06T23:21:48.180Z,"western Xizang",earthquake
+1978-03-29T09:52:31.400Z,-9.628,159.415,541,5.1,mb,,,,,us,usp0000ttz,2014-11-06T23:21:48.182Z,"Solomon Islands",earthquake
+1978-03-29T09:59:34.300Z,-33.005,-178.879,33,5.3,mb,,,,,us,usp0000tu0,2014-11-06T23:21:48.182Z,"south of the Kermadec Islands",earthquake
+1978-03-29T11:55:59.300Z,38.745,142.116,53,,,,,,,us,usp0000tu1,2014-11-06T23:21:48.185Z,"near the east coast of Honshu, Japan",earthquake
+1978-03-29T12:16:38.400Z,48.204,-122.762,24,2.7,ml,,,,,us,usp0000tu2,2014-11-06T23:21:48.191Z,"Puget Sound region, Washington",earthquake
+1978-03-29T12:37:44.400Z,-21.972,-179.469,604,5.3,mb,,,,,us,usp0000tu3,2014-11-06T23:21:48.196Z,"Fiji region",earthquake
+1978-03-29T14:08:21.700Z,-21.569,-174.352,33,5,mb,,,,,us,usp0000tu4,2014-11-06T23:21:48.214Z,"Tonga",earthquake
+1978-03-29T14:10:07.400Z,46.201,141.729,37,4.8,mb,,,,,us,usp0000tu5,2014-11-06T23:21:48.215Z,"Sakhalin, Russia",earthquake
+1978-03-29T16:06:22.700Z,44.388,149.287,51,4.7,mb,,,,,us,usp0000tu6,2014-11-06T23:21:48.217Z,"Kuril Islands",earthquake
+1978-03-29T16:55:48.200Z,-19.643,169.119,94,5.9,mb,,,,,us,usp0000tu7,2015-05-13T18:53:14.000Z,"Vanuatu",earthquake
+1978-03-29T17:51:18.900Z,27.92,141.783,22,5.5,mb,,,,,us,usp0000tu8,2014-11-06T23:21:48.218Z,"Bonin Islands, Japan region",earthquake
+1978-03-29T21:51:57.500Z,50.548,6.589,10,4.4,mb,,,,,us,usp0000tu9,2014-11-06T23:21:48.219Z,"Germany",earthquake
+1978-03-29T22:00:26.700Z,-21.76,-174.011,33,5.7,ms,,,,,us,usp0000tua,2015-05-13T18:53:14.000Z,"Tonga",earthquake
+1978-03-29T23:33:18.100Z,47.278,11.211,10,3.3,ml,,,,,us,usp0000tub,2014-11-06T23:21:48.221Z,"Austria",earthquake
+1978-03-30T00:00:46.300Z,47.319,11.168,10,3.3,ml,,,,,us,usp0000tuc,2014-11-06T23:21:48.222Z,"Austria",earthquake
+1978-03-30T00:47:24.600Z,25.693,96.32,33,4.2,mb,,,,,us,usp0000tud,2014-11-06T23:21:48.223Z,"Myanmar",earthquake
+1978-03-30T01:23:24.300Z,30.778,49.613,70,,,,,,,us,usp0000tue,2014-11-06T23:21:48.224Z,"western Iran",earthquake
+1978-03-30T02:37:42.100Z,44.511,149.141,47,5.1,mb,,,,,us,usp0000tuf,2014-11-06T23:21:48.225Z,"Kuril Islands",earthquake
+1978-03-30T02:42:11.700Z,12.562,143.983,9,5.3,mb,,,,,us,usp0000tug,2014-11-06T23:21:48.225Z,"Guam region",earthquake
+1978-03-30T02:50:32.200Z,10.273,-62.65,137,4.3,mb,,,,,us,usp0000tuh,2014-11-06T23:21:48.227Z,"Gulf of Paria, Venezuela",earthquake
+1978-03-30T03:28:41.000Z,-20.621,-178.21,538,4.5,mb,,,,,us,usp0000tuj,2014-11-06T23:21:48.228Z,"Fiji region",earthquake
+1978-03-30T04:00:01.600Z,42.89,78.721,23,4.8,mb,,,,,us,usp0000tuk,2014-11-06T23:21:48.229Z,"Kyrgyzstan",earthquake
+1978-03-30T05:16:32.300Z,44.129,149.497,44,4.9,mb,,,,,us,usp0000tum,2014-11-06T23:21:48.230Z,"Kuril Islands",earthquake
+1978-03-30T07:27:36.000Z,-5.503,151.481,97,,,,,,,us,usp0000tun,2014-11-06T23:21:48.231Z,"New Britain region, Papua New Guinea",earthquake
+1978-03-30T08:28:47.800Z,43.883,149.131,33,4.6,mb,,,,,us,usp0000tup,2014-11-06T23:21:48.232Z,"east of the Kuril Islands",earthquake
+1978-03-30T11:57:35.700Z,-14.163,167.272,181,4.7,mb,,,,,us,usp0000tuq,2014-11-06T23:21:48.234Z,"Vanuatu",earthquake
+1978-03-30T12:32:31.100Z,44.136,149.385,46,4.9,mb,,,,,us,usp0000tur,2014-11-06T23:21:48.234Z,"Kuril Islands",earthquake
+1978-03-30T16:23:04.500Z,38.511,26.694,10,,,,,,,us,usp0000tus,2014-11-06T23:21:48.235Z,"near the coast of western Turkey",earthquake
+1978-03-30T16:26:15.900Z,43.432,149.952,33,4.5,mb,,,,,us,usp0000tut,2014-11-06T23:21:48.236Z,"east of the Kuril Islands",earthquake
+1978-03-30T18:18:14.900Z,37.433,20.518,33,3.8,mb,,,,,us,usp0000tuu,2014-11-06T23:21:48.237Z,"Ionian Sea",earthquake
+1978-03-30T19:30:12.600Z,15.047,-90.304,33,5.1,mb,,,,,us,usp0000tuv,2014-11-06T23:21:48.239Z,"Guatemala",earthquake
+1978-03-30T23:44:47.600Z,32.849,78.304,50,4.2,mb,,,,,us,usp0000tuw,2014-11-06T23:21:48.239Z,"Kashmir-Xizang border region",earthquake
+1978-03-31T00:19:06.200Z,60.329,-152.521,128,4.5,mb,,,,,us,usp0000tux,2014-11-06T23:21:48.240Z,"Southern Alaska",earthquake
+1978-03-31T00:38:13.400Z,61.766,-151.409,90,5.1,mb,,,,,us,usp0000tuy,2015-02-12T15:43:39.000Z,"Southern Alaska",earthquake
+1978-03-31T01:03:27.100Z,38.474,-123.395,2,3.6,ml,,,,,us,usp0000tuz,2014-11-06T23:21:48.242Z,"offshore Northern California",earthquake
+1978-03-31T03:22:16.800Z,14.591,119.954,57,5.3,mb,,,,,us,usp0000tv0,2014-11-06T23:21:48.242Z,"Luzon, Philippines",earthquake
+1978-03-31T03:58:39.500Z,43.295,82.805,33,4.7,mb,,,,,us,usp0000tv1,2014-11-06T23:21:48.244Z,"northern Xinjiang, China",earthquake
+1978-03-31T07:01:55.500Z,-6.497,154.882,44,5.4,mb,,,,,us,usp0000tv2,2015-05-13T18:53:14.000Z,"Bougainville region, Papua New Guinea",earthquake
+1978-03-31T08:03:00.200Z,47.417,-122.715,23,4.2,ml,,,,,us,usp0000tv3,2014-11-06T23:21:48.245Z,"Puget Sound region, Washington",earthquake
+1978-03-31T08:54:32.700Z,19.209,144.763,397,4.8,mb,,,,,us,usp0000tv4,2014-11-06T23:21:48.246Z,"Maug Islands region, Northern Mariana Islands",earthquake
+1978-03-31T13:37:04.900Z,33.089,140.519,68,5,mb,,,,,us,usp0000tv5,2014-11-06T23:21:48.247Z,"Izu Islands, Japan region",earthquake
+1978-03-31T13:37:25.900Z,-6.234,153.252,33,5.2,mb,,,,,us,usp0000tv6,2014-11-06T23:21:48.249Z,"New Britain region, Papua New Guinea",earthquake
+1978-03-31T13:49:57.800Z,9.176,125.599,106,4.2,mb,,,,,us,usp0000tv7,2014-11-06T23:21:48.249Z,"Mindanao, Philippines",earthquake
+1978-03-31T14:27:57.000Z,43.1,-71.629,0,2.7,,,,,,us,usp0000tv8,2014-11-06T23:21:48.252Z,"New Hampshire",earthquake
+1978-03-31T17:36:28.200Z,53.387,108.51,33,4.4,mb,,,,,us,usp0000tv9,2014-11-06T23:21:48.252Z,"Lake Baykal region, Russia",earthquake
+1978-03-31T19:20:21.100Z,24.908,94.624,33,4.6,mb,,,,,us,usp0000tva,2014-11-06T23:21:48.253Z,"Myanmar-India border region",earthquake
+1978-03-31T19:34:26.900Z,-4.642,152.396,45,,,,,,,us,usp0000tvb,2014-11-06T23:21:48.254Z,"New Britain region, Papua New Guinea",earthquake
+1978-03-31T20:46:36.900Z,-5.518,152.099,43,5.3,mb,,,,,us,usp0000tvc,2014-11-06T23:21:48.255Z,"New Britain region, Papua New Guinea",earthquake
